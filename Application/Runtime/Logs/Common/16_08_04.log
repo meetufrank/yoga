@@ -1,0 +1,12 @@
+[ 2016-08-04T17:14:33+08:00 ] ::1 /yogadatas/index.php/news_runedit/ad_id/$activedata.ad_id.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:News_runedit
+
+[ 2016-08-04T17:15:00+08:00 ] ::1 /yogadatas/index.php/news_runedit/ad_id/$activedata.ad_id.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:News_runedit
+

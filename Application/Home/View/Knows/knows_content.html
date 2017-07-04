@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+ <link rel="stylesheet" type="text/css" href="__PUBLIC__/yoga/js/jquery.webui-popover.min.css">
+
+
+
+
+  <title>{$knows.ms_title}</title>
+  <include file="Common:top"/>
+   <style type="text/css">
+    html,
+    body {
+      height: 100%;
+      position: relative;
+      overflow-x: visible;
+    }
+    .backto-top {
+		bottom: 70px;
+    }
+img,video,embed,iframe,ul{
+       max-width: 100%; /*图片自适应宽度*/
+       height:auto;
+
+       }
+
+
+.knowlg-detail-content a,.knowlg-detail-content p {word-break:break-all;}
+
+  </style>
+</head>
+<body>
+<div class="knowlg-detail">
+  <div class="knowlg-detail-header">
+    <h2>{$knows.ms_title}</h2>
+    <div class="knowlg-detail-data clearfix">
+      <div class="knowlg-time"><img style="width: 16px;" src="__PUBLIC__/yoga/img/time.png" alt="">&nbsp;<span>{$knows.ms_addtime}</span></div>
+      <div class="knowlg-icon-wrapper">
+        <div class="knowlg-view" ><img src="__PUBLIC__/yoga/img/icon1.png" alt="">&nbsp;<span>{$knows.ms_readnum}</span></div>
+        <div class="knowlg-praise" id="agree"><img src="__PUBLIC__/yoga/img/icon2.png" alt="">&nbsp;<span id="agnum">{$knows.ms_agreenum}</span></div>
+        <div class="knowlg-like" id="save"><img src="__PUBLIC__/yoga/img/icon3.png" alt="">&nbsp;<span id="sanum">{$knows.ms_savenum}</span></div>
+      </div>
+    </div>
+  </div>
+  <div class="knowlg-detail-body">
+    <div class="knowlg-image-wrapper">
+      <img src="__PUBLIC__{$knows.ms_photo}" alt="{$knows.ms_title}">
+    </div>
+
+
+    <div class="knowlg-detail-content">
+       <p style="border:1px solid #DCDCDC;line-height:30px;padding-left:10px;padding-top:5px;padding-right:10px;padding-bottom:5px;"><span style="font-weight:bolder;">简介:</span><span style="color:#A9A9A9;">{$knows.ms_say}</span></p>
+        <div class="ms_content"></div>
+    </div>
+
+    <script src="__PUBLIC__/ueditor/ueditor.config.js" type="text/javascript"></script>
+    <script src="__PUBLIC__/ueditor/ueditor.all.js" type="text/javascript"></script>
+
+    <script type="text/javascript">
+          var str="{$knows.ms_content}";
+
+
+          $(".ms_content").html( UE.utils.html( str ) );
+      </script>
+    <div class="knowlg-detail-action">
+
+      <a class="knowlg-detail-action-item knowlg-detail-share" href="#" role="button" data-toggle="popover" data-placement="bottom" >
+        <img src="__PUBLIC__/yoga/img/share1.png" alt="">
+      </a>
+       <div class="webui-popover-content">
+      </div>
+      <a class="knowlg-detail-action-item knowlg-detail-praise" href="#">
+        <img <if condition="$agree eq 1">src="__PUBLIC__/yoga/img/praise2.png"<else/>src="__PUBLIC__/yoga/img/praise1.png" </if> alt="">
+      </a>
+      <a class="knowlg-detail-action-item knowlg-detail-like" href="#">
+        <img   <if condition="$save_status eq 1">src="__PUBLIC__/yoga/img/like2.png"<else/>src="__PUBLIC__/yoga/img/like1.png" </if> alt="" >
+      </a>
+    </div>
+
+
+    <div class="hidden-image-container">
+      <img class="show-share" src="__PUBLIC__/yoga/img/share2.png" alt="">
+      <img class="hide-share" src="__PUBLIC__/yoga/img/share1.png" alt="">
+      <img class="hide-praise" src="__PUBLIC__/yoga/img/praise1.png" alt="">
+      <img class="show-praise" src="__PUBLIC__/yoga/img/praise2.png" alt="">
+      <img class="show-like" src="__PUBLIC__/yoga/img/like2.png" alt="">
+      <img class="hide-like" src="__PUBLIC__/yoga/img/like1.png" alt="">
+    </div>
+
+  </div>
+</div>
+<div class="backto-top">
+  <a href="#"><img src="__PUBLIC__/yoga/img/up.png" alt=""></a>
+</div>
+
+
+  <script type="text/javascript" src="__PUBLIC__/yoga/js/jquery.qrcode.js"></script>
+    <script type="text/javascript" src="__PUBLIC__/yoga/js/qrcode.js"></script>
+    <script type="text/javascript" src="__PUBLIC__/yoga/js/jquery.cookie.js"></script>
+   <script type="text/javascript" src="__PUBLIC__/yoga/js/jquery.webui-popover.min.js"></script>
+
+
+    <script type="text/javascript">
+    $(function() {
+        $(window).resize(function() {
+          var width = $('.knowlg-detail-body').width();
+          $('.knowlg-detail-content')
+            .find('img, video')
+            .each(function() {
+              if ($(this).width() > width) {
+                $(this.width("100%"));
+              }
+            })
+        }).trigger('resize');
+
+    $('#back').click(function(e) {
+    	e.preventDefault();
+    	 var cookie=$.cookie('knows_back');
+    	 if(cookie=='1'){
+    		 $.cookie('knows_back', null);
+    		 window.location.href="{:U('Knows/knowsload')}";
+
+    	 }else{
+    		 window.history.go(-1);
+    	 }
+
+
+
+
+    })
+
+ 	/* 分享，点赞，收藏 */
+ var $hidden_image_container = $('.hidden-image-container');
+    if ($hidden_image_container) {
+     var show_share = $hidden_image_container.find('.show-share').attr('src');
+     var hide_share = $hidden_image_container.find('.hide-share').attr('src');
+     var hide_praise = $hidden_image_container.find('.hide-praise').attr('src');
+     var show_praise = $hidden_image_container.find('.show-praise').attr('src');
+     var show_like = $hidden_image_container.find('.show-like').attr('src');
+     var hide_like = $hidden_image_container.find('.hide-like').attr('src');
+
+     $('.knowlg-detail-share').webuiPopover({
+
+     });
+   $('.webui-popover-content').qrcode({
+	        text: window.location.href,//二维码代表的字符串（本页面的URL）
+	        width: 167,//二维码宽度
+	        height: 167//二维码高度
+	    })
+		 $('.knowlg-detail-share')
+	      .click(function(e) {
+	         e.preventDefault();
+	         if ($(this).hasClass('active')) {
+	           $(this).removeClass('active');
+	           $(this).find('img').attr('src', hide_share);
+	         } else {
+
+	           $(this).addClass('active');
+	           $(this).find('img').attr('src', show_share);
+	         }
+	      });
+ 		$('.knowlg-detail-praise').click(function(e) {
+ 			e.preventDefault();
+ 			var $that = $(this);
+ 			$.post('{:U("knows/addagree")}',
+					  {id:{$knows.ms_id}},
+				function(data){
+
+					if(data.status){
+
+						var v=$('#agnum').html();
+
+
+						if(data.info=='取消点赞'){
+							var vl=parseInt(v)-1;
+							$that.removeClass('active');
+							$that.find('img').attr('src', hide_praise);
+							layer.alert(data.info, {icon: 6}, function(index){
+					 			layer.close(index);
+
+								});
+							$('#agree').find("span").text(vl);//页面元素减1
+						}else{
+							var vl=parseInt(v)+1;
+							$that.addClass('active');
+							$that.find('img').attr('src', show_praise);
+							layer.alert(data.info, {icon: 6}, function(index){
+					 			layer.close(index);
+
+								});
+							$('#agree').find("span").text(vl);//页面元素加1
+
+						}
+
+					}
+				});
+
+ 		});
+ 		$('.knowlg-detail-like').click(function(e) {
+ 			e.preventDefault();
+ 			var $that = $(this);
+ 			$.post('{:U("knows/addsave")}',
+					  {id:{$knows.ms_id}},
+				function(data){
+
+					if(data.status){
+
+						var v=$('#sanum').html();
+						if(data.info=='取消收藏'){
+							var vl=parseInt(v)-1;
+							$that.removeClass('active');
+							$that.find('img').attr('src', hide_like);
+							layer.alert(data.info, {icon: 6}, function(index){
+					 			layer.close(index);
+
+								});
+							$('#save').find("span").text(vl);//页面元素减1
+						}else{
+							var vl=parseInt(v)+1;
+							$that.addClass('active');
+							$that.find('img').attr('src', show_like);
+							layer.alert(data.info, {icon: 6}, function(index){
+					 			layer.close(index);
+
+								});
+							$('#save').find("span").text(vl);//页面元素加1
+						}
+
+					}else{
+						layer.alert(data.info, {icon: 6}, function(index){
+				 			layer.close(index);
+				 			window.location.href=data.url;
+
+							});
+
+					}
+				});
+
+ 		});
+
+
+ 	}
+
+    });
+    </script>
+<script type="text/javascript">
+var screenWidth=$(window).width();
+ var maxWidth=$('.knowlg-detail-content').width();     //图片在手机端最大宽度
+var realWidth=$(".ms_content img").attr("width");   //图片实际宽度
+  var realHeight=$('.ms_content img').attr("height");
+
+   $('.ms_content img').each(function(){ //jquery.each()循环读取所有图片
+        var realHeight = $(this).attr("height");
+        var realWidth = $(this).attr("width");
+        var phoneHeight=Math.ceil(maxWidth*realHeight/realWidth);  //计算出手机端应有的高度
+        if(screenWidth<512){
+          $(this).css("height", phoneHeight);
+        }
+    });
+
+
+
+</script>
+
+<include file="Common:footer"/>
+
+</body>
+</html>

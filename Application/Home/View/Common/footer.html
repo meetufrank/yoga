@@ -1,0 +1,76 @@
+<link rel="stylesheet" type="text/css" href="__PUBLIC__/layer2/skin/layer.css">
+
+<script>
+$(function(){
+  $('#wx3').on('click', function(){
+    layer.open({
+    type: 1,
+  title: false,
+  closeBtn:0,
+  scrollbar: false,
+    area: ['300px', '300px'],
+    shadeClose: true, //点击遮罩关闭
+    content: '\<\div style="height:auto;overflow:hidden;width:300px;height:300px;"><img src="__PUBLIC__/yoga/img/shanghai.jpg" style="width:100%"><\/div>'
+    });
+  });
+});
+$(function(){
+  $('#wx1').on('click', function(){
+    layer.open({
+    type: 1,
+  title: false,
+  closeBtn:0,
+  scrollbar: false,
+    area: ['300px', '300px'],
+    shadeClose: true, //点击遮罩关闭
+    content: '\<\div style="height:auto;overflow:hidden;width:300px;height:300px;"><img src="__PUBLIC__/yoga/img/beijing.jpg" style="width:100%"><\/div>'
+    });
+  });
+});
+$(function(){
+  $('#wx2').on('click', function(){
+    layer.open({
+    type: 1,
+  title: false,
+  closeBtn:0,
+  scrollbar: false,
+    area: ['300px', '300px'],
+    shadeClose: true, //点击遮罩关闭
+    content: '\<\div style="height:auto;overflow:hidden;width:300px;height:300px;"><img src="__PUBLIC__/yoga/img/chengdu.jpg" style="width:100%"><\/div>'
+    });
+  });
+});
+</script>
+<div class="g-footer clearfix">
+    <div class="col-lg-2 col-md-2 col-sm-2 delPadd">
+      <div class="footer-logo-wrap"><img src="__PUBLIC__/yoga/img/logo.png"></div>
+    </div>
+    <div class="col-lg-3 col-md-3 col-sm-3 footer-text">
+        <h5>网站说明</h5>
+        <div class="item-detail">
+          <h5><a href="{:U('About/about')}">关于我们</a></h5>
+          <h5 class="hidden-lg hidden-md">点击下方二维码扫描即可关注微信</h5>
+        </div>
+    </div>
+
+    <div class="col-lg-7 col-md-7 col-sm-7 footer-focus" >
+        <!--<h5 class="gzwx">关注微信</h5>-->
+        <div class="item-detail">
+        <div class="codeImg-wrap" id="wx3"><img src="__PUBLIC__/yoga/img/shanghai.jpg"><span style="font-size:14px;text-align:center;display:block">上海</span></div>
+          <div class="codeImg-wrap" id="wx1"><img src="__PUBLIC__/yoga/img/beijing.jpg"><span style="font-size:14px;text-align:center;display:block">北京</span></div>
+          <div class="codeImg-wrap" id="wx2"><img src="__PUBLIC__/yoga/img/chengdu.jpg"><span style="font-size:14px;text-align:center;display:block">成都</span></div>
+         <!--   <div class="codeImg-wrap"><img src="__PUBLIC__/yoga/img/hangzhou.jpg"><span style="font-size:14px;text-align:center;display:block">杭州</span></div>-->
+
+      	</div>
+    </div>
+    <div class="col-xs-12 col-sm-12 footer-end" id="beian">闽ICP备16023905号-1</div>
+  </div>
+
+
+  <script src="__PUBLIC__/layer2/layer.js"></script>
+
+
+<script type="text/javascript" src="__PUBLIC__/yoga/js/main.js"></script>
+
+
+

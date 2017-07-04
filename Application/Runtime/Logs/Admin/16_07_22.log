@@ -1,0 +1,2490 @@
+[ 2016-07-22T16:15:54+08:00 ] ::1 /slackck_0530/index.php/Admin/News/news_list/se/8.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant ad_title - assumed 'ad_title' F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 17 行.
+NOTIC: [8] Undefined offset: 1 F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 26 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined variable: opentype_check_one F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+NOTIC: [8] Undefined variable: opentype_check_one F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 343 行.
+NOTIC: [8] Use of undefined constant ad_now - assumed 'ad_now' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 352 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 363 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 366 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 343 行.
+NOTIC: [8] Use of undefined constant ad_now - assumed 'ad_now' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 352 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 363 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 366 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.047003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.047003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-22T16:15:59+08:00 ] ::1 /slackck_0530/index.php/Admin/News/active_list_state.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-22T16:16:02+08:00 ] ::1 /slackck_0530/index.php/Admin/News/active_list_state.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-22T16:16:15+08:00 ] ::1 /slackck_0530/index.php/Admin/News/news_list_state.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-07-22T16:16:18+08:00 ] ::1 /slackck_0530/index.php/Admin/News/news_list_state.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-07-22T16:16:20+08:00 ] ::1 /slackck_0530/index.php/Admin/News/news_list_state.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-22T16:16:43+08:00 ] ::1 /slackck_0530/index.php/Admin/News/news_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant ad_title - assumed 'ad_title' F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 17 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined variable: opentype_check_one F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+NOTIC: [8] Undefined variable: opentype_check_one F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.039002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.039002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-22T16:17:14+08:00 ] ::1 /slackck_0530/index.php/Admin/News/news_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant ad_title - assumed 'ad_title' F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 17 行.
+NOTIC: [8] Undefined offset: 1 F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 26 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined variable: opentype_check_one F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+NOTIC: [8] Undefined variable: opentype_check_one F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.040002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-22T16:17:17+08:00 ] ::1 /slackck_0530/index.php/Admin/News/news_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant ad_title - assumed 'ad_title' F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 17 行.
+NOTIC: [8] Undefined offset: 1 F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 26 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined variable: opentype_check_one F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+NOTIC: [8] Undefined variable: opentype_check_one F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.049003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.050003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-07-22T16:21:24+08:00 ] ::1 /slackck_0530/index.php/Admin/News/news_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant ad_title - assumed 'ad_title' F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 17 行.
+NOTIC: [8] Undefined offset: 1 F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 26 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined variable: opentype_check_one F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+NOTIC: [8] Undefined variable: opentype_check_one F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.039003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.039003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-22T16:21:32+08:00 ] ::1 /slackck_0530/index.php/Admin/News/news_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant ad_title - assumed 'ad_title' F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 17 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined variable: opentype_check_one F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+NOTIC: [8] Undefined variable: opentype_check_one F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.068003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.068003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-22T16:21:35+08:00 ] ::1 /slackck_0530/index.php/Admin/News/news_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant ad_title - assumed 'ad_title' F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 17 行.
+NOTIC: [8] Undefined offset: 1 F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 26 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined variable: opentype_check_one F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+NOTIC: [8] Undefined variable: opentype_check_one F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 343 行.
+NOTIC: [8] Use of undefined constant ad_now - assumed 'ad_now' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 352 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 363 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 366 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 343 行.
+NOTIC: [8] Use of undefined constant ad_now - assumed 'ad_now' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 352 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 363 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 366 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.040002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002001s ]
+
+[ 2016-07-22T16:25:10+08:00 ] ::1 /slackck_0530/index.php/Admin/News/news_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant ad_title - assumed 'ad_title' F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 17 行.
+NOTIC: [8] Undefined offset: 1 F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 26 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined variable: opentype_check_one F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+NOTIC: [8] Undefined variable: opentype_check_one F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 343 行.
+NOTIC: [8] Use of undefined constant ad_now - assumed 'ad_now' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 352 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 363 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 366 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 343 行.
+NOTIC: [8] Use of undefined constant ad_now - assumed 'ad_now' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 352 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 363 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 366 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.040002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-22T16:25:32+08:00 ] ::1 /slackck_0530/index.php/Admin/News/news_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant ad_title - assumed 'ad_title' F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 17 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined variable: opentype_check_one F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+NOTIC: [8] Undefined variable: opentype_check_one F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.042002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.042002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-07-22T16:26:09+08:00 ] ::1 /slackck_0530/index.php/Admin/News/news_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant ad_title - assumed 'ad_title' F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 17 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined variable: opentype_check_one F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+NOTIC: [8] Undefined variable: opentype_check_one F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.040002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-07-22T16:27:09+08:00 ] ::1 /slackck_0530/index.php/Admin/News/news_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant ad_title - assumed 'ad_title' F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 17 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined variable: opentype_check_one F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+NOTIC: [8] Undefined variable: opentype_check_one F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.041002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.041002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-22T16:29:27+08:00 ] ::1 /slackck_0530/index.php/Admin/News/news_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant ad_title - assumed 'ad_title' F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 17 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined variable: opentype_check_one F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+NOTIC: [8] Undefined variable: opentype_check_one F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.050002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.050002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2016-07-22T16:29:47+08:00 ] ::1 /slackck_0530/index.php/Admin/News/news_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant ad_title - assumed 'ad_title' F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 17 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001001s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined variable: opentype_check_one F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+NOTIC: [8] Undefined variable: opentype_check_one F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.057003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.058004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php:65) F:\www\slackck_0530\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php:65) F:\www\slackck_0530\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php:65) F:\www\slackck_0530\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-22T16:36:13+08:00 ] ::1 /slackck_0530/index.php/Admin/News/news_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant ad_title - assumed 'ad_title' F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 17 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined variable: opentype_check_one F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+NOTIC: [8] Undefined variable: opentype_check_one F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 343 行.
+NOTIC: [8] Use of undefined constant ad_now - assumed 'ad_now' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 352 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 363 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 366 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 343 行.
+NOTIC: [8] Use of undefined constant ad_now - assumed 'ad_now' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 352 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 363 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 366 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.039002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.039002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-22T16:36:32+08:00 ] ::1 /slackck_0530/index.php/Admin/News/news_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant ad_title - assumed 'ad_title' F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 17 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined variable: opentype_check_one F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+NOTIC: [8] Undefined variable: opentype_check_one F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.039002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.039002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-22T16:36:37+08:00 ] ::1 /slackck_0530/index.php/Admin/News/news_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant ad_title - assumed 'ad_title' F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 17 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined variable: opentype_check_one F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+NOTIC: [8] Undefined variable: opentype_check_one F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.048002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.048002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-07-22T16:36:43+08:00 ] ::1 /slackck_0530/index.php/Admin/News/news_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant ad_title - assumed 'ad_title' F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 17 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined variable: opentype_check_one F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+NOTIC: [8] Undefined variable: opentype_check_one F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.039002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.039002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-07-22T16:36:49+08:00 ] ::1 /slackck_0530/index.php/Admin/News/news_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant ad_title - assumed 'ad_title' F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 17 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined variable: opentype_check_one F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+NOTIC: [8] Undefined variable: opentype_check_one F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.038002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.039002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-07-22T16:37:02+08:00 ] ::1 /slackck_0530/index.php/Admin/News/news_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] Use of undefined constant ad_title - assumed 'ad_title' F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 17 行.
+NOTIC: [8] Undefined offset: 1 F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 26 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined variable: opentype_check_one F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+NOTIC: [8] Undefined variable: opentype_check_one F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.040002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-22T16:37:08+08:00 ] ::1 /slackck_0530/index.php/Admin/News/news_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant ad_title - assumed 'ad_title' F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 17 行.
+NOTIC: [8] Undefined offset: 1 F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 26 行.
+NOTIC: [8] Undefined variable: map F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 57 行.
+NOTIC: [2] Invalid argument supplied for foreach() F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 57 行.
+NOTIC: [8] Undefined variable: map F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: map F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 68 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined variable: opentype_check_one F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+NOTIC: [8] Undefined variable: opentype_check_one F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 343 行.
+NOTIC: [8] Use of undefined constant ad_now - assumed 'ad_now' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 352 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 363 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 366 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 343 行.
+NOTIC: [8] Use of undefined constant ad_now - assumed 'ad_now' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 352 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 363 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 366 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.039002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-22T16:37:38+08:00 ] ::1 /slackck_0530/index.php/Admin/News/news_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant ad_title - assumed 'ad_title' F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 17 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined variable: opentype_check_one F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+NOTIC: [8] Undefined variable: opentype_check_one F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.039002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.039002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-22T16:37:59+08:00 ] ::1 /slackck_0530/index.php/Admin/News/news_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] Use of undefined constant ad_title - assumed 'ad_title' F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 17 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined variable: opentype_check_one F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+NOTIC: [8] Undefined variable: opentype_check_one F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.047003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.047003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php:65) F:\www\slackck_0530\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php:65) F:\www\slackck_0530\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php:65) F:\www\slackck_0530\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-22T16:38:47+08:00 ] ::1 /slackck_0530/index.php/Admin/News/news_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant ad_title - assumed 'ad_title' F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 17 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined variable: opentype_check_one F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+NOTIC: [8] Undefined variable: opentype_check_one F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 343 行.
+NOTIC: [8] Use of undefined constant ad_now - assumed 'ad_now' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 352 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 363 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 366 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 343 行.
+NOTIC: [8] Use of undefined constant ad_now - assumed 'ad_now' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 352 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 363 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 366 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.050003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.050003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php:65) F:\www\slackck_0530\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php:65) F:\www\slackck_0530\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php:65) F:\www\slackck_0530\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-22T16:39:05+08:00 ] ::1 /slackck_0530/index.php/Admin/News/news_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant ad_title - assumed 'ad_title' F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 17 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined variable: opentype_check_one F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+NOTIC: [8] Undefined variable: opentype_check_one F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 343 行.
+NOTIC: [8] Use of undefined constant ad_now - assumed 'ad_now' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 352 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 363 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 366 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 343 行.
+NOTIC: [8] Use of undefined constant ad_now - assumed 'ad_now' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 352 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 363 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 366 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.049003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.049003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-22T16:39:47+08:00 ] ::1 /slackck_0530/index.php/Admin/News/news_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant ad_title - assumed 'ad_title' F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 17 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined variable: opentype_check_one F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+NOTIC: [8] Undefined variable: opentype_check_one F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 343 行.
+NOTIC: [8] Use of undefined constant ad_now - assumed 'ad_now' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 352 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 363 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 366 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 343 行.
+NOTIC: [8] Use of undefined constant ad_now - assumed 'ad_now' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 352 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 363 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 366 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.040002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-22T16:39:56+08:00 ] ::1 /slackck_0530/index.php/Admin/News/clear
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-22T16:40:03+08:00 ] ::1 /slackck_0530/index.php/Admin/News/news_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant ad_title - assumed 'ad_title' F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 17 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined variable: opentype_check_one F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+NOTIC: [8] Undefined variable: opentype_check_one F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 343 行.
+NOTIC: [8] Use of undefined constant ad_now - assumed 'ad_now' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 352 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 363 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 366 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 343 行.
+NOTIC: [8] Use of undefined constant ad_now - assumed 'ad_now' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 352 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 363 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 366 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.039002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-22T16:40:10+08:00 ] ::1 /slackck_0530/index.php/Admin/Login/logout.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-22T16:40:10+08:00 ] ::1 /slackck_0530/index.php/Admin/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.041002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.041002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-22T16:40:16+08:00 ] ::1 /slackck_0530/index.php/Admin/Login/runlogin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-22T16:40:18+08:00 ] ::1 /slackck_0530/index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Division by zero F:\www\slackck_0530\Application\Admin\Controller\IndexController.class.php 第 38 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: se F:\www\slackck_0530\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 198 行.
+NOTIC: [8] Undefined index: se F:\www\slackck_0530\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 198 行.
+NOTIC: [8] Undefined index: se F:\www\slackck_0530\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 198 行.
+NOTIC: [8] Undefined index: se F:\www\slackck_0530\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 198 行.
+NOTIC: [8] Undefined index: se F:\www\slackck_0530\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 198 行.
+NOTIC: [8] Undefined index: se F:\www\slackck_0530\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 198 行.
+NOTIC: [8] Undefined index: se F:\www\slackck_0530\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 198 行.
+NOTIC: [8] Undefined index: se F:\www\slackck_0530\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 198 行.
+NOTIC: [8] Undefined index: se F:\www\slackck_0530\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 198 行.
+NOTIC: [8] Undefined index: se F:\www\slackck_0530\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 198 行.
+NOTIC: [8] Undefined index: se F:\www\slackck_0530\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 198 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.063003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.063003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-22T16:40:19+08:00 ] ::1 /slackck_0530/index.php/Admin/Login/runlogin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-22T16:40:22+08:00 ] ::1 /slackck_0530/index.php/Admin/News/news_list/se/8.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant ad_title - assumed 'ad_title' F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 17 行.
+NOTIC: [8] Undefined offset: 1 F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 26 行.
+NOTIC: [8] Undefined variable: map F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 57 行.
+NOTIC: [2] Invalid argument supplied for foreach() F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 57 行.
+NOTIC: [8] Undefined variable: map F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: map F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 68 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined variable: opentype_check_one F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+NOTIC: [8] Undefined variable: opentype_check_one F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 343 行.
+NOTIC: [8] Use of undefined constant ad_now - assumed 'ad_now' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 352 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 363 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 366 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 343 行.
+NOTIC: [8] Use of undefined constant ad_now - assumed 'ad_now' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 352 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 363 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 366 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.039003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.039003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-22T16:42:14+08:00 ] ::1 /slackck_0530/index.php/Admin/News/news_list/se/8.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant ad_title - assumed 'ad_title' F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 17 行.
+NOTIC: [8] Undefined offset: 1 F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 26 行.
+NOTIC: [8] Undefined variable: map F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 57 行.
+NOTIC: [2] Invalid argument supplied for foreach() F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 57 行.
+NOTIC: [8] Undefined variable: map F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: map F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 68 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined variable: opentype_check_one F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+NOTIC: [8] Undefined variable: opentype_check_one F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 343 行.
+NOTIC: [8] Use of undefined constant ad_now - assumed 'ad_now' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 352 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 363 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 366 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 343 行.
+NOTIC: [8] Use of undefined constant ad_now - assumed 'ad_now' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 352 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 363 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 366 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.039002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.039002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-22T16:42:18+08:00 ] ::1 /slackck_0530/index.php/Admin/News/news_list/se/8.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant ad_title - assumed 'ad_title' F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 17 行.
+NOTIC: [8] Undefined offset: 1 F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 26 行.
+NOTIC: [8] Undefined variable: map F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 57 行.
+NOTIC: [2] Invalid argument supplied for foreach() F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 57 行.
+NOTIC: [8] Undefined variable: map F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: map F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 68 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined variable: opentype_check_one F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+NOTIC: [8] Undefined variable: opentype_check_one F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 343 行.
+NOTIC: [8] Use of undefined constant ad_now - assumed 'ad_now' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 352 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 363 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 366 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 343 行.
+NOTIC: [8] Use of undefined constant ad_now - assumed 'ad_now' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 352 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 363 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 366 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.041002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.041002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-22T16:42:21+08:00 ] ::1 /slackck_0530/index.php/Admin/News/news_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant ad_title - assumed 'ad_title' F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 17 行.
+NOTIC: [8] Undefined offset: 1 F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 26 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined variable: opentype_check_one F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+NOTIC: [8] Undefined variable: opentype_check_one F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 343 行.
+NOTIC: [8] Use of undefined constant ad_now - assumed 'ad_now' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 352 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 363 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 366 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 343 行.
+NOTIC: [8] Use of undefined constant ad_now - assumed 'ad_now' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 352 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 363 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 366 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.044003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.044003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-22T16:42:26+08:00 ] ::1 /slackck_0530/index.php/Admin/News/news_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant ad_title - assumed 'ad_title' F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 17 行.
+NOTIC: [8] Undefined offset: 1 F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 26 行.
+NOTIC: [8] Undefined variable: map F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 57 行.
+NOTIC: [2] Invalid argument supplied for foreach() F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 57 行.
+NOTIC: [8] Undefined variable: map F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: map F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 68 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined variable: opentype_check_one F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+NOTIC: [8] Undefined variable: opentype_check_one F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 343 行.
+NOTIC: [8] Use of undefined constant ad_now - assumed 'ad_now' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 352 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 363 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 366 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 343 行.
+NOTIC: [8] Use of undefined constant ad_now - assumed 'ad_now' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 352 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 363 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 366 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.039002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.039002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-07-22T16:45:07+08:00 ] ::1 /slackck_0530/index.php/Admin/News/news_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant ad_title - assumed 'ad_title' F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 17 行.
+NOTIC: [8] Undefined offset: 1 F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 26 行.
+NOTIC: [8] Undefined variable: map F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 57 行.
+NOTIC: [2] Invalid argument supplied for foreach() F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 57 行.
+NOTIC: [8] Undefined variable: map F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: map F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 68 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined variable: opentype_check_one F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+NOTIC: [8] Undefined variable: opentype_check_one F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 343 行.
+NOTIC: [8] Use of undefined constant ad_now - assumed 'ad_now' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 352 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 363 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 366 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 343 行.
+NOTIC: [8] Use of undefined constant ad_now - assumed 'ad_now' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 352 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 363 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 366 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.039002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.039002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-22T16:45:21+08:00 ] ::1 /slackck_0530/index.php/Admin/News/news_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant ad_title - assumed 'ad_title' F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 17 行.
+NOTIC: [8] Undefined offset: 1 F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 26 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined variable: opentype_check_one F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+NOTIC: [8] Undefined variable: opentype_check_one F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 343 行.
+NOTIC: [8] Use of undefined constant ad_now - assumed 'ad_now' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 352 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 363 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 366 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 343 行.
+NOTIC: [8] Use of undefined constant ad_now - assumed 'ad_now' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 352 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 363 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 366 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.039002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.039002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-22T16:45:24+08:00 ] ::1 /slackck_0530/index.php/Admin/News/news_list_state.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-22T16:45:25+08:00 ] ::1 /slackck_0530/index.php/Admin/News/news_list_state.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-22T16:45:30+08:00 ] ::1 /slackck_0530/index.php/Admin/News/news_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant ad_title - assumed 'ad_title' F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 17 行.
+NOTIC: [8] Undefined offset: 1 F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 26 行.
+NOTIC: [8] Undefined variable: map F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 57 行.
+NOTIC: [2] Invalid argument supplied for foreach() F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 57 行.
+NOTIC: [8] Undefined variable: map F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: map F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 68 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined variable: opentype_check_one F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+NOTIC: [8] Undefined variable: opentype_check_one F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 343 行.
+NOTIC: [8] Use of undefined constant ad_now - assumed 'ad_now' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 352 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 363 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 366 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 343 行.
+NOTIC: [8] Use of undefined constant ad_now - assumed 'ad_now' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 352 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 363 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 366 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.041003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.041003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-22T16:45:34+08:00 ] ::1 /slackck_0530/index.php/Admin/News/news_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant ad_title - assumed 'ad_title' F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 17 行.
+NOTIC: [8] Undefined offset: 1 F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 26 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined variable: opentype_check_one F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+NOTIC: [8] Undefined variable: opentype_check_one F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 343 行.
+NOTIC: [8] Use of undefined constant ad_now - assumed 'ad_now' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 352 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 363 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 366 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 343 行.
+NOTIC: [8] Use of undefined constant ad_now - assumed 'ad_now' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 352 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 363 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 366 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.050003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.050003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-22T16:47:18+08:00 ] ::1 /slackck_0530/index.php/Admin/News/news_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant ad_title - assumed 'ad_title' F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 17 行.
+NOTIC: [8] Undefined offset: 1 F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 26 行.
+NOTIC: [8] Undefined variable: map F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 57 行.
+NOTIC: [2] Invalid argument supplied for foreach() F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 57 行.
+NOTIC: [8] Undefined variable: map F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: map F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 68 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined variable: opentype_check_one F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+NOTIC: [8] Undefined variable: opentype_check_one F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 343 行.
+NOTIC: [8] Use of undefined constant ad_now - assumed 'ad_now' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 352 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 363 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 366 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 343 行.
+NOTIC: [8] Use of undefined constant ad_now - assumed 'ad_now' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 352 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 363 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 366 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.040002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.041002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-22T16:47:53+08:00 ] ::1 /slackck_0530/index.php/Admin/News/news_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant ad_title - assumed 'ad_title' F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 17 行.
+NOTIC: [8] Undefined offset: 1 F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 26 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined variable: opentype_time F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+NOTIC: [8] Undefined variable: opentype_time F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.042002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.042002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-22T16:47:57+08:00 ] ::1 /slackck_0530/index.php/Admin/News/news_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant ad_title - assumed 'ad_title' F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 17 行.
+NOTIC: [8] Undefined offset: 1 F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 26 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined variable: opentype_time F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+NOTIC: [8] Undefined variable: opentype_time F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.039002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.039002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-22T16:47:59+08:00 ] ::1 /slackck_0530/index.php/Admin/News/news_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant ad_title - assumed 'ad_title' F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 17 行.
+NOTIC: [8] Undefined offset: 1 F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 26 行.
+NOTIC: [8] Undefined variable: map F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 57 行.
+NOTIC: [2] Invalid argument supplied for foreach() F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 57 行.
+NOTIC: [8] Undefined variable: map F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: map F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 68 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined variable: opentype_time F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+NOTIC: [8] Undefined variable: opentype_time F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 343 行.
+NOTIC: [8] Use of undefined constant ad_now - assumed 'ad_now' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 352 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 363 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 366 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 343 行.
+NOTIC: [8] Use of undefined constant ad_now - assumed 'ad_now' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 352 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 363 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 366 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.040003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-22T16:48:04+08:00 ] ::1 /slackck_0530/index.php/Admin/News/news_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+NOTIC: [8] Use of undefined constant ad_title - assumed 'ad_title' F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 17 行.
+NOTIC: [8] Undefined offset: 1 F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 26 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001001s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined variable: opentype_time F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+NOTIC: [8] Undefined variable: opentype_time F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.039003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.039003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-22T16:48:21+08:00 ] ::1 /slackck_0530/index.php/Admin/News/news_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant ad_title - assumed 'ad_title' F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 17 行.
+NOTIC: [8] Undefined offset: 1 F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 26 行.
+NOTIC: [8] Undefined variable: map F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 57 行.
+NOTIC: [2] Invalid argument supplied for foreach() F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 57 行.
+NOTIC: [8] Undefined variable: map F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: map F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 68 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined variable: opentype_time F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+NOTIC: [8] Undefined variable: opentype_time F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 343 行.
+NOTIC: [8] Use of undefined constant ad_now - assumed 'ad_now' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 352 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 363 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 366 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 343 行.
+NOTIC: [8] Use of undefined constant ad_now - assumed 'ad_now' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 352 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 363 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 366 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.039002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.039002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-22T16:49:53+08:00 ] ::1 /slackck_0530/index.php/Admin/News/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-22T16:50:12+08:00 ] ::1 /slackck_0530/index.php/Admin/News/news_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant ad_title - assumed 'ad_title' F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 17 行.
+NOTIC: [8] Undefined offset: 1 F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 26 行.
+NOTIC: [8] Undefined variable: map F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 57 行.
+NOTIC: [2] Invalid argument supplied for foreach() F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 57 行.
+NOTIC: [8] Undefined variable: map F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: map F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 68 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined variable: opentype_time F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+NOTIC: [8] Undefined variable: opentype_time F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 343 行.
+NOTIC: [8] Use of undefined constant ad_now - assumed 'ad_now' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 352 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 363 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 366 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 343 行.
+NOTIC: [8] Use of undefined constant ad_now - assumed 'ad_now' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 352 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 363 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 366 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.042003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.042003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-22T16:56:59+08:00 ] ::1 /slackck_0530/index.php/Admin/News/news_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant ad_title - assumed 'ad_title' F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 17 行.
+NOTIC: [8] Undefined offset: 1 F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 26 行.
+NOTIC: [8] Undefined variable: map F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 57 行.
+NOTIC: [2] Invalid argument supplied for foreach() F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 57 行.
+NOTIC: [8] Undefined variable: map F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: map F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 68 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 343 行.
+NOTIC: [8] Use of undefined constant ad_now - assumed 'ad_now' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 352 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 363 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 366 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 343 行.
+NOTIC: [8] Use of undefined constant ad_now - assumed 'ad_now' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 352 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 363 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 366 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.038003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.038003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-22T16:57:05+08:00 ] ::1 /slackck_0530/index.php/Admin/News/news_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant ad_title - assumed 'ad_title' F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 17 行.
+NOTIC: [8] Undefined offset: 1 F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 26 行.
+NOTIC: [8] Undefined variable: map F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 57 行.
+NOTIC: [2] Invalid argument supplied for foreach() F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 57 行.
+NOTIC: [8] Undefined variable: map F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: map F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 68 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 343 行.
+NOTIC: [8] Use of undefined constant ad_now - assumed 'ad_now' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 352 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 363 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 366 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 343 行.
+NOTIC: [8] Use of undefined constant ad_now - assumed 'ad_now' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 352 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 363 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 366 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.039003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.039003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-22T16:57:11+08:00 ] ::1 /slackck_0530/index.php/Admin/News/news_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant ad_title - assumed 'ad_title' F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 17 行.
+NOTIC: [8] Undefined offset: 1 F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 26 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 343 行.
+NOTIC: [8] Use of undefined constant ad_now - assumed 'ad_now' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 352 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 363 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 366 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 343 行.
+NOTIC: [8] Use of undefined constant ad_now - assumed 'ad_now' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 352 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 363 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 366 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.038002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.038002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-22T16:57:20+08:00 ] ::1 /slackck_0530/index.php/Admin/News/news_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant ad_title - assumed 'ad_title' F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 17 行.
+NOTIC: [8] Undefined offset: 1 F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 26 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 343 行.
+NOTIC: [8] Use of undefined constant ad_now - assumed 'ad_now' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 352 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 363 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 366 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 343 行.
+NOTIC: [8] Use of undefined constant ad_now - assumed 'ad_now' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 352 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 363 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 366 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.040002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-22T16:57:26+08:00 ] ::1 /slackck_0530/index.php/Admin/News/news_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant ad_title - assumed 'ad_title' F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 17 行.
+NOTIC: [8] Undefined offset: 1 F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 26 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.039002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.039002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-22T16:57:30+08:00 ] ::1 /slackck_0530/index.php/Admin/News/news_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant ad_title - assumed 'ad_title' F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 17 行.
+NOTIC: [8] Undefined offset: 1 F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 26 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 343 行.
+NOTIC: [8] Use of undefined constant ad_now - assumed 'ad_now' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 352 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 363 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 366 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 343 行.
+NOTIC: [8] Use of undefined constant ad_now - assumed 'ad_now' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 352 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 363 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 366 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.043003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.044003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-07-22T16:57:34+08:00 ] ::1 /slackck_0530/index.php/Admin/News/news_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant ad_title - assumed 'ad_title' F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 17 行.
+NOTIC: [8] Undefined offset: 1 F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 26 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.039002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.039002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-22T16:57:39+08:00 ] ::1 /slackck_0530/index.php/Admin/News/news_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant ad_title - assumed 'ad_title' F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 17 行.
+NOTIC: [8] Undefined offset: 1 F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 26 行.
+NOTIC: [8] Undefined variable: map F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 57 行.
+NOTIC: [2] Invalid argument supplied for foreach() F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 57 行.
+NOTIC: [8] Undefined variable: map F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: map F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 68 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 343 行.
+NOTIC: [8] Use of undefined constant ad_now - assumed 'ad_now' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 352 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 363 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 366 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 343 行.
+NOTIC: [8] Use of undefined constant ad_now - assumed 'ad_now' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 352 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 363 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 366 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.040002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-07-22T16:57:48+08:00 ] ::1 /slackck_0530/index.php/Admin/News/news_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant ad_title - assumed 'ad_title' F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 17 行.
+NOTIC: [8] Undefined offset: 1 F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 26 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 343 行.
+NOTIC: [8] Use of undefined constant ad_now - assumed 'ad_now' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 352 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 363 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 366 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 343 行.
+NOTIC: [8] Use of undefined constant ad_now - assumed 'ad_now' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 352 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 363 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 366 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.040002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-22T16:57:54+08:00 ] ::1 /slackck_0530/index.php/Admin/News/news_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant ad_title - assumed 'ad_title' F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 17 行.
+NOTIC: [8] Undefined offset: 1 F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 26 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.039002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.039002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-07-22T16:57:58+08:00 ] ::1 /slackck_0530/index.php/Admin/News/news_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant ad_title - assumed 'ad_title' F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 17 行.
+NOTIC: [8] Undefined offset: 1 F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 26 行.
+NOTIC: [8] Undefined variable: map F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 57 行.
+NOTIC: [2] Invalid argument supplied for foreach() F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 57 行.
+NOTIC: [8] Undefined variable: map F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: map F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 68 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 246 行.
+NOTIC: [8] Undefined index: ad_valid F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 247 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 343 行.
+NOTIC: [8] Use of undefined constant ad_now - assumed 'ad_now' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 352 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 363 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 366 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 343 行.
+NOTIC: [8] Use of undefined constant ad_now - assumed 'ad_now' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 352 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 363 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 366 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.039002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.039002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-07-22T16:58:40+08:00 ] ::1 /slackck_0530/index.php/Admin/News/news_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant ad_title - assumed 'ad_title' F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 17 行.
+NOTIC: [8] Undefined offset: 1 F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 26 行.
+NOTIC: [8] Undefined variable: map F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 57 行.
+NOTIC: [2] Invalid argument supplied for foreach() F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 57 行.
+NOTIC: [8] Undefined variable: map F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: map F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 68 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 343 行.
+NOTIC: [8] Use of undefined constant ad_now - assumed 'ad_now' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 352 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 363 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 366 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 343 行.
+NOTIC: [8] Use of undefined constant ad_now - assumed 'ad_now' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 352 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 363 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 366 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.039002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.039002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-22T16:58:44+08:00 ] ::1 /slackck_0530/index.php/Admin/News/news_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant ad_title - assumed 'ad_title' F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 17 行.
+NOTIC: [8] Undefined offset: 1 F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 26 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 343 行.
+NOTIC: [8] Use of undefined constant ad_now - assumed 'ad_now' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 352 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 363 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 366 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 343 行.
+NOTIC: [8] Use of undefined constant ad_now - assumed 'ad_now' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 352 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 363 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 366 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.041002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.041002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-22T16:58:48+08:00 ] ::1 /slackck_0530/index.php/Admin/News/news_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant ad_title - assumed 'ad_title' F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 17 行.
+NOTIC: [8] Undefined offset: 1 F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 26 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.039002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.039002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-22T16:58:52+08:00 ] ::1 /slackck_0530/index.php/Admin/News/news_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant ad_title - assumed 'ad_title' F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 17 行.
+NOTIC: [8] Undefined offset: 1 F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 26 行.
+NOTIC: [8] Undefined variable: map F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 57 行.
+NOTIC: [2] Invalid argument supplied for foreach() F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 57 行.
+NOTIC: [8] Undefined variable: map F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: map F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 68 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 343 行.
+NOTIC: [8] Use of undefined constant ad_now - assumed 'ad_now' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 352 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 363 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 366 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 343 行.
+NOTIC: [8] Use of undefined constant ad_now - assumed 'ad_now' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 352 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 363 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 366 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.038002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.038002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-22T16:59:47+08:00 ] ::1 /slackck_0530/index.php/Admin/News/news_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant ad_title - assumed 'ad_title' F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 17 行.
+NOTIC: [8] Undefined offset: 1 F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 26 行.
+NOTIC: [8] Undefined variable: map F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 57 行.
+NOTIC: [2] Invalid argument supplied for foreach() F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 57 行.
+NOTIC: [8] Undefined variable: map F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: map F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 68 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 343 行.
+NOTIC: [8] Use of undefined constant ad_now - assumed 'ad_now' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 352 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 363 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 366 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 343 行.
+NOTIC: [8] Use of undefined constant ad_now - assumed 'ad_now' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 352 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 363 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 366 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.047003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.047003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-22T17:00:08+08:00 ] ::1 /slackck_0530/index.php/Admin/News/news_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant ad_title - assumed 'ad_title' F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 17 行.
+NOTIC: [8] Undefined offset: 1 F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 26 行.
+NOTIC: [8] Undefined variable: map F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 57 行.
+NOTIC: [2] Invalid argument supplied for foreach() F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 57 行.
+NOTIC: [8] Undefined variable: map F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: map F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 68 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 343 行.
+NOTIC: [8] Use of undefined constant ad_now - assumed 'ad_now' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 352 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 363 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 366 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 343 行.
+NOTIC: [8] Use of undefined constant ad_now - assumed 'ad_now' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 352 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 363 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 366 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.041002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.041002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-22T17:01:08+08:00 ] ::1 /slackck_0530/index.php/Admin/News/news_list_state.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+
+[ 2016-07-22T17:01:11+08:00 ] ::1 /slackck_0530/index.php/Admin/News/news_list_state.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-22T17:01:22+08:00 ] ::1 /slackck_0530/index.php/Admin/News/active_list_state.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-22T17:01:28+08:00 ] ::1 /slackck_0530/index.php/Admin/News/active_list_state.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-22T17:01:44+08:00 ] ::1 /slackck_0530/index.php/Admin/News/active_list_state.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-22T17:01:47+08:00 ] ::1 /slackck_0530/index.php/Admin/News/active_list_state.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-22T17:02:06+08:00 ] ::1 /slackck_0530/index.php/Admin/News/news_back.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant news_title - assumed 'news_title' F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 442 行.
+NOTIC: [8] Undefined offset: 1 F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 450 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.097006s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.097006s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-22T17:28:11+08:00 ] ::1 /slackck_0530/index.php/Admin/News/news_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant ad_title - assumed 'ad_title' F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 17 行.
+NOTIC: [8] Undefined offset: 1 F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 26 行.
+NOTIC: [8] Undefined variable: map F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 57 行.
+NOTIC: [2] Invalid argument supplied for foreach() F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 57 行.
+NOTIC: [8] Undefined variable: map F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: map F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 68 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 343 行.
+NOTIC: [8] Use of undefined constant ad_now - assumed 'ad_now' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 352 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 363 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 366 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 343 行.
+NOTIC: [8] Use of undefined constant ad_now - assumed 'ad_now' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 352 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 363 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 366 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.040002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-22T17:28:15+08:00 ] ::1 /slackck_0530/index.php/Admin/News/news_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant ad_title - assumed 'ad_title' F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 17 行.
+NOTIC: [8] Undefined offset: 1 F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 26 行.
+NOTIC: [8] Undefined variable: map F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 57 行.
+NOTIC: [2] Invalid argument supplied for foreach() F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 57 行.
+NOTIC: [8] Undefined variable: map F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: map F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 68 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 343 行.
+NOTIC: [8] Use of undefined constant ad_now - assumed 'ad_now' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 352 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 363 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 366 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 343 行.
+NOTIC: [8] Use of undefined constant ad_now - assumed 'ad_now' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 352 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 363 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 366 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.039002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.039002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-22T17:28:56+08:00 ] ::1 /slackck_0530/index.php/Admin/News/news_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant ad_title - assumed 'ad_title' F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 17 行.
+NOTIC: [8] Undefined offset: 1 F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 26 行.
+NOTIC: [8] Undefined variable: map F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 57 行.
+NOTIC: [2] Invalid argument supplied for foreach() F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 57 行.
+NOTIC: [8] Undefined variable: map F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: map F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 68 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 343 行.
+NOTIC: [8] Use of undefined constant ad_now - assumed 'ad_now' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 352 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 363 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 366 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 343 行.
+NOTIC: [8] Use of undefined constant ad_now - assumed 'ad_now' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 352 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 363 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 366 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.041002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.041002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-22T17:29:10+08:00 ] ::1 /slackck_0530/index.php/Admin/News/news_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant ad_title - assumed 'ad_title' F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 17 行.
+NOTIC: [8] Undefined offset: 1 F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 26 行.
+NOTIC: [8] Undefined variable: map F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 57 行.
+NOTIC: [2] Invalid argument supplied for foreach() F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 57 行.
+NOTIC: [8] Undefined variable: map F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: map F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 68 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 343 行.
+NOTIC: [8] Use of undefined constant ad_now - assumed 'ad_now' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 352 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 363 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 366 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 343 行.
+NOTIC: [8] Use of undefined constant ad_now - assumed 'ad_now' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 352 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 363 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 366 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.041003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.041003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-22T17:29:24+08:00 ] ::1 /slackck_0530/index.php/Admin/News/news_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant ad_title - assumed 'ad_title' F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 17 行.
+NOTIC: [8] Undefined offset: 1 F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 26 行.
+NOTIC: [8] Undefined variable: map F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 57 行.
+NOTIC: [2] Invalid argument supplied for foreach() F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 57 行.
+NOTIC: [8] Undefined variable: map F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: map F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 68 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 343 行.
+NOTIC: [8] Use of undefined constant ad_now - assumed 'ad_now' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 352 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 363 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 366 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 343 行.
+NOTIC: [8] Use of undefined constant ad_now - assumed 'ad_now' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 352 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 363 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 366 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.039002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.039002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-22T17:32:44+08:00 ] ::1 /slackck_0530/index.php/Admin/Sys/admin_list/se/15.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: map F:\www\slackck_0530\Application\Admin\Controller\SysController.class.php 第 115 行.
+NOTIC: [8] Undefined variable: map F:\www\slackck_0530\Application\Admin\Controller\SysController.class.php 第 118 行.
+NOTIC: [2] Invalid argument supplied for foreach() F:\www\slackck_0530\Application\Admin\Controller\SysController.class.php 第 118 行.
+NOTIC: [8] Undefined variable: map F:\www\slackck_0530\Application\Admin\Controller\SysController.class.php 第 123 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant admin_open - assumed 'admin_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\4180b128332bb55c64012cd90a13c6c1.php 第 299 行.
+NOTIC: [8] Use of undefined constant admin_open - assumed 'admin_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\4180b128332bb55c64012cd90a13c6c1.php 第 299 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.050003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.051003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-22T17:32:49+08:00 ] ::1 /slackck_0530/index.php/Admin/News/news_list/se/8.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant ad_title - assumed 'ad_title' F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 17 行.
+NOTIC: [8] Undefined offset: 1 F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 26 行.
+NOTIC: [8] Undefined variable: map F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 57 行.
+NOTIC: [2] Invalid argument supplied for foreach() F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 57 行.
+NOTIC: [8] Undefined variable: map F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: map F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 68 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 343 行.
+NOTIC: [8] Use of undefined constant ad_now - assumed 'ad_now' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 352 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 363 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 366 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 343 行.
+NOTIC: [8] Use of undefined constant ad_now - assumed 'ad_now' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 352 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 363 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 366 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.039003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.039003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-22T17:35:42+08:00 ] ::1 /slackck_0530/index.php/Admin/News/news_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant ad_title - assumed 'ad_title' F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 17 行.
+NOTIC: [8] Undefined offset: 1 F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 26 行.
+NOTIC: [8] Undefined variable: map F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 57 行.
+NOTIC: [2] Invalid argument supplied for foreach() F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 57 行.
+NOTIC: [8] Undefined variable: map F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: map F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 68 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 343 行.
+NOTIC: [8] Use of undefined constant ad_now - assumed 'ad_now' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 352 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 363 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 366 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 343 行.
+NOTIC: [8] Use of undefined constant ad_now - assumed 'ad_now' F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 352 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 363 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 366 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.040003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-22T17:39:36+08:00 ] ::1 /slackck_0530/index.php/Admin/News/news_column/se/9.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant column_open - assumed 'column_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\c59ac52b3b02df022890ed93499bde7e.php 第 244 行.
+NOTIC: [8] Use of undefined constant column_open - assumed 'column_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\c59ac52b3b02df022890ed93499bde7e.php 第 244 行.
+NOTIC: [8] Use of undefined constant column_open - assumed 'column_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\c59ac52b3b02df022890ed93499bde7e.php 第 244 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.048003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.048003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-07-22T17:39:42+08:00 ] ::1 /slackck_0530/index.php/Admin/News/news_column/se/9.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant column_open - assumed 'column_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\c59ac52b3b02df022890ed93499bde7e.php 第 244 行.
+NOTIC: [8] Use of undefined constant column_open - assumed 'column_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\c59ac52b3b02df022890ed93499bde7e.php 第 244 行.
+NOTIC: [8] Use of undefined constant column_open - assumed 'column_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\c59ac52b3b02df022890ed93499bde7e.php 第 244 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-22T17:39:44+08:00 ] ::1 /slackck_0530/index.php/Admin/News/class_list/se/184.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant ad_title - assumed 'ad_title' F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 98 行.
+NOTIC: [8] Undefined offset: 1 F:\www\slackck_0530\Application\Admin\Controller\NewsController.class.php 第 107 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: opentype_check_one F:\www\slackck_0530\Application\Runtime\Cache\Admin\3308fa03f617690ca40b4fd14facce27.php 第 246 行.
+NOTIC: [8] Undefined variable: opentype_check_one F:\www\slackck_0530\Application\Runtime\Cache\Admin\3308fa03f617690ca40b4fd14facce27.php 第 247 行.
+NOTIC: [8] Use of undefined constant news_open - assumed 'news_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\3308fa03f617690ca40b4fd14facce27.php 第 344 行.
+NOTIC: [8] Undefined index: news_open F:\www\slackck_0530\Application\Runtime\Cache\Admin\3308fa03f617690ca40b4fd14facce27.php 第 344 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\3308fa03f617690ca40b4fd14facce27.php 第 348 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\3308fa03f617690ca40b4fd14facce27.php 第 349 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\3308fa03f617690ca40b4fd14facce27.php 第 356 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\3308fa03f617690ca40b4fd14facce27.php 第 359 行.
+NOTIC: [8] Use of undefined constant news_open - assumed 'news_open' F:\www\slackck_0530\Application\Runtime\Cache\Admin\3308fa03f617690ca40b4fd14facce27.php 第 344 行.
+NOTIC: [8] Undefined index: news_open F:\www\slackck_0530\Application\Runtime\Cache\Admin\3308fa03f617690ca40b4fd14facce27.php 第 344 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\3308fa03f617690ca40b4fd14facce27.php 第 348 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\3308fa03f617690ca40b4fd14facce27.php 第 349 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\3308fa03f617690ca40b4fd14facce27.php 第 356 行.
+NOTIC: [8] Undefined index: n_id F:\www\slackck_0530\Application\Runtime\Cache\Admin\3308fa03f617690ca40b4fd14facce27.php 第 359 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.072004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.072004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-22T17:39:49+08:00 ] ::1 /slackck_0530/index.php/Admin/News/news_list_state.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+

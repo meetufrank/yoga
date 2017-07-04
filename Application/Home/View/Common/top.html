@@ -1,0 +1,61 @@
+
+  <link rel="stylesheet" type="text/css" href="__PUBLIC__/yoga/css/bootstrap-3.3.6-dist/css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="__PUBLIC__/yoga/css/static.css">
+  <link rel="stylesheet" type="text/css" href="__PUBLIC__/yoga/css/main.css">
+
+ <script src="__PUBLIC__/assets/js/jquery.min.js"></script>
+
+<div class="g-header">
+<div class="logo-wrap">
+  <a href="{:U('Index/index')}">
+    <img src="__PUBLIC__/yoga/img/logo.png">
+  </a>
+</div>
+<div class="g-navbar-icon">
+  <a href="#">
+    <img src="__PUBLIC__/yoga/img/nav_icon.png" alt="icon">
+  </a>
+</div>
+<div class="g-navbar-search">
+  <a href="#">
+    <img src="__PUBLIC__/yoga/img/search_icon.png" alt="search">
+  </a>
+</div>
+<ul class="nav-top">
+<?php $controller=strtolower(CONTROLLER_NAME);  ?>
+  <li <if condition="$controller eq 'index'">class="active"</if>><a href="{:U('Index/index')}">首页</a></li>
+  <li <if condition="$controller eq 'class'">class="active"</if>><a href="{:U('class/classload')}">课程</a></li>
+  <li <if condition="$controller eq 'knows'">class="active"</if>><a href="{:U('knows/knowsload')}">知识</a></li>
+
+  <li <if condition="$controller eq 'active'">class="active"</if>><a href="{:U('active/activeload')}">活动</a></li>
+  <li <if condition="$controller eq 'adress'">class="active"</if>><a href="{:U('adress/MilitiaPoint')}">全国团练点</a></li>
+  <li <if condition="$controller eq 'about'">class="active"</if>><a href="{:U('About/about')}">关于我们</a></li>
+  <if condition="$Think.cookie.username neq ''">
+  <li <if condition="$controller eq 'user'">class="active"</if>><a href="{:U('User/person')}">{$Think.cookie.userpetname}的个人中心</a></li>
+  <li><a href="{:U('Login/logout')}">退出</a></li>
+  <else/>
+    <li <if condition="$controller eq 'login'">class="active"</if>><a href="{:U('Login/login')}">登录&nbsp;/&nbsp;注册</a></li>
+
+
+  </if>
+  <li class="close-navbar"><a href="#" ><img class="close-navbar-img" src="__PUBLIC__/yoga/img/close.jpg"><span>取消</span></a></li>
+</ul>
+<div class="g-navbar-searchbox">
+  <form action="{:U('Index/search')}" method="post" id="formtop">
+    <div class="input-group">
+      <input type="text" name="key" placeholder="请输入关键词" class="form-control" value="">
+      <span class="input-group-btn">
+        <button  id="topbutton" class="btn btn-primary btn-search" type="submit" style="background-color:#ffae00;outline:none;border-color:#ffae00;">搜索</button>
+      </span>
+    </div>
+  </form>
+  <script>
+    $('#topbutton').click(function(e) {
+		e.preventDefault();
+		  $('#formtop').submit();
+
+	});
+  </script>
+</div>
+</div>
+

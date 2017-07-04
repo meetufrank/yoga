@@ -1,0 +1,232 @@
+/*手机端*/
+@media (max-width: 768px){
+	.bg{
+		padding: 20px 0;
+	}
+	.whatisklkc{
+		background-color: #F3F3F3;
+		padding: 10px 20px;
+	}
+	.whatisklkc img{
+		max-width: 90px;
+		display: inline;
+	}
+	.whatisklkc .row h3{
+		display: inline;
+	}
+	.whatisklkc .cyclePic{
+		margin-bottom: 40px;
+	}
+	.whatisklkc .cyclePic h3{
+		margin-left: 30px;
+	}
+	.whatisklkc .cyclePic2 h3{
+		float: left;
+		margin-left: 0;
+	}
+	.whatisklkc .cyclePic p{
+		margin-top:20px;
+		letter-spacing: 3px;
+		line-height: 30px;
+	}
+	.cyclePic2 img{
+		float: right;
+	}
+	.courseNeirong{
+		padding: 20px;
+	}
+	.courseNeirong p{
+		letter-spacing: 3px;
+		line-height: 30px;
+	}
+	.courseNeirong img{
+		margin-top: 50px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	.ythNeirong{
+		padding: 20px;
+	}
+	.ythNeirong .media_se{
+		padding:10px 20px;
+	}
+	.ythNeirong h4{
+		letter-spacing: 3px;
+		margin-bottom: 10px;
+		font-size: 2rem;
+	}
+	.ythNeirong p{
+		letter-spacing: 3px;
+		line-height: 30px;
+	}
+
+	.join{
+		width: 100%;
+		position: fixed;
+		bottom: 0;
+		left: 0;	
+		z-index: 1000;
+	}
+
+	/*返回顶部*/
+	#returnTop{
+		bottom: 80px;
+	}
+	
+}
+/*电脑端*/
+@media (min-width: 769px){
+	body{
+		background-color: #F9F9F9;
+	}
+	.bg{
+		padding: 50px 0;
+	}
+	p{
+		font-size: 15px;
+		letter-spacing: 2px;
+		line-height: 30px;
+	}
+	.whatisklkc{
+		background-color: #F3F3F3;
+		padding: 30px 50px;
+	}
+	.whatisklkc img{
+		max-width: 120px;
+	}
+	.whatisklkc .cyclePic{
+		padding:0 5%;
+	}
+	.whatisklkc h3,.whatisklkc p{
+		text-align: center;
+	}
+	.courseNeirong{
+		padding: 50px;
+	}
+	.ythNeirong{
+		padding: 50px;
+	}
+	.ythNeirong .row{
+		margin-left: 3%;
+	}
+	.ythNeirong .media_se{
+		padding:50px 50px 0 50px;
+	}
+	.ythNeirong h4{
+		letter-spacing: 2px;
+		margin-bottom: 20px;
+		font-size: 2rem;
+	}
+
+
+	.join{
+		width: 200px;
+		margin: 80px auto;
+		border-radius: 10px;
+	}
+
+
+	/*返回顶部*/
+	#returnTop{
+		bottom: 50px;
+	}
+	#returnTop:hover{
+		background: url(../images/toTopAfter.jpg);
+	}
+}
+
+/*全局样式*/
+*{
+	margin:0;
+	padding: 0;
+	list-style: none;
+	text-decoration: none;
+	font-family: "微软雅黑";
+}
+h3{
+	letter-spacing: 2px;
+}
+
+/*顶部大图*/
+.topImg{
+	width: 100%;
+}
+.topImg img{
+	width: 100%;
+	max-height: 500px;
+}
+
+/*大图下方整个大DIV*/
+.bg{
+	background-color: #F9F9F9;
+}
+.middleTitle{
+	text-align: center;
+	margin-bottom: 50px;
+	font-size: 3rem;
+}
+
+
+/*课程内容*/
+.courseNeirong h3{
+	color: #FFC90E;
+}
+.courseNeirong p{
+	margin-left:-10px;
+}
+.courseNeirong hr{
+	height:3px;
+	width:23px;
+	border:none;
+	border-top:3px solid #FFC90E;
+}
+.courseNeirong .suoxiao{
+
+}
+
+/*研讨会内容*/
+
+.ythNeirong h3{
+	text-align: center;
+	font-size: 3rem;
+}
+.ythNeirong hr{
+	height:2px;
+	width: 90%;
+	margin-left: 5%;
+	border:none;
+	border-top:2px solid #E0E0E0;
+}
+.ythNeirong img{
+	margin-right: 25px;
+}
+
+/*我要参加*/
+.join{
+	display: block;
+	height: 50px;
+	background-color: #FFC90E;
+	font-size: 2rem;
+	color: white;
+	line-height: 50px;
+	text-align: center;
+}
+.join:hover{
+	background-color: #F9E626;
+	color: white;
+	text-decoration: none;
+}
+.join:focus{
+    color: white;
+    text-decoration: none;
+}
+
+/*返回顶部*/
+#returnTop{
+	width: 40px;
+	height: 40px;
+	position: fixed;
+	right: 15px;
+	background: url(../images/toTopBefore.jpg);
+	display: none;
+}

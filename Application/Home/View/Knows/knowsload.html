@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+	<link rel="stylesheet" type="text/css" href="__PUBLIC__/yoga/css/vux.css">
+
+	<script src="http://cdn.bootcss.com/vue/1.0.25/vue.min.js"></script>
+    <script src="http://cdn.bootcss.com/vue-resource/0.9.3/vue-resource.min.js"></script>
+	<style type="text/css">
+		.range-bar {
+			background-color: #eeeeee;
+		}
+		.range-handle {
+			background-color: #FFAE00;
+		}
+		.range-quantity {
+			background-color: #FFAE00;
+		    border-top-right-radius: 0px;
+		    border-bottom-right-radius: 0px;
+		}
+		[v-cloak] {
+			display: none;
+		}
+	</style>
+	<title>生活的艺术-知识列表</title>
+	<include file="Common:top"/>
+</head>
+<body>
+
+<div id="knowlg">
+	<div class="knowlg-main">
+		<div class="knowlg-filter-wrapper">
+			<form action="" method="">
+		    <div class="input-group">
+		      <input type="text" placeholder="搜索您想要了解的瑜伽知识" class="form-control" v-model="keyword" style="border-radius:0;height:45px;font-size:14px;">
+		      <span class="input-group-btn">
+		        <button class="btn btn-primary btn-search" type="submit" style="background-color:#ffae00;outline:none;border-color:#ffae00;border-radius:0;height:45px;width:100px;" @click.prevent="getContent">搜索</button>
+		      </span>
+		    </div>
+		  </form>
+			<div class="knowlg-time-wrapper clearfix">
+				<div class="knowlg-range-text">选择发布的时间段</div>
+				<div class="knowlg-range-wrapper">
+					<range :value.sync="time" :step=50 min-HTML="<span></span>" max-HTML="<span></span>" :range-bar-height=10 />
+				</div>
+				<div class="knowlg-range-times">
+					<span class="left"><strong>一周</strong></span>
+					<span class="right"><strong>全部</strong></span>
+					<span class="middle"><strong>一个月</strong></span>
+				</div>
+			</div>
+		</div>
+		<div class="knowlg-main-area">
+			<div class="knowlg-list-area clearfix" v-cloak>
+				<div class="knowlg-item" v-for="item in items" v-bind:class="{'knowlg-left-item': $index % 2 == 0, 'knowlg-right-item':  $index % 2 == 1}">
+				<div class="knowlg-item-inner-wrapper">
+					<a class="knowlg-item-inner" v-bind:href="item.location_url"  style="min-height:150px;">
+						<img v-bind:src="item.ms_photo | imageprefix" alt="">
+						<div class="knowlg-item-title">{{item.ms_title}}</div>
+					</a>
+					<div class="knowlg-item-details clearfix">
+						<div class="knowlg-time"><img src="__PUBLIC__/yoga/img/time.png" alt="">&nbsp;<span>{{item.ms_addtime}}</span></div>
+						<div class="knowlg-like"><img src="__PUBLIC__/yoga/img/icon3.png" alt="">&nbsp;<span>{{item.ms_savenum}}</span></div>
+						<div class="knowlg-praise"><img src="__PUBLIC__/yoga/img/icon2.png" alt="">&nbsp;<span>{{item.ms_agreenum}}</span></div>
+						<div class="knowlg-view"><img src="__PUBLIC__/yoga/img/icon1.png" alt="">&nbsp;<span>{{item.ms_readnum}}</span></div>
+					</div>
+					</div>
+				</div>
+				<div class="g-content-more clearfix" style="clear:both;margin-bottom: 40px;">
+          <div class="get-more-item" v-show="!is_getting_list&&more"><span class="white-line"></span>
+          <a @click.prevent="getMore" href="#"><span>more</span><img src="__PUBLIC__/yoga/img/down.png" alt=""></a></div>
+          <div class="loading-gif" v-show="is_getting_list" style="text-align:center;"><img src="__PUBLIC__/yoga/img/loading.gif" alt=""></div>
+        </div>
+			</div>
+		</div>
+	</div>
+</div>
+<script type="text/javascript" src="__PUBLIC__/yoga/js/jquery-1.12.2.min.js"></script>
+<script type="text/javascript" src="__PUBLIC__/yoga/js/main.js"></script>
+<script type="text/javascript" src="__PUBLIC__/yoga/js/range/index.js"></script>
+<script type="text/javascript">
+	var static_prefix = '__PUBLIC__';
+	Vue.filter('imageprefix', function(value) {
+	  return static_prefix + value
+	});
+	var url1 = "{:U('knows/knows_list')}";
+	Vue.component('range', vuxRange)
+	var knowlg = new Vue({
+		el: '#knowlg',
+		ready: function() {
+		  this.$http.get(url1, {params: {key: this.keyword, time: this.stime, page_num: this.page}}).then(function(response) {
+		  	console.log(response)
+		  	var responseData = response.data
+      	    if (typeof responseData === 'string') {
+		      responseData = JSON.parse(responseData)
+		    }
+	     	this.items = responseData.data
+	     	this.more = responseData.have_more
+		  }, function(response) {
+
+		  });
+		},
+		data: {
+			time: 100,
+			keyword: '',
+			page: 1,
+			items: [],
+			is_getting_list: false,
+			more: true
+		},
+		computed: {
+			stime: function() {
+				if (this.time == 0) {
+					return 'week';
+				}
+				else if (this.time < 52&&this.time>49) {
+					return 'month';
+				}
+				else {
+					return 'year';
+				}
+			}
+		},
+		methods: {
+			getMore: function() {
+				this.page += 1;
+				this.$http.get(url1, {params: {key: this.keyword, time: this.stime, page_num: this.page}}).then(function(response) {
+		     	console.log(this.items )
+		     	console.log('1=>')
+		     	var responseData = response.data
+      	        if (typeof responseData === 'string') {
+		          responseData = JSON.parse(responseData)
+		        }
+
+		     	this.items = $.extend({},this.items, responseData.data);
+		     	this.more = responseData.have_more
+		     	console.log(this.items);
+			  }, function(response) {
+
+			  });
+			},
+			getContent: function() {
+				this.page = 0;
+				this.items = []
+				this.$http.get(url1, {params: {key: this.keyword, time: this.stime, page_num: this.page}}).then(function(response) {
+
+		     	var responseData = response.data
+
+      	        if (typeof responseData === 'string') {
+		          responseData = JSON.parse(responseData)
+		        }
+		     	this.items = responseData.data
+		     	this.more = responseData.have_more
+			  }, function(response) {
+			  	alert('error')
+			  });
+			}
+		}
+	})
+</script>
+<include file="Common:footer"/>
+</body>
+</html>

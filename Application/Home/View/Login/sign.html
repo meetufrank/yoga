@@ -1,0 +1,368 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+  <title></title>
+    <include file="Common:top"/>
+
+  <style>
+  .get-verifycode {
+  	display: inline-block;
+  	width: 140px;
+  	font-size: 14px;
+  	text-align: center;
+  	background-color: #ffae00;
+  	color: #fff;
+  	padding: 6px 0;
+  	outline: none!important;
+  	border: none!important;
+  }
+  .get-verifycode:hover,
+  .get-verifycode:focus,
+  .get-verifycode:active {
+  	color: #fff;
+  }
+  .get-verifycode.verify-disabled {
+  	background-color: #ccc;
+  }
+  </style>
+</head>
+<body>
+
+<div class="loginform-wrapper has-background-image">
+	<div class="loginform-inner">
+	<h3 class="signform-title">用户注册</h3>
+		<form method="post" action="" class="form-horizontal sign-form">
+			<div class="form-group">
+				<label for="phone" class="login-icon"><img src="__PUBLIC__/yoga/img/phone.png" alt="" class="pull-left" style="margin-left:-3px;"></label>
+				<div class="login-input">
+					<input type="text" class="form-control" id="phone" placeholder="手机号" name="phone">
+				</div>
+				<div class="error-container" style="margin-left: 60px;"></div>
+			</div>
+			<div class="form-group">
+				<label for="verify" class="login-icon"><img src="__PUBLIC__/yoga/img/verify-code.png" alt="" class="pull-left"></label>
+				<div class="login-input">
+					<input type="text" class="form-control" id="verify" placeholder="验证码" name="verify">
+				</div>
+				<div class="error-container" style="margin-left: 60px;"></div>
+			</div>
+			<div class="form-group">
+				<button href="#" class="get-verifycode pull-right">获取验证码</button>
+			</div>
+			<div class="form-group error-container verify-error-container">
+				<span></span>
+			</div>
+			<div class="form-group">
+				<div class="login-submit">
+					<button type="submit" class="btn btn-default signup-next">下一步</button>
+				</div>
+			</div>
+		</form>
+	</div>
+</div>
+<div class="sign-info-wrapper" style="display:none;" >
+	<div class="person-header has-background-image">
+		<div class="person-image-wrapper"><img class="res-image" src="__PUBLIC__/yoga/img/male.png" alt=""></div>
+		<div class="person-username">填写个人信息</div>
+	</div>
+	<div class="yoga-course-form clearfix">
+		<form method="POST" action="" class="sign-course-form" id="form0">
+
+			<div class="form-item clearfix">
+				<div class="form-item-desc col-xs-12 col-sm-3">真实姓名:</div>
+				<div class="form-input-wrapper col-xs-12 col-sm-6"><input type="text" name="personname"></div>
+				<div class="error-container col-xs-12 col-sm-3"></div>
+			</div>
+			<div class="form-item clearfix">
+				<div class="form-item-desc col-xs-12 col-sm-3">昵称:</div>
+				<div class="form-input-wrapper col-xs-12 col-sm-6"><input type="text" name="username"></div>
+				<div class="error-container col-xs-12 col-sm-3"></div>
+			</div>
+			<div class="form-item clearfix">
+				<div class="form-item-desc col-xs-12 col-sm-3">性别：</div>
+				<div class="form-input-wrapper col-xs-12 col-sm-6"><div class="col-xs-5 col-sm-4 gender-single">
+		            <label for="gender1"><input type="radio" name="gender" id="gender1" value="1" checked><span>男</span></label>
+		        </div>
+		        <div class="col-xs-5 col-sm-4 gender-single">
+		            <label for="gender2"><input type="radio" name="gender" id="gender2" value="0"><span>女</span></label>
+		        </div></div><div class="error-container col-xs-12 col-sm-3"></div>
+			</div>
+			<div class="form-item clearfix">
+				<div class="form-item-desc col-xs-12 col-sm-3">Email：</div>
+				<div class="form-input-wrapper col-xs-12 col-sm-6"><input type="text" name="email"></div><div class="error-container col-xs-12 col-sm-3"></div>
+			</div>
+			<div class="form-item clearfix">
+				<div class="form-item-desc col-xs-12 col-sm-3">所在地：</div>
+				<div class="form-input-wrapper col-xs-12 col-sm-6">
+				<div class="col-xs-5 col-sm-4 place"><select class="" id="province" name="province"></select></div>
+				<div class="col-xs-5 col-sm-4 place"><select class="" id="city" name="city"></select></div></div><div class="error-container col-xs-12 col-sm-3"></div>
+			</div>
+			<div class="form-item clearfix">
+				<div class="form-item-desc col-xs-12 col-sm-3">输入密码:</div>
+				<div class="form-input-wrapper col-xs-12 col-sm-6"><input type="password" name="password1"></div>
+				<div class="error-container col-xs-12 col-sm-3"></div>
+			</div>
+			<div class="form-item clearfix">
+				<div class="form-item-desc col-xs-12 col-sm-3">再次输入密码:</div>
+				<div class="form-input-wrapper col-xs-12 col-sm-6"><input type="password" name="password2"></div>
+				<div class="error-container col-xs-12 col-sm-3"></div>
+			</div>
+			<div class="col-sm-9 sign-course-wrapper"><input type="submit" class="person-edit-info sign-course1 sign-complete" value="提交"></div>
+		</form>
+	</div>
+	<div class="bottom-background has-background-image">
+	</div>
+</div>
+
+<script type="text/javascript" src="__PUBLIC__/yoga/js/vendor/jquery.validate.min.js"></script>
+<script type="text/javascript" src="__PUBLIC__/yoga/js/vendor/data.js"></script>
+<script type="text/javascript" src="__PUBLIC__/yoga/js/vendor/jquery.city.select.min.js"></script>
+
+<script type="text/javascript">
+	$('#gender1').click(function() {
+		$('.person-image-wrapper').find('img').attr('src', '__PUBLIC__/yoga/img/male.png');
+	});
+	$('#gender2').click(function() {
+		$('.person-image-wrapper').find('img').attr('src', '__PUBLIC__/yoga/img/female.png');
+	});
+	$('#province, #city').citylist({
+		data    : data,
+		id      : 'id',
+		children: 'cities',
+		name    : 'name',
+		metaTag : 'name'
+	});
+	$.ajax({
+		url: "{:U('User/getaddress')}",
+		dataType: 'json',
+		success: function(data) {
+			var len = data.length;
+		      var data2 = [];
+		      for (var i = 0; i < len; i++) {
+		      	data2[i] = data[i];
+		      	data2[i].id = data2[i].provinceid;
+		      	data2[i].name = data2[i].provincename;
+		      }
+			 $('#province, #city').citylist({
+					data    : data2,
+					id      : 'id',
+					children: 'cities',
+					name    : 'name',
+					metaTag : 'name',
+					idVal: true,
+
+				  });
+		}
+	})
+	$('.sign-form').validate({
+		rules: {
+			"phone": {
+				required: true,
+				validPhone: true
+			},
+			"verify": {
+				required: true
+			}
+		},
+		messages: {
+			"phone": {
+				required: "此项为必填项",
+				validPhone: "手机号格式不正确"
+			},
+			"verify": {
+				required: "此项为必填项"
+			}
+		},
+		ignore: '.ignore',
+		errorPlacement: function(error, element) {
+			error.appendTo(element.closest('.form-group').find('.error-container'))
+		}
+	});
+
+	$.validator.addMethod("validPhone", function(value, element, params) {
+		var re = new RegExp('^\\d{11}$');
+		if (params) {
+			value = parseInt(value)
+			return re.test(value);
+		}
+		return true;
+	});
+
+	$.validator.addMethod("valueNotEquals", function(value, element, params) {
+		return value != params;
+	});
+
+	$('.sign-course-form').validate({
+		rules: {
+			"personname": {
+				required: true
+			},
+			"username": {
+				required: true
+			},
+			"gender": {
+				required: true
+			},
+			"email": {
+				required: true,
+				email: true
+			},
+			// "province": {
+			// 	required: true,
+			// 	valueNotEquals: '省'
+			// },
+			"city": {
+				required: true,
+				valueNotEquals: '市'
+			},
+			"password1": {
+				required: true
+			},
+			"password2": {
+				required: true
+			}
+		},
+		messages: {
+			"personname": {
+				required: "此项为必填项"
+			},
+			"username": {
+				required: "此项为必填项"
+			},
+			"gender": {
+				required: "此项为必填项"
+			},
+			"email": {
+				required: "此项为必填项",
+				email: "请填写正确的邮箱"
+			},
+			// "province": {
+			// 	required: "此项为必填项",
+			// 	valueNotEquals: "此项为必填项"
+			// },
+			"city": {
+				required: "此项为必填项",
+				valueNotEquals: "此项为必填项"
+			},
+			"password1": {
+				required: "此项为必填项"
+			},
+			"password2": {
+				required: "此项为必填项"
+			}
+		},
+		ignore: '.ignore',
+		errorPlacement: function(error, element) {
+			error.appendTo(element.closest('.form-item').find('.error-container'))
+		}
+	});
+
+	$('.get-verifycode').click(function(e) {
+		e.preventDefault();
+		if (!$('input[name=phone]').valid()) {
+			return;
+		}
+		var duration = 60;
+	  	var start = new Date();
+	  	var startTime = start.getTime();
+	  	var process = setInterval(function() {
+	  		var current = new Date();
+	  		var currentTime = current.getTime();
+	  		var elapsedTime = Math.floor((currentTime - startTime) / 1000);
+	  		if (elapsedTime < duration) {
+	  			var btnText = (duration - elapsedTime) + '&nbsp;s后重新获取';
+	  		}
+	  		else {
+	  			clearInterval(process);
+	  			var btnText = '获取验证码';
+	  			$('.get-verifycode').removeClass('verify-disabled');
+	  			$('.get-verifycode').prop('disabled', false);
+	  		}
+	  		$('.get-verifycode').html(btnText);
+	  	}, 250);
+	  	$(this).addClass('verify-disabled');
+	  	$('.get-verifycode').prop('disabled', true);
+		/* 获取验证码 */
+		$.ajax({
+			url: "{:U('Login/putmessage')}",
+			data: {
+				tel: $('input[name=phone]').val()
+			},
+			dataType: 'json',
+			success: function(data) {
+				console.log(data)
+				$('.verify-error-container').html('')
+				if (data == 0) {
+					$('.verify-error-container').html('您今日的手机号验证次数达到上限')
+				}
+			}
+		});
+	})
+
+	$('.signup-next').click(function(e) {
+		e.preventDefault();
+		if (!$('.sign-form').valid()) {
+			return;
+		}
+		/* 验证码是否正确 */
+		$.ajax({
+			url: "{:U('Login/getstatus')}",
+			data: {
+				code: $('input[name=verify]').val(),
+				tel: $('input[name=phone]').val()
+			},
+			dataType: 'json',
+			success: function(data) {
+				console.log(data)
+				if (data == 1) {
+
+					/* 验证成功 */
+					$('.loginform-wrapper').hide();
+					$('.sign-info-wrapper').show();
+
+					$('.verify-error-container').html('');
+				}
+				else {
+					$('.verify-error-container').html('验证码错误');
+				}
+			}
+		});
+	});
+
+	$('.sign-complete').click(function(e) {
+		e.preventDefault();
+		if (!$('.sign-course-form').valid()) {
+			return;
+		}
+		else {
+			$.ajax({
+				url:"{:U('Login/runadd')}",
+	            data:$('#form0').serialize(),
+				dataType: 'json',
+					success: function(data) {
+						if(data.status==1){
+							layer.alert(data.info, {icon: 6}, function(index){
+								layer.close(index);
+								window.location.href=data.url;
+								});
+
+							return false;
+						}else{
+							layer.alert(data.info, {icon: 6}, function(index){
+								layer.close(index);
+
+								});
+							return false;
+						}
+					}
+			});
+		}
+	})
+</script>
+  <include file="Common:footer"/>
+
+</body>
+</html>

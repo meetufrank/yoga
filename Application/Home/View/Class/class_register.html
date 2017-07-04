@@ -1,0 +1,337 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <link rel="stylesheet" type="text/css" href="__PUBLIC__/yoga/css/DateTimePicker.css">
+  <link rel="stylesheet" type="text/css" href="__PUBLIC__/yoga/css/wtf-forms.css">
+<script src="http://cdn.bootcss.com/vue/1.0.25/vue.min.js"></script>
+  <script src="http://cdn.bootcss.com/vue-resource/0.9.3/vue-resource.min.js"></script>
+  <title>生活的艺术-课程报名</title>
+  <include file="Common:top"/>
+</head>
+<body>
+<div class="person-header has-background-image">
+	<div class="person-image-wrapper"><img class="res-image" src="__PUBLIC__{$persondata.member_list_headpic}" alt=""></div>
+	<div class="person-username">{$persondata.member_list_petname}</div>
+</div>
+<div class="yoga-course-form clearfix" id="person-container">
+	<form method="POST" action="" class="sign-course-form" id="form0">
+		<input type="hidden" name="form_type" value="no">
+		<input type="hidden" value="{$classid}" name="id">
+		<div class="form-item clearfix">
+			<div class="form-item-desc col-xs-12 col-sm-3">参加人姓名：</div>
+			<div class="form-input-wrapper col-xs-12 col-sm-6"><input type="text" name="participant" value="{$persondata.member_list_username}"></div>
+			<div class="error-container col-xs-12 col-sm-3"></div>
+		</div>
+		<div class="form-item clearfix">
+			<div class="form-item-desc col-xs-12 col-sm-3">生日：</div>
+			<div class="form-input-wrapper col-xs-12 col-sm-6"><label class="has-calender"><input type="text" name="birthday" data-field="date" readonly=""><span><img src="__PUBLIC__/yoga/img/calender.png" alt=""></span></label>
+			<div class="box-container"><div id="dtBox"></div></div></div><div class="error-container col-xs-12 col-sm-3"></div>
+		</div>
+		<div class="form-item clearfix">
+			<div class="form-item-desc col-xs-12 col-sm-3">性别：</div>
+			<div class="form-input-wrapper col-xs-12 col-sm-6"><div class="col-xs-5 col-sm-4 gender-single">
+	            <label for="gender1"><input type="radio" name="gender" id="gender1" value="1" <if condition="$persondata.member_list_sex eq 1">checked </if>><span>男</span></label>
+	        </div>
+	        <div class="col-xs-5 col-sm-4 gender-single">
+	            <label for="gender2"><input type="radio" name="gender" id="gender2" value="0" <if condition="$persondata.member_list_sex eq 0">checked </if>><span>女</span></label>
+	        </div></div><div class="error-container col-xs-12 col-sm-3"></div>
+		</div>
+		<div class="form-item clearfix">
+			<div class="form-item-desc col-xs-12 col-sm-3">所持护照：</div>
+			<div class="form-input-wrapper col-xs-12 col-sm-6"><input type="text" name="passport" value="中国"></div>
+			<div class="error-container col-xs-12 col-sm-3"></div>
+		</div>
+		<div class="form-item clearfix">
+			<div class="form-item-desc col-xs-12 col-sm-6 col-md-5">是否参加过生活艺术的其他课程：</div>
+			<div class="form-input-wrapper col-xs-12 col-sm-6 col-md-7">
+			<a class="col-xs-5 col-sm-4 already">
+	            <label for="already1"><input type="radio" name="already" id="already1" value="1" checked><span>是</span></label>
+	        </a>
+	        <a class="col-xs-5 col-sm-4 already">
+	            <label for="already2"><input type="radio" name="already" id="already2" value="0"><span>否</span></label>
+	        </a></div><div class="error-container col-xs-12 col-sm-offset-6 col-md-offset-5 col-sm-3"></div>
+		</div>
+		<div class="form-item clearfix">
+			<div class="form-item-desc col-xs-12 col-sm-3">课程类型：</div>
+			<div class="form-input-wrapper col-xs-12 col-sm-6"><select id="course_type" name="course_type">
+				<option></option>
+				<foreach name="classtype" item="cp">
+				<option value="{$cp}">{$cp}</option>
+				</foreach>
+
+			</select></div><div class="error-container col-xs-12 col-sm-3"></div>
+		</div>
+		<if condition="$homestatus eq 1">
+		<div class="form-item clearfix">
+			<div class="form-item-desc col-xs-12 col-sm-3">所需房型：</div>
+			<div class="form-input-wrapper col-xs-12 col-sm-6"><select id="house_type" name="house_type">
+				<option></option>
+				<option value="单人间">单人间</option>
+				<option value="双人间">双人间</option>
+				<option value="三人间">三人间</option>
+			</select></div><div class="error-container col-xs-12 col-sm-3"></div>
+		</div>
+		</if>
+		<div class="form-item clearfix">
+			<div class="form-item-desc col-xs-12 col-sm-3">联系电话：</div>
+			<div class="form-input-wrapper col-xs-12 col-sm-6"><input type="text" name="phone" value="{$persondata.member_list_tel}"></div><div class="error-container col-xs-12 col-sm-3"></div>
+		</div>
+		<php>
+					$pid=$persondata['member_list_province'];
+					$cid=$persondata['member_list_city'];
+
+		</php>
+		<div class="form-item clearfix">
+			<div class="form-item-desc col-xs-12 col-sm-3">所在地：</div>
+			<div class="form-input-wrapper col-xs-12 col-sm-6">
+			<div class="col-xs-5 col-sm-4 place"><select class="" id="province" name="province"></select></div>
+			<div class="col-xs-5 col-sm-4 place"><select class="" id="city" name="city"></select></div></div><div class="error-container col-xs-12 col-sm-3"></div>
+		</div>
+		<div class="form-item clearfix">
+			<div class="form-item-desc col-xs-12 col-sm-3">Email：</div>
+			<div class="form-input-wrapper col-xs-12 col-sm-6"><input type="text" name="email" value="{$persondata.member_list_email}"></div><div class="error-container col-xs-12 col-sm-3"></div>
+		</div>
+		<div class="form-item clearfix">
+			<div class="form-item-desc col-xs-12 col-sm-6 col-md-5">近期6个月内是否有任何身心状况？：</div>
+			<div class="form-input-wrapper col-xs-12 col-sm-6 col-md-7">
+			<a class="col-xs-5 col-sm-4 health">
+	            <label for="health1"><input type="radio" name="health" id="health1" value="1"><span>是</span></label>
+	        </a>
+	        <a class="col-xs-5 col-sm-4 health">
+	            <label for="health2"><input type="radio" name="health" id="health2" value="0" checked><span>否</span></label>
+	        </a>
+	        </div><div class="error-container col-xs-12 col-sm-offset-6 col-md-offset-5 col-sm-3"></div>
+		</div>
+		<div class="form-item health-wrapper clearfix">
+		<div class="form-input-wrapper col-xs-12">
+			<div class="health-single col-xs-4 col-md-2"><label class="control checkbox"><input type="checkbox" name="health_problem[]" value="怀孕"><span class="control-indicator"></span>怀孕</label></div>
+			<div class="health-single col-xs-4 col-md-2"><label class="control checkbox"><input type="checkbox" name="health_problem[]" value="哮喘"><span class="control-indicator"></span>哮喘</label></div>
+			<div class="health-single col-xs-4 col-md-2"><label class="control checkbox"><input type="checkbox" name="health_problem[]" value="糖尿病"><span class="control-indicator"></span>糖尿病</label></div>
+			<div class="health-single col-xs-4 col-md-2"><label class="control checkbox"><input type="checkbox" name="health_problem[]" value="高血压"><span class="control-indicator"></span>高血压</label></div>
+			<div class="health-single col-xs-4 col-md-2"><label class="control checkbox"><input type="checkbox" name="health_problem[]" value="忧郁"><span class="control-indicator"></span>忧郁</label></div>
+			<div class="health-single col-xs-4 col-md-2"><label class="control checkbox"><input type="checkbox" name="health_problem[]" value="化放疗"><span class="control-indicator"></span>化放疗</label></div>
+			<div class="health-single col-xs-4 col-md-2"><label class="control checkbox"><input type="checkbox" name="health_problem[]" value="心脏疾病"><span class="control-indicator"></span>心脏疾病</label></div>
+			<div class="health-single col-xs-4 col-md-2"><label class="control checkbox"><input type="checkbox" name="health_problem[]" value="骨折"><span class="control-indicator"></span>骨折</label></div>
+			<div class="health-single col-xs-4 col-md-2"><label class="control checkbox"><input type="checkbox" name="health_problem[]" value="自闭"><span class="control-indicator"></span>自闭</label></div>
+			<div class="health-single col-xs-4 col-md-2"><label class="control checkbox"><input type="checkbox" name="health_problem[]" value="青光眼"><span class="control-indicator"></span>青光眼</label></div>
+			<div class="health-single col-xs-4 col-md-2"><label class="control checkbox"><input type="checkbox" name="health_problem[]" value="癫痫"><span class="control-indicator"></span>癫痫</label></div>
+			<div class="health-single col-xs-4 col-md-2"><label class="control checkbox"><input type="checkbox" name="health_problem[]" value="其他"><span class="control-indicator"></span>其他</label></div></div><div class="error-container col-xs-12"></div>
+		</div>
+		<div class="form-item clearfix">
+			<div class="form-item-desc col-xs-12 col-sm-3">其他</div>
+			<div class="form-input-wrapper col-xs-12 col-sm-6"><input type="text" name="other"  placeholder="注：若无其他疾病则无需填写"></div>
+		</div>
+		<div class="form-item clearfix">
+			<div class="form-item-desc col-xs-12 col-sm-3">与服用药物名称</div>
+			<div class="form-input-wrapper col-xs-12 col-sm-6"><input type="text" name="medicine" placeholder="注：若无药品需求则无需填写"></div>
+		</div>
+		<div class="form-item clearfix">
+			<div class="form-item-desc col-xs-12 col-sm-3">备注</div>
+			<div class="form-input-wrapper col-xs-12 col-sm-6"><textarea></textarea></div>
+		</div>
+		<div class="col-sm-9 sign-course-wrapper">
+		<a  class="person-edit-info sign-course1" href="{:U('Class/class_content',array('id'=>$classid))}" >取消</a>
+		<input type="submit" class="person-edit-info sign-course1" value="提交" id="sign-course">
+
+		</div>
+	</form>
+</div>
+<div class="bottom-background has-background-image">
+</div>
+
+<script type="text/javascript" src="__PUBLIC__/yoga/js/vendor/DateTimePicker.min.js"></script>
+<script type="text/javascript" src="__PUBLIC__/yoga/js/vendor/DatetimePicker-i18n-zh-CN.js"></script>
+<script type="text/javascript" src="__PUBLIC__/yoga/js/vendor/jquery.city.select.min.js"></script>
+<script type="text/javascript" src="__PUBLIC__/yoga/js/vendor/data.js"></script>
+<script type="text/javascript" src="__PUBLIC__/yoga/js/vendor/jquery.validate.min.js"></script>
+<script type="text/javascript">
+$(function($) {
+	$(function(){
+        var $divWidth = $('.person-image-wrapper img').width();
+        $('.person-image-wrapper img').css({'height':$divWidth});
+    })
+    new Vue({
+	el: '#person-container',
+	ready: function() {
+	this.$http.get("{:U('Class/getaddress')}").then(function(response) {
+		      var len = response.data.length;
+		      var data = [];
+		      for (var i = 0; i < len; i++) {
+		      	data[i] = response.data[i];
+		      	data[i].id = data[i].provinceid;
+		      	data[i].name = data[i].provincename;
+		      }
+		      $('#province, #city').citylist({
+				data    : data,
+				id      : 'id',
+				children: 'cities',
+				name    : 'name',
+				metaTag : 'name',
+				idVal: true,
+				selected: [<?php echo $pid;?>, <?php echo $cid;?>]
+			  });
+		    }, function(response) {
+
+		    });
+	}
+    })
+	/* 日历控件 */
+	$('#dtBox').DateTimePicker({
+		language: "zh-CN",
+		addEventHandlers: function() {
+		  var oDTP = this;
+		  oDTP.settings.minDate = oDTP.getDateTimeStringInFormat("Date", "yyyy-MM-dd", new Date(1890,1,1));
+		  oDTP.settings.maxDate = oDTP.getDateTimeStringInFormat("Date", "yyyy-MM-dd", new Date());
+		}
+	});
+
+	$('.sign-course-form').validate({
+		rules: {
+			"participant": {
+				required: true
+			},
+			"birthday": {
+				required: true
+			},
+			"gender": {
+				required: true
+			},
+			"already": {
+				required: true
+			},
+			"course_type": {
+				required: {
+					depends: function(element) {
+						return $('#already1').is(":checked");
+					}
+				}
+			},
+			"phone": {
+				required: true,
+				validPhone: true
+			},
+			// "province": {
+			// 	required: true,
+			// 	valueNotEquals: '省'
+			// },
+			"city": {
+				required: true,
+				valueNotEquals: '市'
+			},
+			"email": {
+				required: true,
+				email: true
+			},
+			"health": {
+				required: true
+			},
+			"health_problem[]": {
+				required: {
+					depends: function(element) {
+						return $('#health1').is(":checked");
+					}
+				}
+			}
+
+		},
+		messages: {
+			"participant": {
+				required: "此项为必填项"
+			},
+			"birthday": {
+				required: "此项为必填项"
+			},
+			"gender": {
+				required: "此项为必填项"
+			},
+			"already": {
+				required: "此项为必填项"
+			},
+			"course_type": {
+				required: "此项为必填项"
+			},
+			"phone": {
+				required: "此项为必填项",
+				validPhone: "请填写11位手机号码"
+			},
+			// "province": {
+			// 	required: "此项为必填项",
+			// 	valueNotEquals: "此项为必填项"
+			// },
+			"city": {
+				required: "此项为必填项",
+				valueNotEquals: "此项为必填项"
+			},
+			"email": {
+				required: "此项为必填项",
+				email: "请填写正确的邮箱"
+			},
+			"health": {
+				required: "此项为必填项"
+			},
+			"health_problem[]": {
+				required: "请至少勾选一项"
+			}
+
+		},
+		ignore: '.ignore',
+		errorPlacement: function(error, element) {
+			error.appendTo(element.closest('.form-item').find('.error-container'))
+		}
+	});
+
+	$.validator.addMethod("valueNotEquals", function(value, element, params) {
+		return value != params;
+	});
+
+	$.validator.addMethod("validPhone", function(value, element, params) {
+		var re = new RegExp('^\\d{11}$');
+		if (params) {
+			value = parseInt(value)
+			console.log(value)
+			console.log(re.test(value))
+			return re.test(value);
+		}
+		return true;
+	});
+	function logcomplete(data){
+		if(data.status==1){
+			layer.alert(data.info, {icon: 6}, function(index){
+				layer.close(index);
+	 			window.location.href=data.url;
+				});
+			return false;
+		}else{
+			layer.alert(data.info, {icon: 6}, function(index){
+
+				layer.close(index);
+
+				});
+			return false;
+		}
+	}
+
+	/* 表单递交 */
+	$('#sign-course').click(function(e) {
+		e.preventDefault();
+		if ($('.sign-course-form').valid()) {
+
+			$.ajax({
+				url:"{:U('class/class_register_add')}",
+	            data:$('#form0').serialize(),
+				success: logcomplete, // 这是提交后的方法
+				dataType: 'json'
+			});
+
+
+		}
+
+	})
+
+});
+</script>
+<include file="Common:footer"/>
+</body>
+</html>

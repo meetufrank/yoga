@@ -1,0 +1,1176 @@
+[ 2016-09-21T14:15:16+08:00 ] ::1 /yoga/index.php/Admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-09-21T14:15:16+08:00 ] ::1 /yoga/Admin/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-21T14:15:22+08:00 ] ::1 /yoga/Admin/Login/runlogin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-21T14:15:24+08:00 ] ::1 /yoga/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Division by zero E:\www\yoga\Application\Admin\Controller\IndexController.class.php 第 38 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: se E:\www\yoga\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 198 行.
+NOTIC: [8] Undefined index: se E:\www\yoga\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 198 行.
+NOTIC: [8] Undefined index: se E:\www\yoga\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 198 行.
+NOTIC: [8] Undefined index: se E:\www\yoga\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 198 行.
+NOTIC: [8] Undefined index: se E:\www\yoga\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 198 行.
+NOTIC: [8] Undefined index: se E:\www\yoga\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 198 行.
+NOTIC: [8] Undefined index: se E:\www\yoga\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 198 行.
+NOTIC: [8] Undefined index: se E:\www\yoga\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 198 行.
+NOTIC: [8] Undefined index: se E:\www\yoga\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 198 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.286016s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.286016s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-21T14:15:31+08:00 ] ::1 /yoga/Admin/News/news_list/se/8.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined offset: 1 E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 24 行.
+NOTIC: [8] Undefined variable: map E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 50 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 50 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' E:\www\yoga\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 436 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' E:\www\yoga\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 436 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' E:\www\yoga\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 436 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.102006s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.102006s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-09-21T14:15:33+08:00 ] ::1 /yoga/Admin/News/news_back.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined offset: 1 E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 399 行.
+NOTIC: [8] Undefined variable: map E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 425 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 425 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: opentype_check E:\www\yoga\Application\Runtime\Cache\Admin\63a14476e9b8e15b87628f93e42f8a66.php 第 349 行.
+NOTIC: [8] Undefined variable: opentype_check E:\www\yoga\Application\Runtime\Cache\Admin\63a14476e9b8e15b87628f93e42f8a66.php 第 350 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-09-21T14:15:35+08:00 ] ::1 /yoga/Admin/News/news_listadd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant c - assumed 'c' E:\www\yoga\Application\Runtime\Cache\Admin\e426850b924cec834bfb580607d50e47.php 第 266 行.
+NOTIC: [8] Use of undefined constant c - assumed 'c' E:\www\yoga\Application\Runtime\Cache\Admin\e426850b924cec834bfb580607d50e47.php 第 266 行.
+NOTIC: [8] Use of undefined constant c - assumed 'c' E:\www\yoga\Application\Runtime\Cache\Admin\e426850b924cec834bfb580607d50e47.php 第 266 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.058004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.058004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-21T14:15:38+08:00 ] ::1 /yoga/Admin/News/news_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined offset: 1 E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 24 行.
+NOTIC: [8] Undefined variable: map E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 50 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 50 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' E:\www\yoga\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 436 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' E:\www\yoga\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 436 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' E:\www\yoga\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 436 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-21T14:15:42+08:00 ] ::1 /yoga/Admin/News/news_list_del/ad_id/29/p/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-21T14:15:43+08:00 ] ::1 /yoga/Admin/News/news_list/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined offset: 1 E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 24 行.
+NOTIC: [8] Undefined variable: map E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 50 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 50 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' E:\www\yoga\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 436 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' E:\www\yoga\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 436 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-09-21T14:15:46+08:00 ] ::1 /yoga/Admin/News/news_back.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined offset: 1 E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 399 行.
+NOTIC: [8] Undefined variable: map E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 425 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 425 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: opentype_check E:\www\yoga\Application\Runtime\Cache\Admin\63a14476e9b8e15b87628f93e42f8a66.php 第 349 行.
+NOTIC: [8] Undefined variable: opentype_check E:\www\yoga\Application\Runtime\Cache\Admin\63a14476e9b8e15b87628f93e42f8a66.php 第 350 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' E:\www\yoga\Application\Runtime\Cache\Admin\63a14476e9b8e15b87628f93e42f8a66.php 第 441 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-21T14:18:09+08:00 ] ::1 /yoga/Admin/News/news_back.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined offset: 1 E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 399 行.
+NOTIC: [8] Undefined variable: map E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 425 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 425 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: opentype_check E:\www\yoga\Application\Runtime\Cache\Admin\63a14476e9b8e15b87628f93e42f8a66.php 第 349 行.
+NOTIC: [8] Undefined variable: opentype_check E:\www\yoga\Application\Runtime\Cache\Admin\63a14476e9b8e15b87628f93e42f8a66.php 第 350 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' E:\www\yoga\Application\Runtime\Cache\Admin\63a14476e9b8e15b87628f93e42f8a66.php 第 441 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-09-21T14:19:02+08:00 ] ::1 /yoga/Admin/News/news_back.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined offset: 1 E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 399 行.
+NOTIC: [8] Undefined variable: map E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 425 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 425 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: opentype_check E:\www\yoga\Application\Runtime\Cache\Admin\63a14476e9b8e15b87628f93e42f8a66.php 第 349 行.
+NOTIC: [8] Undefined variable: opentype_check E:\www\yoga\Application\Runtime\Cache\Admin\63a14476e9b8e15b87628f93e42f8a66.php 第 350 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' E:\www\yoga\Application\Runtime\Cache\Admin\63a14476e9b8e15b87628f93e42f8a66.php 第 441 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-09-21T14:20:13+08:00 ] ::1 /yoga/Admin/News/news_back.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined offset: 1 E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 399 行.
+NOTIC: [8] Undefined variable: map E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 425 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 425 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: opentype_check E:\www\yoga\Application\Runtime\Cache\Admin\63a14476e9b8e15b87628f93e42f8a66.php 第 349 行.
+NOTIC: [8] Undefined variable: opentype_check E:\www\yoga\Application\Runtime\Cache\Admin\63a14476e9b8e15b87628f93e42f8a66.php 第 350 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' E:\www\yoga\Application\Runtime\Cache\Admin\63a14476e9b8e15b87628f93e42f8a66.php 第 441 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-21T14:21:10+08:00 ] ::1 /yoga/Admin/News/news_back.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined offset: 1 E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 399 行.
+NOTIC: [8] Undefined variable: map E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 425 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 425 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: opentype_check E:\www\yoga\Application\Runtime\Cache\Admin\63a14476e9b8e15b87628f93e42f8a66.php 第 349 行.
+NOTIC: [8] Undefined variable: opentype_check E:\www\yoga\Application\Runtime\Cache\Admin\63a14476e9b8e15b87628f93e42f8a66.php 第 350 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' E:\www\yoga\Application\Runtime\Cache\Admin\63a14476e9b8e15b87628f93e42f8a66.php 第 441 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-09-21T14:22:31+08:00 ] ::1 /yoga/Admin/News/news_back.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.107006s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.107006s ]
+NOTIC: [8] Undefined offset: 1 E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 399 行.
+NOTIC: [8] Undefined variable: map E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 425 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 425 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: opentype_check E:\www\yoga\Application\Runtime\Cache\Admin\63a14476e9b8e15b87628f93e42f8a66.php 第 349 行.
+NOTIC: [8] Undefined variable: opentype_check E:\www\yoga\Application\Runtime\Cache\Admin\63a14476e9b8e15b87628f93e42f8a66.php 第 350 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' E:\www\yoga\Application\Runtime\Cache\Admin\63a14476e9b8e15b87628f93e42f8a66.php 第 441 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.065004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.065004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-21T14:25:28+08:00 ] ::1 /yoga/Admin/News/news_back.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined offset: 1 E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 399 行.
+NOTIC: [8] Undefined variable: map E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 425 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 425 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: opentype_check E:\www\yoga\Application\Runtime\Cache\Admin\63a14476e9b8e15b87628f93e42f8a66.php 第 349 行.
+NOTIC: [8] Undefined variable: opentype_check E:\www\yoga\Application\Runtime\Cache\Admin\63a14476e9b8e15b87628f93e42f8a66.php 第 350 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' E:\www\yoga\Application\Runtime\Cache\Admin\63a14476e9b8e15b87628f93e42f8a66.php 第 441 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-21T14:26:50+08:00 ] ::1 /yoga/Admin/News/news_back.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined offset: 1 E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 399 行.
+NOTIC: [8] Undefined variable: map E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 425 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 425 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: opentype_check E:\www\yoga\Application\Runtime\Cache\Admin\63a14476e9b8e15b87628f93e42f8a66.php 第 349 行.
+NOTIC: [8] Undefined variable: opentype_check E:\www\yoga\Application\Runtime\Cache\Admin\63a14476e9b8e15b87628f93e42f8a66.php 第 350 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' E:\www\yoga\Application\Runtime\Cache\Admin\63a14476e9b8e15b87628f93e42f8a66.php 第 441 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-09-21T14:27:18+08:00 ] ::1 /yoga/Admin/News/news_back.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined offset: 1 E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 399 行.
+NOTIC: [8] Undefined variable: map E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 425 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 425 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: opentype_check E:\www\yoga\Application\Runtime\Cache\Admin\63a14476e9b8e15b87628f93e42f8a66.php 第 349 行.
+NOTIC: [8] Undefined variable: opentype_check E:\www\yoga\Application\Runtime\Cache\Admin\63a14476e9b8e15b87628f93e42f8a66.php 第 350 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' E:\www\yoga\Application\Runtime\Cache\Admin\63a14476e9b8e15b87628f93e42f8a66.php 第 441 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.037002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.037002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-09-21T14:27:51+08:00 ] ::1 /yoga/Admin/News/news_back.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.089005s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.089005s ]
+NOTIC: [8] Undefined offset: 1 E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 399 行.
+NOTIC: [8] Undefined variable: map E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 425 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 425 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: opentype_check E:\www\yoga\Application\Runtime\Cache\Admin\63a14476e9b8e15b87628f93e42f8a66.php 第 349 行.
+NOTIC: [8] Undefined variable: opentype_check E:\www\yoga\Application\Runtime\Cache\Admin\63a14476e9b8e15b87628f93e42f8a66.php 第 350 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' E:\www\yoga\Application\Runtime\Cache\Admin\63a14476e9b8e15b87628f93e42f8a66.php 第 441 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-09-21T14:37:40+08:00 ] ::1 /yoga/Admin/News/news_back.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined offset: 1 E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 399 行.
+NOTIC: [8] Undefined variable: map E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 425 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 425 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: opentype_check E:\www\yoga\Application\Runtime\Cache\Admin\63a14476e9b8e15b87628f93e42f8a66.php 第 349 行.
+NOTIC: [8] Undefined variable: opentype_check E:\www\yoga\Application\Runtime\Cache\Admin\63a14476e9b8e15b87628f93e42f8a66.php 第 350 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' E:\www\yoga\Application\Runtime\Cache\Admin\63a14476e9b8e15b87628f93e42f8a66.php 第 441 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-21T15:26:57+08:00 ] ::1 /yoga/Admin/News/news_back.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined offset: 1 E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 399 行.
+NOTIC: [8] Undefined variable: map E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 425 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 425 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: opentype_check E:\www\yoga\Application\Runtime\Cache\Admin\63a14476e9b8e15b87628f93e42f8a66.php 第 349 行.
+NOTIC: [8] Undefined variable: opentype_check E:\www\yoga\Application\Runtime\Cache\Admin\63a14476e9b8e15b87628f93e42f8a66.php 第 350 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' E:\www\yoga\Application\Runtime\Cache\Admin\63a14476e9b8e15b87628f93e42f8a66.php 第 441 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-09-21T15:27:53+08:00 ] ::1 /yoga/Admin/News/news_back.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined offset: 1 E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 399 行.
+NOTIC: [8] Undefined variable: map E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 425 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 425 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: opentype_check E:\www\yoga\Application\Runtime\Cache\Admin\63a14476e9b8e15b87628f93e42f8a66.php 第 349 行.
+NOTIC: [8] Undefined variable: opentype_check E:\www\yoga\Application\Runtime\Cache\Admin\63a14476e9b8e15b87628f93e42f8a66.php 第 350 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' E:\www\yoga\Application\Runtime\Cache\Admin\63a14476e9b8e15b87628f93e42f8a66.php 第 441 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-21T15:28:15+08:00 ] ::1 /yoga/Admin/News/news_back.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined offset: 1 E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 399 行.
+NOTIC: [8] Undefined variable: map E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 425 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 425 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: opentype_check E:\www\yoga\Application\Runtime\Cache\Admin\63a14476e9b8e15b87628f93e42f8a66.php 第 349 行.
+NOTIC: [8] Undefined variable: opentype_check E:\www\yoga\Application\Runtime\Cache\Admin\63a14476e9b8e15b87628f93e42f8a66.php 第 350 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' E:\www\yoga\Application\Runtime\Cache\Admin\63a14476e9b8e15b87628f93e42f8a66.php 第 441 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.037002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.037002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-09-21T15:28:27+08:00 ] ::1 /yoga/Admin/News/news_back.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined offset: 1 E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 399 行.
+NOTIC: [8] Undefined variable: map E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 425 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 425 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: opentype_check E:\www\yoga\Application\Runtime\Cache\Admin\63a14476e9b8e15b87628f93e42f8a66.php 第 349 行.
+NOTIC: [8] Undefined variable: opentype_check E:\www\yoga\Application\Runtime\Cache\Admin\63a14476e9b8e15b87628f93e42f8a66.php 第 350 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' E:\www\yoga\Application\Runtime\Cache\Admin\63a14476e9b8e15b87628f93e42f8a66.php 第 441 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-21T15:28:45+08:00 ] ::1 /yoga/Admin/News/news_back.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined offset: 1 E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 399 行.
+NOTIC: [8] Undefined variable: map E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 425 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 425 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001001s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] Undefined variable: opentype_check E:\www\yoga\Application\Runtime\Cache\Admin\63a14476e9b8e15b87628f93e42f8a66.php 第 349 行.
+NOTIC: [8] Undefined variable: opentype_check E:\www\yoga\Application\Runtime\Cache\Admin\63a14476e9b8e15b87628f93e42f8a66.php 第 350 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' E:\www\yoga\Application\Runtime\Cache\Admin\63a14476e9b8e15b87628f93e42f8a66.php 第 441 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-09-21T15:29:49+08:00 ] ::1 /yoga/Admin/News/news_back.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined offset: 1 E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 399 行.
+NOTIC: [8] Undefined variable: map E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 425 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 425 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: opentype_check E:\www\yoga\Application\Runtime\Cache\Admin\63a14476e9b8e15b87628f93e42f8a66.php 第 349 行.
+NOTIC: [8] Undefined variable: opentype_check E:\www\yoga\Application\Runtime\Cache\Admin\63a14476e9b8e15b87628f93e42f8a66.php 第 350 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' E:\www\yoga\Application\Runtime\Cache\Admin\63a14476e9b8e15b87628f93e42f8a66.php 第 441 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-21T15:29:57+08:00 ] ::1 /yoga/Admin/News/news_back_del.html?n_id=29&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-09-21T15:29:59+08:00 ] ::1 /yoga/Admin/News/news_back.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined offset: 1 E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 399 行.
+NOTIC: [8] Undefined variable: map E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 425 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 425 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: opentype_check E:\www\yoga\Application\Runtime\Cache\Admin\63a14476e9b8e15b87628f93e42f8a66.php 第 349 行.
+NOTIC: [8] Undefined variable: opentype_check E:\www\yoga\Application\Runtime\Cache\Admin\63a14476e9b8e15b87628f93e42f8a66.php 第 350 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-21T15:34:57+08:00 ] ::1 /yoga/Admin/News/news_back.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined offset: 1 E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 399 行.
+NOTIC: [8] Undefined variable: map E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 425 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 425 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: opentype_check E:\www\yoga\Application\Runtime\Cache\Admin\63a14476e9b8e15b87628f93e42f8a66.php 第 349 行.
+NOTIC: [8] Undefined variable: opentype_check E:\www\yoga\Application\Runtime\Cache\Admin\63a14476e9b8e15b87628f93e42f8a66.php 第 350 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-21T15:39:00+08:00 ] ::1 /yoga/Admin/News/news_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined offset: 1 E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 24 行.
+NOTIC: [8] Undefined variable: map E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 50 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 50 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' E:\www\yoga\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 436 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' E:\www\yoga\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 436 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-09-21T15:39:04+08:00 ] ::1 /yoga/Admin/News/news_back.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined offset: 1 E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 399 行.
+NOTIC: [8] Undefined variable: map E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 425 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 425 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: opentype_check E:\www\yoga\Application\Runtime\Cache\Admin\63a14476e9b8e15b87628f93e42f8a66.php 第 349 行.
+NOTIC: [8] Undefined variable: opentype_check E:\www\yoga\Application\Runtime\Cache\Admin\63a14476e9b8e15b87628f93e42f8a66.php 第 350 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-09-21T15:39:48+08:00 ] ::1 /yoga/Admin/News/news_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined offset: 1 E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 24 行.
+NOTIC: [8] Undefined variable: map E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 50 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 50 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' E:\www\yoga\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 436 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' E:\www\yoga\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 436 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-09-21T15:39:56+08:00 ] ::1 /yoga/Admin/News/news_list_del/ad_id/28/p/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-21T15:39:57+08:00 ] ::1 /yoga/Admin/News/news_list/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined offset: 1 E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 24 行.
+NOTIC: [8] Undefined variable: map E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 50 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 50 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' E:\www\yoga\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 436 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.040002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-09-21T15:40:01+08:00 ] ::1 /yoga/Admin/News/news_back.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined offset: 1 E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 399 行.
+NOTIC: [8] Undefined variable: map E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 425 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 425 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: opentype_check E:\www\yoga\Application\Runtime\Cache\Admin\63a14476e9b8e15b87628f93e42f8a66.php 第 349 行.
+NOTIC: [8] Undefined variable: opentype_check E:\www\yoga\Application\Runtime\Cache\Admin\63a14476e9b8e15b87628f93e42f8a66.php 第 350 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' E:\www\yoga\Application\Runtime\Cache\Admin\63a14476e9b8e15b87628f93e42f8a66.php 第 441 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-21T15:40:40+08:00 ] ::1 /yoga/Admin/News/news_back.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined offset: 1 E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 399 行.
+NOTIC: [8] Undefined variable: map E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 425 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 425 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: opentype_check E:\www\yoga\Application\Runtime\Cache\Admin\63a14476e9b8e15b87628f93e42f8a66.php 第 349 行.
+NOTIC: [8] Undefined variable: opentype_check E:\www\yoga\Application\Runtime\Cache\Admin\63a14476e9b8e15b87628f93e42f8a66.php 第 350 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' E:\www\yoga\Application\Runtime\Cache\Admin\63a14476e9b8e15b87628f93e42f8a66.php 第 441 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-09-21T15:40:56+08:00 ] ::1 /yoga/Admin/News/news_back_del.html?n_id=28&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-09-21T15:41:03+08:00 ] ::1 /yoga/Admin/News/active_register_list/ad_id/28.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-21T15:41:06+08:00 ] ::1 /yoga/Admin/News/active_register_del/ar_id/1/p/1/ad_id/28
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-09-21T15:41:07+08:00 ] ::1 /yoga/Admin/News/active_register_list/p/1/ad_id/28.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\www\yoga\Application\Admin\Model\RegisterModel.class.php 第 25 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.071004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.071004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-09-21T15:41:13+08:00 ] ::1 /yoga/Admin/News/news_back.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined offset: 1 E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 399 行.
+NOTIC: [8] Undefined variable: map E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 425 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 425 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: opentype_check E:\www\yoga\Application\Runtime\Cache\Admin\63a14476e9b8e15b87628f93e42f8a66.php 第 349 行.
+NOTIC: [8] Undefined variable: opentype_check E:\www\yoga\Application\Runtime\Cache\Admin\63a14476e9b8e15b87628f93e42f8a66.php 第 350 行.
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' E:\www\yoga\Application\Runtime\Cache\Admin\63a14476e9b8e15b87628f93e42f8a66.php 第 441 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-09-21T15:41:16+08:00 ] ::1 /yoga/Admin/News/news_back_del.html?n_id=28&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-09-21T15:41:26+08:00 ] ::1 /yoga/Admin/News/news_back.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined offset: 1 E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 399 行.
+NOTIC: [8] Undefined variable: map E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 425 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 425 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: opentype_check E:\www\yoga\Application\Runtime\Cache\Admin\63a14476e9b8e15b87628f93e42f8a66.php 第 349 行.
+NOTIC: [8] Undefined variable: opentype_check E:\www\yoga\Application\Runtime\Cache\Admin\63a14476e9b8e15b87628f93e42f8a66.php 第 350 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-09-21T15:45:28+08:00 ] ::1 /yoga/Admin/News/class_list/se/184.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined offset: 1 E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 622 行.
+NOTIC: [8] Undefined variable: map E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 649 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 649 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-09-21T15:50:51+08:00 ] ::1 /yoga/Admin/News/class_listadd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-09-21T15:50:56+08:00 ] ::1 /yoga/Admin/Ajax/getClass.html?pid=g
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-09-21T15:51:57+08:00 ] ::1 /yoga/Admin/News/class_runadd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\www\yoga\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Use of undefined constant savepath - assumed 'savepath' E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 732 行.
+NOTIC: [8] Use of undefined constant savename - assumed 'savename' E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 732 行.
+NOTIC: [8] Undefined variable: str E:\www\yoga\ThinkPHP\Library\Org\Util\Pinyin.class.php 第 116 行.
+NOTIC: [8] Undefined variable: str E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 791 行.
+
+[ 2016-09-21T15:52:00+08:00 ] ::1 /yoga/Admin/News/class_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined offset: 1 E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 622 行.
+NOTIC: [8] Undefined variable: map E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 649 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 649 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant mc_open - assumed 'mc_open' E:\www\yoga\Application\Runtime\Cache\Admin\3308fa03f617690ca40b4fd14facce27.php 第 445 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-21T15:52:07+08:00 ] ::1 /yoga/Admin/News/class_register_list/mc_id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\www\yoga\Application\Admin\Model\ClregisterModel.class.php 第 25 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-21T15:52:13+08:00 ] ::1 /yoga/Admin/News/news_list/se/8.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined offset: 1 E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 24 行.
+NOTIC: [8] Undefined variable: map E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 50 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 50 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant ad_open - assumed 'ad_open' E:\www\yoga\Application\Runtime\Cache\Admin\5dc7cb56e7e8cd7601e6f40f87c141e0.php 第 436 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-21T15:52:19+08:00 ] ::1 /yoga/Admin/News/class_list/se/184.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined offset: 1 E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 622 行.
+NOTIC: [8] Undefined variable: map E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 649 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\www\yoga\Application\Admin\Controller\NewsController.class.php 第 649 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant mc_open - assumed 'mc_open' E:\www\yoga\Application\Runtime\Cache\Admin\3308fa03f617690ca40b4fd14facce27.php 第 445 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+

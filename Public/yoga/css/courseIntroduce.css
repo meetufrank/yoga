@@ -1,0 +1,322 @@
+/*手机端*/
+@media (max-width: 768px){
+	/*body{
+		padding-bottom: 60px;
+	}*/
+	.whole{
+		background-image: url(../images/backgroundPic.jpg);
+		padding: 20px 20px 60px 20px;
+	}
+
+	.whiteDiv{
+		background-color: #F9F9F9;
+		padding: 20px 20px;
+	}
+	.toHeart{
+		font-size: 1.8rem;
+	}
+	.highcourse{
+		margin: 0 0 30px 0;
+	}
+	.timeAndRightSecond .bottomSpace{
+		margin-bottom: 50px;
+	}
+	/* p{
+		line-height: 25px;
+		letter-spacing: 1px;
+		font-size: 1.5rem;
+	} */
+	.timeAndRightSecond p,.neirong p{
+		line-height: 25px;
+		letter-spacing: 1px;
+		font-size: 1.5rem;
+	}
+	.xinde{
+		height: 500px;
+		margin: 50px 0;
+	}
+	.xinde .parentShoujiUl ul li{
+		margin-top: 25px;
+	}
+	.PCul{
+		display: none;
+	}
+	/*视频*/
+	.shipin{
+		margin-bottom: 30px;
+	}
+	.shipin iframe{
+		width: 85%;
+		min-height: 280px;
+	}
+	.rightNeirong{
+		width: 50%;
+		margin: 50px auto;
+	}
+	.join{
+		width: 100%;
+		position: fixed;
+		bottom: 0;
+		left: 0;
+		z-index: 1000;
+	}
+	/*焦点图*/
+	#parentShoujiUl{ width:400%; height:400px; position:relative; }
+	#list{ width:100%; position:absolute; z-index:1; }
+	#list ul{ float:left;}
+	#buttons{ position:absolute; height:10px; width:85px; z-index:2; bottom:0px; left:12%;}
+	#buttons span{ cursor:pointer; float:left; border:1px solid #FFF; width:10px; height:10px; background:#333; margin-right:5px;}
+	#buttons .on{ background:orangered;}
+
+	
+}
+/*电脑端*/
+@media (min-width: 769px){
+	body{
+		background-color: #F9F9F9;
+	}
+	.whole{
+		width: 90%;
+	}
+	.topImg{
+		margin: 0 0 80px 0;
+	}
+	.highcourse{
+		margin: 0 0 80px 0;
+	}
+	.timeAndRightFirst{
+		width: 50%;
+		float: left;
+		margin-right: 40px; 
+	}
+	.timeAndRightSecond .bottomSpace{
+		margin-bottom: 40px;
+	}
+	.timeAndRightSecond p{
+		line-height: 25px;
+		letter-spacing: 2px;
+		font-size: 1.4rem;
+	}
+	.xinde{
+		padding: 10px;
+		margin:50px 0 0 0;
+	}
+	.parentShoujiUl{
+		display: none;
+	}
+	.xinde .PCul li{
+		width: 20%;
+		margin: 20px 10px;
+	}
+	.xinde .PCul li p{
+		font-size: 1.2rem;
+		letter-spacing: 1px;
+		line-height: 18px;
+	}
+	/*视频*/
+	.shipin{
+		margin-bottom: 80px;
+		padding: 50px 0;
+		background-image: url(../images/backgroundPic.jpg);
+	}
+	.shipin iframe{
+		width: 70%;
+		min-height: 400px;
+	}
+	.leftNeirong{
+		float: left;
+		width: 50%;
+	}
+	.leftNeirong p{
+		line-height: 21px;
+		letter-spacing: 1px;
+		font-size: 1.4rem;
+	}
+	.rightNeirong{
+		float: right;
+	}
+	.join{
+		width: 200px;
+		margin: 80px auto;
+		border-radius: 10px;
+	}
+	/*返回顶部*/
+	#returnTop{
+		bottom: 50px;
+	}
+	#returnTop:hover{
+		background: url(../images/toTopAfter.jpg);
+	}
+}
+@media (min-width: 850px){
+	.timeAndRightSecond .bottomSpace{
+		margin-bottom: 90px;
+	}
+	.timeAndRightSecond p{
+		line-height: 25px;
+		letter-spacing: 3px;
+		font-size: 1.5rem;
+	}
+	.xinde .PCul li{
+		width: 22%;
+	}
+	.xinde .PCul li p{
+		font-size: 1.4rem;
+		letter-spacing: 1px;
+		line-height: 20px;
+	}
+	.xinde{
+		height: 350px;
+	}
+	.leftNeirong{
+		float: left;
+		width: 55%;
+	}
+	
+}
+@media (min-width: 1000px){
+	.timeAndRightSecond .bottomSpace{
+		margin-bottom: 130px;
+	}
+	.timeAndRightSecond p{
+		line-height: 30px;
+		letter-spacing: 3px;
+		font-size: 1.6rem;
+	}
+	.xinde{
+		height: 380px;
+		padding: 40px;
+	}
+	.xinde .PCul li p{
+		font-size: 1.5rem;
+		letter-spacing: 1px;
+		line-height: 25px;
+	}
+	.leftNeirong{
+		float: left;
+		width: 60%;
+	}
+	.leftNeirong p{
+		line-height: 26px;
+		letter-spacing: 1px;
+		font-size: 1.5rem;
+	}
+}
+
+/*全局样式*/
+*{
+	margin:0;
+	padding: 0;
+	list-style: none;
+	text-decoration: none;
+	font-family: "微软雅黑";
+}
+
+/*顶部大图*/
+.topImg{
+	width: 100%;
+}
+.topImg img{
+	width: 100%;
+	max-height: 500px;
+}
+
+/*中间标题*/
+.toHeart{
+	text-align: center;
+}
+.highcourse{
+	text-align: center;
+	font-size: 16px;
+}
+
+/*课程时间和参赛资格*/
+.timeAndRightFirst img{
+	width: 100%;
+	max-height: 440px;
+}
+.timeAndRightSecond h3{
+	color: #FFC90E;
+}
+.timeAndRightSecond hr{
+	height:3px;
+	width:25px;
+	border:none;
+	border-top:3px solid #FFC90E;
+}
+
+
+/*学员心得*/
+.xinde{
+	width: 100%;
+	background-image: url(../images/xinde.jpg);
+	text-align: center;
+	position: relative;
+	overflow: hidden;
+}
+.xinde h2{
+	text-align: center;
+	color: white;
+}
+.xinde .PCul li{
+	min-height: 180px;
+	float: left;
+	background-color: white;
+	text-align: left;
+	padding: 10px;
+	border-radius: 5px;
+}
+.parentShoujiUl{
+	position: absolute;
+	top: 10px;
+	left: 0px;
+	width: 200%;
+}
+.xinde .shoujiUl{
+	width: 50%;
+	float: left;
+}
+.xinde .shoujiUl li{
+	width: 80%;	
+	margin: 10px 10%;
+	background-color: white;
+	text-align: left;
+	padding: 10px;
+	border-radius: 5px;
+}
+
+
+/*课程内容介绍*/
+.rightNeirong img{
+	width: 100%;
+}
+.neirong h3{
+	color: #FFC90E;
+}
+.neirong hr{
+	height:3px;
+	width:25px;
+	border:none;
+	border-top:3px solid #FFC90E;
+}
+
+
+/*我要参加*/
+.join{
+	display: block;
+	height: 50px;
+	background-color: #FFC90E;
+	font-size: 2rem;
+	color: white;
+	line-height: 50px;
+	text-align: center;
+}
+.join:hover{
+	background-color: #F9E626;
+	color: white;
+	text-decoration: none;
+}
+.join:focus{
+    color: white;
+    text-decoration: none;
+}

@@ -1,0 +1,189 @@
+/*手机端*/
+@media (max-width: 768px){
+	.bg{
+		padding-bottom: 80px;
+	}
+	.container{
+		width: 90%;
+	}
+	.tong{
+		margin-top: 30px;
+	}
+	.joaso{
+		margin:20px 0;
+	}
+	.sContent,.bottPs{
+		padding:0;
+	}
+	.bottPs{
+		margin-top: 30px;
+	}
+	.tree{
+		padding:5px 0;
+		margin-top: 20px;
+	}
+	.join{
+		width: 100%;
+		position: fixed;
+		bottom: 0;
+		left: 0;
+		z-index: 1000;
+	}
+
+}
+/*电脑端*/
+@media (min-width: 769px){
+	body{
+		background-color: #F9F9F9;
+	}
+	.bg{
+		padding: 50px 0;
+	}
+
+	.sContent{
+		padding-top: 40px;
+    	padding-right: 7%;
+    	padding-bottom: 20px;
+    	padding-left: 7%;
+	}
+	.bottPs{
+		padding-left:7%;
+	}
+	.fujia{
+		float: right;
+	}
+	.joaso{
+		margin-bottom:60px;
+	}
+	.tree{
+	padding-top: 20px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+	margin-top:20px;
+	}
+	.tree div{
+		text-align: center;
+	}
+	.tree hr{
+		margin: 10px 66px;
+	}
+	.join{
+		width: 200px;
+		margin: 80px auto;
+		border-radius: 10px;
+	}
+}
+@media (min-width: 1140px){
+	.tree hr{
+		margin: 10px 66px;
+	}
+	.bottom-line{
+		margin-left:60px;
+	}
+}
+@media (min-width:770px) and (max-width:990px){
+	.tree hr{
+		margin: 10px 13px;
+	}
+	.bottom-line{
+		margin-left:10px;
+	}
+
+}
+@media (min-width:991px) and (max-width:1199px){
+	.tree hr{
+		margin: 10px 40px;
+	}
+.bottom-line{
+		margin-left:35px;
+	}
+}
+
+
+/*全局样式*/
+*{
+	margin:0;
+	padding: 0;
+	list-style: none;
+	text-decoration: none;
+	font-family: "微软雅黑";
+}
+h3{
+	letter-spacing: 3px;
+}
+.sContent p,.bottPs p,.tree p{
+	font-size: 1.5rem;
+	letter-spacing: 3px;
+	line-height: 30px;
+}
+.tree h3{
+	color:#FFC90E;
+}
+.tree hr{
+	height: 3px;
+    width: 25px;
+    border: none;
+    border-top: 3px solid #FFC90E;
+}
+
+/*顶部大图*/
+.topImg{
+	width: 100%;
+}
+.topImg img{
+	width: 100%;
+	max-height: 450px;
+}
+
+/*大图下方整个大DIV*/
+.bg{
+	background-color: #F9F9F9;
+}
+
+.title{
+	text-align:center;
+	font-size: 3rem;
+}
+
+.sContent h4{
+	font-size: 1.9rem;
+	line-height: 30px;
+	letter-spacing: 2px;
+}
+.sContent span{
+	color: #0E942E;
+	font-size: 1.8rem;
+	letter-spacing: 1px;
+	text-decoration: underline;
+}
+.tree{
+	background-color: #F3F3F3;
+}
+.bottom-line{
+	width:110px;
+	height:auto;
+	border-bottom:2px solid #FEAE03;
+	padding-bottom:10px;
+}
+
+
+/*我要参加*/
+.join{
+	display: block;
+	height: 50px;
+	background-color: #FFC90E;
+	font-size: 2rem;
+	color: white;
+	line-height: 50px;
+	text-align: center;
+}
+.join:hover{
+	background-color: #F9E626;
+	color: white;
+	text-decoration: none;
+}
+.join:focus{
+    color: white;
+    text-decoration: none;
+}

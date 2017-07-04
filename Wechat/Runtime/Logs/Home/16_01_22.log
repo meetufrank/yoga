@@ -1,0 +1,398 @@
+[ 2016-01-22T15:16:43+08:00 ] 127.0.0.1 /slackck/wechat.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000296s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000397s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000470s ]
+NOTIC: [8] Undefined index: echostr E:\wamp\www\slackck\Wechat\Home\Controller\IndexController.class.php 第 10 行.
+NOTIC: [8] Undefined index: timestamp E:\wamp\www\slackck\ThinkPHP\Library\Com\Wechat.class.php 第 289 行.
+NOTIC: [8] Undefined index: nonce E:\wamp\www\slackck\ThinkPHP\Library\Com\Wechat.class.php 第 289 行.
+NOTIC: [8] Undefined index: signature E:\wamp\www\slackck\ThinkPHP\Library\Com\Wechat.class.php 第 290 行.
+
+[ 2016-01-22T15:16:44+08:00 ] 127.0.0.1 /slackck/wechat.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000714s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000834s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001013s ]
+NOTIC: [8] Undefined index: echostr E:\wamp\www\slackck\Wechat\Home\Controller\IndexController.class.php 第 10 行.
+NOTIC: [8] Undefined index: timestamp E:\wamp\www\slackck\ThinkPHP\Library\Com\Wechat.class.php 第 289 行.
+NOTIC: [8] Undefined index: nonce E:\wamp\www\slackck\ThinkPHP\Library\Com\Wechat.class.php 第 289 行.
+NOTIC: [8] Undefined index: signature E:\wamp\www\slackck\ThinkPHP\Library\Com\Wechat.class.php 第 290 行.
+
+[ 2016-01-22T15:16:44+08:00 ] 127.0.0.1 /slackck/wechat.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000070s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001206s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001716s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002059s ]
+NOTIC: [8] Undefined index: echostr E:\wamp\www\slackck\Wechat\Home\Controller\IndexController.class.php 第 10 行.
+NOTIC: [8] Undefined index: timestamp E:\wamp\www\slackck\ThinkPHP\Library\Com\Wechat.class.php 第 289 行.
+NOTIC: [8] Undefined index: nonce E:\wamp\www\slackck\ThinkPHP\Library\Com\Wechat.class.php 第 289 行.
+NOTIC: [8] Undefined index: signature E:\wamp\www\slackck\ThinkPHP\Library\Com\Wechat.class.php 第 290 行.
+
+[ 2016-01-22T15:17:08+08:00 ] 127.0.0.1 /slackck/wechat.php/Dock
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000258s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000455s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000556s ]
+ERR: 无法加载控制器:Dock
+
+[ 2016-01-22T15:17:32+08:00 ] 127.0.0.1 /slackck/wechat.php/Dock
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000483s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000711s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000838s ]
+ERR: 模板不存在:./Wechat/Home/View/Dock/index.html
+
+[ 2016-01-22T15:17:33+08:00 ] 127.0.0.1 /slackck/wechat.php/Dock
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000612s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000863s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001028s ]
+ERR: 模板不存在:./Wechat/Home/View/Dock/index.html
+
+[ 2016-01-22T15:17:33+08:00 ] 127.0.0.1 /slackck/wechat.php/Dock
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000661s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001142s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001362s ]
+ERR: 模板不存在:./Wechat/Home/View/Dock/index.html
+
+[ 2016-01-22T15:17:46+08:00 ] 127.0.0.1 /slackck/wechat.php/Dock
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000519s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000731s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000853s ]
+
+[ 2016-01-22T15:17:47+08:00 ] 127.0.0.1 /slackck/wechat.php/Dock
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000243s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000393s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000465s ]
+
+[ 2016-01-22T15:17:47+08:00 ] 127.0.0.1 /slackck/wechat.php/Dock
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000511s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000899s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001062s ]
+
+[ 2016-01-22T15:17:55+08:00 ] 127.0.0.1 /slackck/wechat.php/Dock
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000622s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000993s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001168s ]
+NOTIC: [8] Undefined index: echostr E:\wamp\www\slackck\Wechat\Home\Controller\CommonController.class.php 第 11 行.
+
+[ 2016-01-22T15:18:37+08:00 ] 127.0.0.1 /slackck/wechat.php/Dock
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000706s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001800s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002007s ]
+NOTIC: [8] Undefined index: echostr E:\wamp\www\slackck\Wechat\Home\Controller\CommonController.class.php 第 11 行.
+
+[ 2016-01-22T15:18:38+08:00 ] 127.0.0.1 /slackck/wechat.php/Dock
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000580s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000862s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001069s ]
+NOTIC: [8] Undefined index: echostr E:\wamp\www\slackck\Wechat\Home\Controller\CommonController.class.php 第 11 行.
+
+[ 2016-01-22T15:18:38+08:00 ] 127.0.0.1 /slackck/wechat.php/Dock
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000839s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001259s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001495s ]
+NOTIC: [8] Undefined index: echostr E:\wamp\www\slackck\Wechat\Home\Controller\CommonController.class.php 第 11 行.
+
+[ 2016-01-22T15:19:01+08:00 ] 127.0.0.1 /slackck/wechat.php/Dock
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000902s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001059s ]
+NOTIC: [8] Undefined index: echostr E:\wamp\www\slackck\Wechat\Home\Controller\CommonController.class.php 第 11 行.
+
+[ 2016-01-22T15:19:01+08:00 ] 127.0.0.1 /slackck/wechat.php/Dock
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000838s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001166s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001337s ]
+NOTIC: [8] Undefined index: echostr E:\wamp\www\slackck\Wechat\Home\Controller\CommonController.class.php 第 11 行.
+
+[ 2016-01-22T15:19:01+08:00 ] 127.0.0.1 /slackck/wechat.php/Dock
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000453s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000615s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000727s ]
+NOTIC: [8] Undefined index: echostr E:\wamp\www\slackck\Wechat\Home\Controller\CommonController.class.php 第 11 行.
+
+[ 2016-01-22T15:19:15+08:00 ] 127.0.0.1 /slackck/wechat.php/Dock
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000675s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000944s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001116s ]
+NOTIC: [8] Undefined index: echostr E:\wamp\www\slackck\Wechat\Home\Controller\CommonController.class.php 第 10 行.
+
+[ 2016-01-22T15:19:16+08:00 ] 127.0.0.1 /slackck/wechat.php/Dock
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000655s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001254s ]
+NOTIC: [8] Undefined index: echostr E:\wamp\www\slackck\Wechat\Home\Controller\CommonController.class.php 第 10 行.
+
+[ 2016-01-22T15:19:16+08:00 ] 127.0.0.1 /slackck/wechat.php/Dock
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000637s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001151s ]
+NOTIC: [8] Undefined index: echostr E:\wamp\www\slackck\Wechat\Home\Controller\CommonController.class.php 第 10 行.
+
+[ 2016-01-22T15:19:38+08:00 ] 127.0.0.1 /slackck/wechat.php/Dock
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000395s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000494s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000629s ]
+NOTIC: [8] Undefined index: echostr E:\wamp\www\slackck\Wechat\Home\Controller\CommonController.class.php 第 10 行.
+NOTIC: [8] Undefined variable: token E:\wamp\www\slackck\Wechat\Home\Controller\CommonController.class.php 第 69 行.
+
+[ 2016-01-22T15:19:39+08:00 ] 127.0.0.1 /slackck/wechat.php/Dock
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000511s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000767s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000908s ]
+NOTIC: [8] Undefined index: echostr E:\wamp\www\slackck\Wechat\Home\Controller\CommonController.class.php 第 10 行.
+NOTIC: [8] Undefined variable: token E:\wamp\www\slackck\Wechat\Home\Controller\CommonController.class.php 第 69 行.
+
+[ 2016-01-22T15:19:39+08:00 ] 127.0.0.1 /slackck/wechat.php/Dock
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000711s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001166s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001363s ]
+NOTIC: [8] Undefined index: echostr E:\wamp\www\slackck\Wechat\Home\Controller\CommonController.class.php 第 10 行.
+NOTIC: [8] Undefined variable: token E:\wamp\www\slackck\Wechat\Home\Controller\CommonController.class.php 第 69 行.
+
+[ 2016-01-22T15:19:40+08:00 ] 127.0.0.1 /slackck/wechat.php/Dock
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000407s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000591s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000700s ]
+NOTIC: [8] Undefined index: echostr E:\wamp\www\slackck\Wechat\Home\Controller\CommonController.class.php 第 10 行.
+NOTIC: [8] Undefined variable: token E:\wamp\www\slackck\Wechat\Home\Controller\CommonController.class.php 第 69 行.
+
+[ 2016-01-22T15:19:40+08:00 ] 127.0.0.1 /slackck/wechat.php/Dock
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000421s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000624s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000735s ]
+NOTIC: [8] Undefined index: echostr E:\wamp\www\slackck\Wechat\Home\Controller\CommonController.class.php 第 10 行.
+NOTIC: [8] Undefined variable: token E:\wamp\www\slackck\Wechat\Home\Controller\CommonController.class.php 第 69 行.
+
+[ 2016-01-22T15:19:40+08:00 ] 127.0.0.1 /slackck/wechat.php/Dock
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000433s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000623s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000736s ]
+NOTIC: [8] Undefined index: echostr E:\wamp\www\slackck\Wechat\Home\Controller\CommonController.class.php 第 10 行.
+NOTIC: [8] Undefined variable: token E:\wamp\www\slackck\Wechat\Home\Controller\CommonController.class.php 第 69 行.
+
+[ 2016-01-22T15:19:40+08:00 ] 127.0.0.1 /slackck/wechat.php/Dock
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000793s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001079s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001278s ]
+NOTIC: [8] Undefined index: echostr E:\wamp\www\slackck\Wechat\Home\Controller\CommonController.class.php 第 10 行.
+NOTIC: [8] Undefined variable: token E:\wamp\www\slackck\Wechat\Home\Controller\CommonController.class.php 第 69 行.
+
+[ 2016-01-22T15:20:02+08:00 ] 127.0.0.1 /slackck/wechat.php/Dock
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000585s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000910s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001070s ]
+NOTIC: [8] Undefined index: echostr E:\wamp\www\slackck\Wechat\Home\Controller\CommonController.class.php 第 10 行.
+
+[ 2016-01-22T15:20:02+08:00 ] 127.0.0.1 /slackck/wechat.php/Dock
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000643s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001236s ]
+NOTIC: [8] Undefined index: echostr E:\wamp\www\slackck\Wechat\Home\Controller\CommonController.class.php 第 10 行.
+
+[ 2016-01-22T15:20:02+08:00 ] 127.0.0.1 /slackck/wechat.php/Dock
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000672s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000929s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001101s ]
+NOTIC: [8] Undefined index: echostr E:\wamp\www\slackck\Wechat\Home\Controller\CommonController.class.php 第 10 行.
+
+[ 2016-01-22T15:20:03+08:00 ] 127.0.0.1 /slackck/wechat.php/Dock
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000515s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000751s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000890s ]
+NOTIC: [8] Undefined index: echostr E:\wamp\www\slackck\Wechat\Home\Controller\CommonController.class.php 第 10 行.
+
+[ 2016-01-22T15:20:03+08:00 ] 127.0.0.1 /slackck/wechat.php/Dock
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000499s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000737s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000872s ]
+NOTIC: [8] Undefined index: echostr E:\wamp\www\slackck\Wechat\Home\Controller\CommonController.class.php 第 10 行.
+
+[ 2016-01-22T15:20:37+08:00 ] 127.0.0.1 /slackck/wechat.php/Dock
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001123s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001605s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001813s ]
+NOTIC: [8] Undefined index: echostr E:\wamp\www\slackck\Wechat\Home\Controller\CommonController.class.php 第 10 行.
+NOTIC: [8] Undefined index: wesys_appid E:\wamp\www\slackck\Wechat\Home\Controller\CommonController.class.php 第 16 行.
+NOTIC: [8] Undefined index: wesys_appsecret E:\wamp\www\slackck\Wechat\Home\Controller\CommonController.class.php 第 17 行.
+NOTIC: [8] Undefined index: wesys_token E:\wamp\www\slackck\Wechat\Home\Controller\CommonController.class.php 第 18 行.
+ERR: 缺少参数 APP_ID 和 APP_SECRET!
+
+[ 2016-01-22T15:21:02+08:00 ] 127.0.0.1 /slackck/wechat.php/Dock
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000772s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001305s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001513s ]
+NOTIC: [8] Undefined index: echostr E:\wamp\www\slackck\Wechat\Home\Controller\CommonController.class.php 第 10 行.
+
+[ 2016-01-22T15:21:02+08:00 ] 127.0.0.1 /slackck/wechat.php/Dock
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000684s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001024s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001209s ]
+NOTIC: [8] Undefined index: echostr E:\wamp\www\slackck\Wechat\Home\Controller\CommonController.class.php 第 10 行.
+
+[ 2016-01-22T15:21:14+08:00 ] 127.0.0.1 /slackck/wechat.php/Dock
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000640s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000966s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001161s ]
+NOTIC: [8] Undefined index: echostr E:\wamp\www\slackck\Wechat\Home\Controller\CommonController.class.php 第 10 行.
+NOTIC: [8] Undefined index: wesys_appid E:\wamp\www\slackck\Wechat\Home\Controller\CommonController.class.php 第 16 行.
+
+[ 2016-01-22T15:21:15+08:00 ] 127.0.0.1 /slackck/wechat.php/Dock
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000553s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000850s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: echostr E:\wamp\www\slackck\Wechat\Home\Controller\CommonController.class.php 第 10 行.
+NOTIC: [8] Undefined index: wesys_appid E:\wamp\www\slackck\Wechat\Home\Controller\CommonController.class.php 第 16 行.
+
+[ 2016-01-22T15:21:15+08:00 ] 127.0.0.1 /slackck/wechat.php/Dock
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000725s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001060s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001255s ]
+NOTIC: [8] Undefined index: echostr E:\wamp\www\slackck\Wechat\Home\Controller\CommonController.class.php 第 10 行.
+NOTIC: [8] Undefined index: wesys_appid E:\wamp\www\slackck\Wechat\Home\Controller\CommonController.class.php 第 16 行.
+
+[ 2016-01-22T15:21:39+08:00 ] 127.0.0.1 /slackck/wechat.php/Dock
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000564s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000918s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001078s ]
+NOTIC: [8] Undefined index: echostr E:\wamp\www\slackck\Wechat\Home\Controller\CommonController.class.php 第 10 行.
+
+[ 2016-01-22T15:21:39+08:00 ] 127.0.0.1 /slackck/wechat.php/Dock
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000318s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000419s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000490s ]
+NOTIC: [8] Undefined index: echostr E:\wamp\www\slackck\Wechat\Home\Controller\CommonController.class.php 第 10 行.
+
+[ 2016-01-22T15:22:04+08:00 ] 127.0.0.1 /slackck/wechat.php/Dock
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000353s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000420s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000490s ]
+NOTIC: [8] Undefined index: echostr E:\wamp\www\slackck\Wechat\Home\Controller\CommonController.class.php 第 10 行.
+
+[ 2016-01-22T15:22:05+08:00 ] 127.0.0.1 /slackck/wechat.php/Dock
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000315s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000439s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000519s ]
+NOTIC: [8] Undefined index: echostr E:\wamp\www\slackck\Wechat\Home\Controller\CommonController.class.php 第 10 行.
+

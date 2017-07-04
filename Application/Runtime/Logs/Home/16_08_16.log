@@ -1,0 +1,2332 @@
+[ 2016-08-16T11:23:54+08:00 ] ::1 /yoga/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 192 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 192 行.
+NOTIC: [8] Use of undefined constant ad_id - assumed 'ad_id' E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 203 行.
+NOTIC: [8] Array to string conversion E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 203 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 192 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 192 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 192 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 192 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 192 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 192 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 192 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 192 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-16T11:25:28+08:00 ] ::1 /yoga/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 192 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 192 行.
+NOTIC: [8] Use of undefined constant ad_id - assumed 'ad_id' E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 203 行.
+NOTIC: [8] Array to string conversion E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 203 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 192 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 192 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 192 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 192 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 192 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 192 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 192 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 192 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-16T11:30:59+08:00 ] ::1 /yoga/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 192 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 192 行.
+NOTIC: [8] Use of undefined constant ad_id - assumed 'ad_id' E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 203 行.
+NOTIC: [8] Array to string conversion E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 203 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 192 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 192 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 192 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 192 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 192 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 192 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 192 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 192 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-16T11:30:59+08:00 ] ::1 /yoga/index.php/Home/Public/yoga/img/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-16T11:31:03+08:00 ] ::1 /yoga/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 192 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 192 行.
+NOTIC: [8] Use of undefined constant ad_id - assumed 'ad_id' E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 203 行.
+NOTIC: [8] Array to string conversion E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 203 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 192 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 192 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 192 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 192 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 192 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 192 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 192 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 192 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-16T11:31:04+08:00 ] ::1 /yoga/index.php/Home/Public/yoga/img/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-16T11:31:41+08:00 ] ::1 /yoga/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 192 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 192 行.
+NOTIC: [8] Use of undefined constant ad_id - assumed 'ad_id' E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 203 行.
+NOTIC: [8] Array to string conversion E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 203 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 192 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 192 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 192 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 192 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 192 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 192 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 192 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 192 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-16T11:32:00+08:00 ] ::1 /yoga/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 192 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 192 行.
+NOTIC: [8] Use of undefined constant ad_id - assumed 'ad_id' E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 203 行.
+NOTIC: [8] Array to string conversion E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 203 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 192 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 192 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 192 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 192 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 192 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 192 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 192 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 192 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-16T11:32:02+08:00 ] ::1 /yoga/index.php/Home/Public/yoga/img/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-16T11:32:28+08:00 ] ::1 /yoga/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 192 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 192 行.
+NOTIC: [8] Use of undefined constant ad_id - assumed 'ad_id' E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 203 行.
+NOTIC: [8] Array to string conversion E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 203 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 192 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 192 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 192 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 192 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 192 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 192 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 192 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 192 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-16T11:32:28+08:00 ] ::1 /yoga/index.php/Home/Public/yoga/img/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-16T11:32:28+08:00 ] ::1 /yoga/index.php/Home/Public/yoga/img/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-16T11:38:59+08:00 ] ::1 /yoga/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 129 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 129 行.
+NOTIC: [8] Use of undefined constant ad_id - assumed 'ad_id' E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 140 行.
+NOTIC: [8] Array to string conversion E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 140 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 129 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 129 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 129 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 129 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 129 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 129 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 129 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 129 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-16T11:38:59+08:00 ] ::1 /yoga/index.php/Home/Public/yoga/img/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-16T11:39:04+08:00 ] ::1 /yoga/index.php/Home/Public/yoga/img/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-16T11:39:19+08:00 ] ::1 /yoga/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 129 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 129 行.
+NOTIC: [8] Use of undefined constant ad_id - assumed 'ad_id' E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 140 行.
+NOTIC: [8] Array to string conversion E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 140 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 129 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 129 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 129 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 129 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 129 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 129 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 129 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 129 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-16T11:39:19+08:00 ] ::1 /yoga/index.php/Home/Public/yoga/img/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-16T11:40:07+08:00 ] ::1 /yoga/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 129 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 129 行.
+NOTIC: [8] Use of undefined constant ad_id - assumed 'ad_id' E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 140 行.
+NOTIC: [8] Array to string conversion E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 140 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 129 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 129 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 129 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 129 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 129 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 129 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 129 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 129 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-16T11:40:07+08:00 ] ::1 /yoga/index.php/Home/Public/yoga/img/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-16T11:40:09+08:00 ] ::1 /yoga/index.php/Home/Public/yoga/img/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-16T11:40:28+08:00 ] ::1 /yoga/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 129 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 129 行.
+NOTIC: [8] Use of undefined constant ad_id - assumed 'ad_id' E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 140 行.
+NOTIC: [8] Array to string conversion E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 140 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 129 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 129 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 129 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 129 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 129 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 129 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 129 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 129 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-16T11:40:28+08:00 ] ::1 /yoga/index.php/Home/Public/yoga/img/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-16T11:40:30+08:00 ] ::1 /yoga/index.php/Home/Public/yoga/img/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-16T11:40:37+08:00 ] ::1 /yoga/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 129 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 129 行.
+NOTIC: [8] Use of undefined constant ad_id - assumed 'ad_id' E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 140 行.
+NOTIC: [8] Array to string conversion E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 140 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 129 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 129 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 129 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 129 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 129 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 129 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 129 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 129 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-16T11:40:37+08:00 ] ::1 /yoga/index.php/Home/Public/yoga/img/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-16T11:40:38+08:00 ] ::1 /yoga/index.php/Home/Public/yoga/img/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-16T11:40:47+08:00 ] ::1 /yoga/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 130 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 130 行.
+NOTIC: [8] Use of undefined constant ad_id - assumed 'ad_id' E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 141 行.
+NOTIC: [8] Array to string conversion E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 141 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 130 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 130 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 130 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 130 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 130 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 130 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 130 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 130 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-16T11:40:47+08:00 ] ::1 /yoga/index.php/Home/Public/yoga/img/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-16T11:40:48+08:00 ] ::1 /yoga/index.php/Home/Public/yoga/img/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-16T11:58:14+08:00 ] ::1 /yoga/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] simplexml_load_string(): Entity: line 13: parser error : Opening and ending tag mismatch: img line 12 and a E:\www\yoga\ThinkPHP\Library\Think\Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string():       &lt;/a&gt; E:\www\yoga\ThinkPHP\Library\Think\Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string():           ^ E:\www\yoga\ThinkPHP\Library\Think\Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string(): Entity: line 14: parser error : Opening and ending tag mismatch: a line 11 and div E:\www\yoga\ThinkPHP\Library\Think\Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string():     &lt;/div&gt; E:\www\yoga\ThinkPHP\Library\Think\Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string():           ^ E:\www\yoga\ThinkPHP\Library\Think\Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string(): Entity: line 18: parser error : Opening and ending tag mismatch: img line 17 and a E:\www\yoga\ThinkPHP\Library\Think\Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string():       &lt;/a&gt; E:\www\yoga\ThinkPHP\Library\Think\Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string():           ^ E:\www\yoga\ThinkPHP\Library\Think\Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string(): Entity: line 19: parser error : Opening and ending tag mismatch: a line 16 and div E:\www\yoga\ThinkPHP\Library\Think\Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string():     &lt;/div&gt; E:\www\yoga\ThinkPHP\Library\Think\Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string():           ^ E:\www\yoga\ThinkPHP\Library\Think\Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string(): Entity: line 23: parser error : Opening and ending tag mismatch: img line 22 and a E:\www\yoga\ThinkPHP\Library\Think\Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string():       &lt;/a&gt; E:\www\yoga\ThinkPHP\Library\Think\Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string():           ^ E:\www\yoga\ThinkPHP\Library\Think\Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string(): Entity: line 24: parser error : Opening and ending tag mismatch: a line 21 and div E:\www\yoga\ThinkPHP\Library\Think\Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string():     &lt;/div&gt; E:\www\yoga\ThinkPHP\Library\Think\Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string():           ^ E:\www\yoga\ThinkPHP\Library\Think\Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string(): Entity: line 26: parser error : Opening and ending tag mismatch: img line 26 and a E:\www\yoga\ThinkPHP\Library\Think\Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string():  href=&quot;#&quot;&gt;&lt;img class=&quot;close-navbar-img&quot; src=&quot;__PUBLIC__/yoga/img/close.jpg&quot;&gt;&lt;/a&gt; E:\www\yoga\ThinkPHP\Library\Think\Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string():                                                                                ^ E:\www\yoga\ThinkPHP\Library\Think\Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string(): Entity: line 26: parser error : Opening and ending tag mismatch: a line 26 and li E:\www\yoga\ThinkPHP\Library\Think\Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string(): f=&quot;#&quot;&gt;&lt;img class=&quot;close-navbar-img&quot; src=&quot;__PUBLIC__/yoga/img/close.jpg&quot;&gt;&lt;/a&gt;&lt;/li E:\www\yoga\ThinkPHP\Library\Think\Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string():                                                                                ^ E:\www\yoga\ThinkPHP\Library\Think\Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string(): Entity: line 33: parser error : Opening and ending tag mismatch: li line 26 and ul E:\www\yoga\ThinkPHP\Library\Think\Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string():     &lt;/ul&gt; E:\www\yoga\ThinkPHP\Library\Think\Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string():          ^ E:\www\yoga\ThinkPHP\Library\Think\Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string(): Entity: line 41: parser error : Opening and ending tag mismatch: input line 37 and div E:\www\yoga\ThinkPHP\Library\Think\Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string():         &lt;/div&gt; E:\www\yoga\ThinkPHP\Library\Think\Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string():               ^ E:\www\yoga\ThinkPHP\Library\Think\Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string(): Entity: line 42: parser error : Opening and ending tag mismatch: div line 36 and form E:\www\yoga\ThinkPHP\Library\Think\Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string():       &lt;/form&gt; E:\www\yoga\ThinkPHP\Library\Think\Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string():              ^ E:\www\yoga\ThinkPHP\Library\Think\Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string(): Entity: line 43: parser error : Opening and ending tag mismatch: form line 35 and div E:\www\yoga\ThinkPHP\Library\Think\Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string():     &lt;/div&gt; E:\www\yoga\ThinkPHP\Library\Think\Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string():           ^ E:\www\yoga\ThinkPHP\Library\Think\Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string(): Entity: line 49: parser error : Opening and ending tag mismatch: a line 49 and tpl E:\www\yoga\ThinkPHP\Library\Think\Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string(): Entity: line 49: parser error : Premature end of data in tag div line 48 E:\www\yoga\ThinkPHP\Library\Think\Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string(): Entity: line 49: parser error : Premature end of data in tag div line 47 E:\www\yoga\ThinkPHP\Library\Think\Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string(): Entity: line 49: parser error : Premature end of data in tag ul line 25 E:\www\yoga\ThinkPHP\Library\Think\Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string(): Entity: line 49: parser error : Premature end of data in tag div line 20 E:\www\yoga\ThinkPHP\Library\Think\Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string(): Entity: line 49: parser error : Premature end of data in tag div line 15 E:\www\yoga\ThinkPHP\Library\Think\Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string(): Entity: line 49: parser error : Premature end of data in tag div line 10 E:\www\yoga\ThinkPHP\Library\Think\Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string(): Entity: line 49: parser error : Premature end of data in tag div line 9 E:\www\yoga\ThinkPHP\Library\Think\Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string(): Entity: line 49: parser error : Premature end of data in tag body line 6 E:\www\yoga\ThinkPHP\Library\Think\Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string(): Entity: line 49: parser error : Premature end of data in tag tag line 1 E:\www\yoga\ThinkPHP\Library\Think\Template.class.php 第 275 行.
+NOTIC: [2] simplexml_load_string(): Entity: line 49: parser error : Premature end of data in tag tpl line 1 E:\www\yoga\ThinkPHP\Library\Think\Template.class.php 第 275 行.
+ERR: XML标签语法错误
+
+[ 2016-08-16T11:58:28+08:00 ] ::1 /yoga/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 127 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 127 行.
+NOTIC: [8] Use of undefined constant ad_id - assumed 'ad_id' E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 138 行.
+NOTIC: [8] Array to string conversion E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 138 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 127 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 127 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 127 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 127 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 127 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 127 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 127 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 127 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-16T11:58:28+08:00 ] ::1 /yoga/index.php/Home/Public/yoga/img/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-16T11:59:01+08:00 ] ::1 /yoga/index.php/Home/Public/yoga/img/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-16T11:59:05+08:00 ] ::1 /yoga/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Application/Home/View/Common/common.html): failed to open stream: No such file or directory E:\www\yoga\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 127 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 127 行.
+NOTIC: [8] Use of undefined constant ad_id - assumed 'ad_id' E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 138 行.
+NOTIC: [8] Array to string conversion E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 138 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 127 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 127 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 127 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 127 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 127 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 127 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 127 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 127 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.155009s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.155009s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-16T11:59:05+08:00 ] ::1 /yoga/index.php/Home/Public/yoga/img/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-16T11:59:05+08:00 ] ::1 /yoga/index.php/Home/Public/yoga/img/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-16T12:00:12+08:00 ] ::1 /yoga/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Application/Home/View/Common/common.html): failed to open stream: No such file or directory E:\www\yoga\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 127 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 127 行.
+NOTIC: [8] Use of undefined constant ad_id - assumed 'ad_id' E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 138 行.
+NOTIC: [8] Array to string conversion E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 138 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 127 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 127 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 127 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 127 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 127 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 127 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 127 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 127 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-16T12:00:12+08:00 ] ::1 /yoga/index.php/Home/Public/yoga/img/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-16T12:00:13+08:00 ] ::1 /yoga/index.php/Home/Public/yoga/img/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-16T12:01:02+08:00 ] ::1 /yoga/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Application/Home/View/Common/common.html): failed to open stream: No such file or directory E:\www\yoga\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 127 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 127 行.
+NOTIC: [8] Use of undefined constant ad_id - assumed 'ad_id' E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 138 行.
+NOTIC: [8] Array to string conversion E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 138 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 127 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 127 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 127 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 127 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 127 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 127 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 127 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 127 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-16T12:01:02+08:00 ] ::1 /yoga/index.php/Home/Public/yoga/img/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-16T12:01:03+08:00 ] ::1 /yoga/index.php/Home/Public/yoga/img/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-16T12:01:27+08:00 ] ::1 /yoga/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Application/Home/View/Common/common.html): failed to open stream: No such file or directory E:\www\yoga\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 127 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 127 行.
+NOTIC: [8] Use of undefined constant ad_id - assumed 'ad_id' E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 138 行.
+NOTIC: [8] Array to string conversion E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 138 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 127 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 127 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 127 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 127 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 127 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 127 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 127 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 127 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-16T12:01:27+08:00 ] ::1 /yoga/index.php/Home/Public/yoga/img/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-16T12:01:28+08:00 ] ::1 /yoga/index.php/Home/Public/yoga/img/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-16T12:02:19+08:00 ] ::1 /yoga/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Application/Home/View/Common/common.html): failed to open stream: No such file or directory E:\www\yoga\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 128 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 128 行.
+NOTIC: [8] Use of undefined constant ad_id - assumed 'ad_id' E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 139 行.
+NOTIC: [8] Array to string conversion E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 139 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 128 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 128 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 128 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 128 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 128 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 128 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 128 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 128 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-16T12:02:19+08:00 ] ::1 /yoga/index.php/Home/Public/yoga/img/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-16T12:02:20+08:00 ] ::1 /yoga/index.php/Home/Public/yoga/img/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-16T12:03:46+08:00 ] ::1 /yoga/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Application/Home/View/Common/pubfile.html): failed to open stream: No such file or directory E:\www\yoga\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 127 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 127 行.
+NOTIC: [8] Use of undefined constant ad_id - assumed 'ad_id' E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 138 行.
+NOTIC: [8] Array to string conversion E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 138 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 127 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 127 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 127 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 127 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 127 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 127 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 127 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 127 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-16T12:03:46+08:00 ] ::1 /yoga/index.php/Home/Public/yoga/img/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-16T12:04:14+08:00 ] ::1 /yoga/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Application/Home/View/Common/pubfile.html): failed to open stream: No such file or directory E:\www\yoga\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 127 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 127 行.
+NOTIC: [8] Use of undefined constant ad_id - assumed 'ad_id' E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 138 行.
+NOTIC: [8] Array to string conversion E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 138 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 127 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 127 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 127 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 127 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 127 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 127 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 127 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 127 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-16T12:04:14+08:00 ] ::1 /yoga/index.php/Home/Public/yoga/img/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-16T12:04:44+08:00 ] ::1 /yoga/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Application/Home/View/Common/pubfile.html): failed to open stream: No such file or directory E:\www\yoga\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 127 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 127 行.
+NOTIC: [8] Use of undefined constant ad_id - assumed 'ad_id' E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 138 行.
+NOTIC: [8] Array to string conversion E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 138 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 127 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 127 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 127 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 127 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 127 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 127 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 127 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 127 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-16T12:04:44+08:00 ] ::1 /yoga/index.php/Home/Public/yoga/img/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-16T12:04:44+08:00 ] ::1 /yoga/index.php/Home/Public/yoga/img/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-16T12:09:53+08:00 ] ::1 /yoga/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 134 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 134 行.
+NOTIC: [8] Use of undefined constant ad_id - assumed 'ad_id' E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Array to string conversion E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 134 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 134 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 134 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 134 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 134 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 134 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 134 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 134 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-16T12:09:53+08:00 ] ::1 /yoga/index.php/Home/Public/yoga/img/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-16T12:09:55+08:00 ] ::1 /yoga/index.php/Home/Public/yoga/img/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-16T12:11:06+08:00 ] ::1 /yoga/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 133 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 133 行.
+NOTIC: [8] Use of undefined constant ad_id - assumed 'ad_id' E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 144 行.
+NOTIC: [8] Array to string conversion E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 144 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 133 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 133 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 133 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 133 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 133 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 133 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 133 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 133 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-16T12:11:06+08:00 ] ::1 /yoga/index.php/Home/Public/yoga/img/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-16T12:11:07+08:00 ] ::1 /yoga/index.php/Home/Public/yoga/img/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-16T12:41:10+08:00 ] ::1 /yoga/index.php/Home/active/active_content/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-16T12:41:20+08:00 ] ::1 /yoga/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 133 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 133 行.
+NOTIC: [8] Use of undefined constant ad_id - assumed 'ad_id' E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 144 行.
+NOTIC: [8] Array to string conversion E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 144 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 133 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 133 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 133 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 133 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 133 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 133 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 133 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 133 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-16T12:41:20+08:00 ] ::1 /yoga/index.php/Home/Public/yoga/img/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-16T12:41:20+08:00 ] ::1 /yoga/index.php/Home/Public/yoga/img/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-16T12:50:27+08:00 ] ::1 /yoga/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant Index - assumed 'Index' E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 26 行.
+NOTIC: [8] Use of undefined constant aa - assumed 'aa' E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 26 行.
+NOTIC: [2] Division by zero E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 26 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 142 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 142 行.
+NOTIC: [8] Use of undefined constant ad_id - assumed 'ad_id' E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 153 行.
+NOTIC: [8] Array to string conversion E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 153 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 142 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 142 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 142 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 142 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 142 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 142 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 142 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 142 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-16T12:50:27+08:00 ] ::1 /yoga/index.php/Home/Public/yoga/img/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-16T12:50:27+08:00 ] ::1 /yoga/index.php/Home/Public/yoga/img/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-16T12:50:48+08:00 ] ::1 /yoga/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant Index - assumed 'Index' E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 26 行.
+NOTIC: [8] Use of undefined constant aa - assumed 'aa' E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 26 行.
+NOTIC: [2] Division by zero E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 26 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 142 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 142 行.
+NOTIC: [8] Use of undefined constant ad_id - assumed 'ad_id' E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 153 行.
+NOTIC: [8] Array to string conversion E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 153 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 142 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 142 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 142 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 142 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 142 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 142 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 142 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 142 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-16T12:50:48+08:00 ] ::1 /yoga/index.php/Home/Public/yoga/img/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-16T12:50:53+08:00 ] ::1 /yoga/index.php/Home/Index/aa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-16T12:51:11+08:00 ] ::1 /yoga/index.php/Home/Index/aa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-16T12:53:31+08:00 ] ::1 /yoga/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 142 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 142 行.
+NOTIC: [8] Use of undefined constant ad_id - assumed 'ad_id' E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 153 行.
+NOTIC: [8] Array to string conversion E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 153 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 142 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 142 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 142 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 142 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 142 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 142 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 142 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 142 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-16T12:53:32+08:00 ] ::1 /yoga/index.php/Home/Public/yoga/img/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-16T13:04:48+08:00 ] ::1 /yoga/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 142 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 142 行.
+NOTIC: [8] Use of undefined constant ad_id - assumed 'ad_id' E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 153 行.
+NOTIC: [8] Array to string conversion E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 153 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 142 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 142 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 142 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 142 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 142 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 142 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 142 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 142 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-16T13:04:48+08:00 ] ::1 /yoga/index.php/Home/Public/yoga/img/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-16T13:05:16+08:00 ] ::1 /yoga/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Use of undefined constant ad_id - assumed 'ad_id' E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Array to string conversion E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-16T13:05:16+08:00 ] ::1 /yoga/index.php/Home/Public/yoga/img/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-16T13:05:42+08:00 ] ::1 /yoga/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Use of undefined constant ad_id - assumed 'ad_id' E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Array to string conversion E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-08-16T13:05:43+08:00 ] ::1 /yoga/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Use of undefined constant ad_id - assumed 'ad_id' E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Array to string conversion E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-16T13:05:44+08:00 ] ::1 /yoga/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Use of undefined constant ad_id - assumed 'ad_id' E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Array to string conversion E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-16T13:05:45+08:00 ] ::1 /yoga/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Use of undefined constant ad_id - assumed 'ad_id' E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Array to string conversion E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-16T13:05:46+08:00 ] ::1 /yoga/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Use of undefined constant ad_id - assumed 'ad_id' E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Array to string conversion E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-16T13:05:47+08:00 ] ::1 /yoga/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Use of undefined constant ad_id - assumed 'ad_id' E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Array to string conversion E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-16T13:05:47+08:00 ] ::1 /yoga/index.php/Home/Public/yoga/img/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-16T13:06:11+08:00 ] ::1 /yoga/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Use of undefined constant ad_id - assumed 'ad_id' E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Array to string conversion E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-16T13:06:11+08:00 ] ::1 /yoga/index.php/Home/Public/yoga/img/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-16T13:06:45+08:00 ] ::1 /yoga/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Use of undefined constant ad_id - assumed 'ad_id' E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Array to string conversion E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-16T13:06:45+08:00 ] ::1 /yoga/index.php/Home/Public/yoga/img/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-16T13:06:45+08:00 ] ::1 /yoga/index.php/Home/Index/aa.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-16T13:06:59+08:00 ] ::1 /yoga/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Use of undefined constant ad_id - assumed 'ad_id' E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Array to string conversion E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-16T13:06:59+08:00 ] ::1 /yoga/index.php/Home/Public/yoga/img/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-16T13:07:00+08:00 ] ::1 /yoga/index.php/Home/Index/aa.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-16T13:07:26+08:00 ] ::1 /yoga/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Use of undefined constant ad_id - assumed 'ad_id' E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Array to string conversion E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-16T13:07:26+08:00 ] ::1 /yoga/index.php/Home/Public/yoga/img/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-16T13:07:26+08:00 ] ::1 /yoga/index.php/Home/Index/aa.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-16T13:07:26+08:00 ] ::1 /yoga/index.php/Home/Public/yoga/img/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-16T13:07:43+08:00 ] ::1 /yoga/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Use of undefined constant ad_id - assumed 'ad_id' E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Array to string conversion E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-16T13:07:43+08:00 ] ::1 /yoga/index.php/Home/Public/yoga/img/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-16T13:07:43+08:00 ] ::1 /yoga/index.php/Home/Index/aa.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-16T13:07:43+08:00 ] ::1 /yoga/index.php/Home/Public/yoga/img/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-16T16:01:14+08:00 ] ::1 /yoga/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.012001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.013001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Use of undefined constant ad_id - assumed 'ad_id' E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Array to string conversion E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.108007s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.108007s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-16T16:01:15+08:00 ] ::1 /yoga/index.php/Home/Index/aa.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-16T17:41:42+08:00 ] ::1 /yoga/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Use of undefined constant ad_id - assumed 'ad_id' E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Array to string conversion E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.051003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.051003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-16T17:41:42+08:00 ] ::1 /yoga/index.php/Home/Index/aa.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-16T17:42:12+08:00 ] ::1 /yoga/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Use of undefined constant ad_id - assumed 'ad_id' E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Array to string conversion E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-16T17:42:38+08:00 ] ::1 /yoga/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Use of undefined constant ad_id - assumed 'ad_id' E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Array to string conversion E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-16T17:42:39+08:00 ] ::1 /yoga/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Use of undefined constant ad_id - assumed 'ad_id' E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Array to string conversion E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-16T17:44:18+08:00 ] ::1 /yoga/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Use of undefined constant ad_id - assumed 'ad_id' E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Array to string conversion E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-16T17:44:19+08:00 ] ::1 /yoga/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Use of undefined constant ad_id - assumed 'ad_id' E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Array to string conversion E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-16T17:45:01+08:00 ] ::1 /yoga/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Use of undefined constant ad_id - assumed 'ad_id' E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Array to string conversion E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-16T17:45:03+08:00 ] ::1 /yoga/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Use of undefined constant ad_id - assumed 'ad_id' E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Array to string conversion E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-16T17:46:04+08:00 ] 192.168.199.225 /yoga/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Use of undefined constant ad_id - assumed 'ad_id' E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Array to string conversion E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-16T17:46:44+08:00 ] 192.168.199.225 /yoga/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Use of undefined constant ad_id - assumed 'ad_id' E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Array to string conversion E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-16T17:46:46+08:00 ] 192.168.199.225 /yoga/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Use of undefined constant ad_id - assumed 'ad_id' E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Array to string conversion E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-16T17:46:51+08:00 ] ::1 /yoga/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Use of undefined constant ad_id - assumed 'ad_id' E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Array to string conversion E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-16T17:46:51+08:00 ] 192.168.199.212 /yoga/index.php/Home/Index/aa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-16T17:46:56+08:00 ] 192.168.199.225 /yoga/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Use of undefined constant ad_id - assumed 'ad_id' E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Array to string conversion E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-16T17:46:57+08:00 ] 192.168.199.225 /yoga/index.php/Home/Index/aa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-16T17:47:08+08:00 ] 192.168.199.225 /yoga/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Use of undefined constant ad_id - assumed 'ad_id' E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Array to string conversion E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: ad_starttime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yoga\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-08-16T17:47:09+08:00 ] 192.168.199.225 /yoga/index.php/Home/Index/aa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-16T17:48:11+08:00 ] 192.168.199.225 /yoga/index.php/Home/Index/aa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+

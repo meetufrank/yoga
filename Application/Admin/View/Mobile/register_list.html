@@ -1,0 +1,213 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>瑜伽后台管理系统</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="__PUBLIC__/mobile/font-awesome-4.7.0/css/font-awesome.css">
+<script type="text/javascript" src="__PUBLIC__/assets/js/jquery.min.js"></script>
+
+<style>
+/*全局样式*/
+*{
+	margin:auto 0px;
+}
+button{
+	outline:none;
+}
+/*-全局样式尾*/
+.mobileheader{
+	width:100%;
+	height:65px;
+	background-color:#0099CD;
+}
+.mobileheader span{
+	width:70%;
+	font-size:14px;
+	font-weight:bold;
+	display:inline-block;
+	margin-top:20px;
+	margin-left:10px;
+}
+.mobileheader button{
+	margin-left:20px;
+	width:20%;
+	height:40px;
+	background-color:#FFF;
+	text-align:center;
+}
+.selectdoubel{
+	width:100%;
+	height:60px;
+	background-color:#D7D7D7;
+}
+.btn4{
+	width:40%;
+	height:35px;
+	border:3px solid white;
+	margin-top:10px;
+	margin-left:1rem;
+	color:#F00;
+}
+.table-double{
+	margin:0 auto;
+	width:100%;
+	text-align:center;
+}
+table{
+	width:100%;
+	table-layout:fixed;/* 只有定义了表格的布局算法为fixed，下面td的定义才能起作用。 */
+	margin-top:10px;
+	border-collapse:collapse;   /*表示将单元格中各小格之间的空隙进行合并*/
+	border:2px solid #999;
+}
+td{
+    word-break:keep-all;/* 不换行 */
+    white-space:nowrap;/* 不换行 */
+    overflow:hidden;/* 内容超出宽度时隐藏超出部分的内容 */
+    text-overflow:ellipsis;/* 当对象内文本溢出时显示省略标记(...) ；需与overflow:hidden;一起使用*/
+}
+.showpage{
+	width:100%;
+	height:60px;
+	background-color:#D7D7D7;
+	text-align:center;
+	position:fixed;
+	bottom:0;
+}
+.btn3{
+	width:40%;
+	height:35px;
+	border:3px solid white;
+	margin-top:10px;
+	margin-left:1rem;
+	color:white;
+	background-color:#F30;
+}
+.btn5{
+	width:100%;
+	border:3px solid white;
+	color:white;
+	background-color:#F30;
+}
+.btn6{
+	width:100%;
+	border:3px solid white;
+	color:red;
+	background-color:#FF0;
+}
+ li{
+    list-style-type:none;
+}
+</style>
+<script>
+$(document).ready(function(){
+	$("#showpage button").click(function(){
+		$("#showpage button").removeClass("btn3");
+		$(this).addClass("btn3");
+	});
+})
+</script>
+</head>
+
+<body>
+<div class="mobileheader">
+	<span>生活的艺术后台管理系统</span><button type="button" onclick="window.location.href='{:U(\'Login/logout\')}';"><i class="fa fa-window-close" style="color:#999; font-size:15px;"></i>注销</button>
+</div>
+<div class="selectdoubel" id="select">
+	<if condition="$back"><a href="{$back}"><else/><a href="{:U('Mobile/index')}"></if><button type="button" class="btn4">后退</button></a>
+</div>
+<if condition="$activedata">
+<div class="table-double">
+    <table border="1">
+     <tr>
+      <td width="50px">姓名</td>
+      <td width="50px">手机号</td>
+      <td width="50px">报名时间</td>
+      <td width="50px">开启状态</td>
+     </tr>
+     <foreach name="activedata" item="ad">
+     <tr>
+      <td width="50px">{$ad.ar_name}</td>
+      <td width="50px">{$ad.ar_tel}</td>
+      <td width="50px">{$ad.ar_addtime}</td>
+      <td width="50px">
+      <if condition="$ad['ar_open'] eq 1">
+        <div id="zt{$ad.ar_id}"><button   type="button" class="btn6" onclick="return stateyes({$ad.ar_id},{$ad.ar_activeid},1);">已通过</button></div>
+
+        <else/>
+        <div id="zt{$ad.ar_id}"><button  type="button" class="btn5" onclick="return stateyes({$ad.ar_id},{$ad.ar_activeid},1);">未审核</button></div>
+    </if>
+      </td>
+
+     </tr>
+
+    </foreach>
+
+    </table>
+</div>
+
+{$page}
+<else/>
+<div class="table-double">
+    <table border="1">
+     <tr>
+      <td width="50px">姓名</td>
+      <td width="70px">手机号</td>
+      <td width="50px">报名时间</td>
+      <td width="50px">开启状态</td>
+     </tr>
+     <foreach name="classdata" item="cd">
+     <tr>
+      <td width="50px">{$cd.cr_name}</td>
+      <td width="50px">{$cd.cr_tel}</td>
+      <td width="50px">{$cd.cr_addtime|substr=5,5}</td>
+      <td width="50px">
+      <if condition="$cd['cr_open'] eq 1">
+        <div id="zt{$cd.cr_id}"><button   type="button" class="btn6" onclick="return stateyes({$cd.cr_id},{$cd.cr_classid},2);">已通过</button></div>
+
+        <else/>
+        <div id="zt{$cd.cr_id}"><button  type="button" class="btn5" onclick="return stateyes({$cd.cr_id},{$cd.cr_classid},2);">未审核</button></div>
+    </if>
+      </td>
+     </tr>
+     </foreach>
+
+    </table>
+</div>
+
+{$page}
+</if>
+
+<script type="text/javascript">
+    function stateyes(val,acval,is){
+        if(is==1){var str='{:U("register_list_state")}';var num=1;}else{str='{:U("classregister_list_state")}';var num=2;}
+          $.post(str,
+          {x:val,id:acval},
+    function(data){
+    var $v=val;
+        if(data.status){
+            if(data.info=='未审核'){
+                var a='<button  type="button" class="btn5" onclick="return stateyes('+val+','+acval+','+num+');">未审核</button>';
+
+                $('#zt'+val).html(a);
+                return false;
+            }else{
+                var b='<button  type="button" class="btn6" onclick="return stateyes('+val+','+acval+','+num+');">已通过</button>';
+                $('#zt'+val).html(b);
+                return false;
+            }
+
+        }else{
+            layer.alert(data.info, {icon: 6}, function(index){
+                layer.close(index);
+                });
+            return false;
+        }
+    });
+    return false;
+}
+
+</script>
+</body>
+</html>

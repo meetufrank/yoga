@@ -1,0 +1,359 @@
+	<include file='Common:header' />
+
+		<!-- /section:basics/navbar.layout -->
+		<div class="main-container" id="main-container">
+
+			<!-- #section:basics/sidebar -->
+
+	<include file='Common:left' />
+
+
+
+			<!-- /section:basics/sidebar -->
+			<div class="main-content">
+				<div class="main-content-inner">
+					<div class="page-content">
+
+
+
+                        <!--主题-->
+						<div class="page-header">
+							<h1>
+								您当前操作
+								<small>
+									<i class="ace-icon fa fa-angle-double-right"></i>
+									修改课程报名表
+								</small>
+							</h1>
+						</div>
+
+<script type="text/javascript" src="__PUBLIC__/assets/js/region.js"></script>
+						<div class="row">
+							<div class="col-xs-12">
+								<form class="form-horizontal" name="form0" id="form0"  method="post" action="{:U('class_register_runedit')}"  enctype="multipart/form-data">
+
+
+									<div class="space-4"></div>
+
+                                	<div class="form-group">
+										<label class="col-sm-2 control-label no-padding-right" for="form-field-1"> 姓名：  </label>
+
+										<div class="col-sm-10">
+										<input type="hidden" name="cr_id" value="{$ac_re.cr_id}"/>
+										<input type="hidden" name="mc_id" value="{$ac_re.cr_classid}"/>
+											<input type="text" name="name" id="name"  placeholder=""  class="col-xs-10 col-sm-1" value="{$ac_re.cr_name}"/>
+
+                                            <span class="help-inline col-xs-12 col-sm-7">
+												<span class="middle" id="resone"></span>
+											</span>
+										</div>
+									</div>
+                                    <div class="space-4"></div>
+                                    <div class="form-group">
+										<label class="col-sm-2 control-label no-padding-right" for="form-field-1"> 联系方式：  </label>
+										<div class="col-sm-10">
+											<input type="text" name="tel" id="tel"  placeholder=""  class="col-xs-10 col-sm-3" value="{$ac_re.cr_tel}" />
+
+                                            <span class="help-inline col-xs-12 col-sm-7">
+												<span class="middle" id="resone"></span>
+											</span>
+										</div>
+									</div>
+                                    <div class="space-4"></div>
+                                    <div class="form-group">
+										<label class="col-sm-2 control-label no-padding-right" for="form-field-1"> 国家（护照）：  </label>
+										<div class="col-sm-10">
+											<input type="text" name="country" id="country"  placeholder=""  class="col-xs-10 col-sm-1" value="{$ac_re.cr_country}"/>
+
+                                            <span class="help-inline col-xs-12 col-sm-7">
+												<span class="middle" id="resone"></span>
+											</span>
+										</div>
+									</div>
+                                    <div class="space-4"></div>
+                                    <div class="form-group">
+										<label class="col-sm-2 control-label no-padding-right" for="form-field-1"> 地址：  </label>
+										<div class="col-sm-10">
+											<input type="text" name="address" id="address"  placeholder=""  class="col-xs-10 col-sm-3" value="{$ac_re.cr_address}" />
+
+                                            <span class="help-inline col-xs-12 col-sm-7">
+												<span class="middle" id="resone"></span>
+											</span>
+										</div>
+									</div>
+                                    <div class="space-4"></div>
+                                    <div class="form-group">
+										<label class="col-sm-2 control-label no-padding-right" for="form-field-1"> 出生日期：  </label>
+										<div class="col-sm-10">
+											<input type="text" name="birthday" id="birthday"  placeholder="2016-05-30"  class="col-xs-10 col-sm-2" value="{$ac_re.cr_birthday}" />
+
+                                            <span class="help-inline col-xs-12 col-sm-7">
+												<span class="middle" id="resone"></span>
+											</span>
+										</div>
+									</div>
+                                    <div class="space-4"></div>
+
+
+									<div class="form-group">
+										<label class="col-sm-2 control-label no-padding-right" for="form-field-1"> 性别：  </label>
+										<div class="col-sm-10">
+											 <select name="sex"  class="knows_type">
+												<option value="1" selected>男</option>
+												<option value="0" <if condition="$ac_re['cr_sex'] eq 0">selected</if>>女</option>
+											 </select>
+
+
+	 									</div>
+									</div>
+
+                                    <div class="space-4"></div>
+                                    <div class="form-group">
+										<label class="col-sm-2 control-label no-padding-right" for="form-field-1"> 是否参加过生活艺术的其他课程：  </label>
+										<div class="col-sm-10">
+											<input type="text" name="more" id="more"  placeholder="若无参加则为空"  class="col-xs-10 col-sm-2" value="{$ac_re.cr_more}"/>
+
+                                            <span class="help-inline col-xs-12 col-sm-7">
+												<span class="middle" id="resone"></span>
+											</span>
+										</div>
+									</div>
+
+                                    <div class="space-4"></div>
+                                     <div class="form-group">
+										<label class="col-sm-2 control-label no-padding-right" for="form-field-1"> 有无疾病及疾病名称：  </label>
+										<div class="col-sm-10">
+											<input type="text" name="health" id="health"  placeholder="若无则为空"  class="col-xs-10 col-sm-2" value="{$ac_re.cr_health}"/>
+
+                                            <span class="help-inline col-xs-12 col-sm-7">
+												<span class="middle" id="resone"></span>
+											</span>
+										</div>
+									</div>
+
+                                    <div class="space-4"></div>
+                                     <div class="form-group">
+										<label class="col-sm-2 control-label no-padding-right" for="form-field-1"> 药品需求：  </label>
+										<div class="col-sm-10">
+											<input type="text" name="drug" id="drug"  placeholder="若无则为空"  class="col-xs-10 col-sm-2" value="{$ac_re.cr_drug}"/>
+
+                                            <span class="help-inline col-xs-12 col-sm-7">
+												<span class="middle" id="resone"></span>
+											</span>
+										</div>
+									</div>
+
+                                    <div class="space-4"></div>
+                                    <div class="form-group">
+										<label class="col-sm-2 control-label no-padding-right" for="form-field-1"> 邮箱：  </label>
+										<div class="col-sm-10">
+											<input type="text" name="email" id="email"  placeholder="例：972270516@qq.com"  class="col-xs-10 col-sm-2" value="{$ac_re.cr_email}" />
+
+                                            <span class="help-inline col-xs-12 col-sm-7">
+												<span class="middle" id="resone"></span>
+											</span>
+										</div>
+									</div>
+                                    <div class="space-4"></div>
+
+                                    <div class="form-group">
+										<label class="col-sm-2 control-label no-padding-right" for="form-field-1">备注：  </label>
+										<div class="col-sm-10">
+											<textarea name="say" class="col-xs-10 col-sm-2" value="{$ac_re.cr_say}" ></textarea>
+
+                                            <span class="help-inline col-xs-12 col-sm-7">
+												<span class="middle" id="resone"></span>
+											</span>
+										</div>
+									</div>
+                                    <div class="space-4"></div>
+
+
+
+
+
+
+
+
+
+
+
+
+    <link href="__PUBLIC__/ppy/css/fileinput.css" media="all" rel="stylesheet" type="text/css" />
+    <script src="__PUBLIC__/ppy/js/fileinput.js" type="text/javascript"></script>
+    <script src="__PUBLIC__/ppy/js/fileinput_locale_zh.js" type="text/javascript"></script>
+
+
+
+
+
+
+
+
+
+									<div class="form-group">
+										<label class="col-sm-2 control-label no-padding-right" for="form-field-1"> 是否直接通过审核： </label>
+										<div class="col-sm-10" style="padding-top:5px;">
+                                            <input name="open" id="open" value="1" class="ace ace-switch ace-switch-4 btn-flat" type="checkbox" <if condition="$ac_re['cr_open'] eq 1">checked</if> />
+											<span class="lbl">&nbsp;&nbsp;注意：课程报名需要开启用户才能看到发布信息</span>
+										</div>
+									</div>
+
+                                     <div class="space-4"></div>
+
+									<div class="clearfix form-actions">
+										<div class="col-md-offset-3 col-md-9">
+											<button class="btn btn-info" type="submit">
+												<i class="ace-icon fa fa-check bigger-110"></i>
+												保存
+											</button>
+
+											&nbsp; &nbsp; &nbsp;
+											<button class="btn" type="reset">
+												<i class="ace-icon fa fa-undo bigger-110"></i>
+												重置
+											</button>
+											&nbsp; &nbsp; &nbsp;
+											<a class="btn" href="#" onclick="javascript:history.back(-1);"><i class="ace-icon fa fa-undo bigger-110"></i>取消</a>
+										</div>
+									</div>
+								</form>
+                        	</div>
+                        </div>
+									<div class="hr hr-24"></div>
+
+<include file='Common:header_nav' />
+
+					</div><!-- /.page-content -->
+				</div>
+			</div><!-- /.main-content -->
+
+	<include file='Common:footer' />
+
+		</div><!-- /.main-container -->
+
+	</body>
+</html>
+<script>
+function backpic(picurl){
+	$("#img0").attr("src",picurl);//还原修改前的图片
+	$("input[name='file0']").val("");//清空文本框的值
+}
+
+$(document).ready(function(){
+
+//多图设置
+  $("#pic_list").hide();
+  $("#news_pic_list").click(function(){
+  	$("#pic_list").hide();
+  });
+  $("#news_pic_qqlist").click(function(){
+  	$("#pic_list").show();
+  });
+
+  $("#pptaddress").hide();
+  $("#news_flag_vaj").click(function(){
+    $("#pptaddress").toggle(500);
+  });
+});
+
+
+$(function(){
+	$('#form0').ajaxForm({
+		beforeSubmit: checkForm, // 此方法主要是提交前执行的方法，根据需要设置
+		success: complete, // 这是提交后的方法
+		dataType: 'json'
+	});
+
+	function checkForm(){
+
+
+		if( '' == $.trim($('#name').val())){
+			layer.alert('姓名不能为空', {icon: 6}, function(index){
+ 			layer.close(index);
+			$('#name').focus();
+			});
+			return false;
+		}
+		if( '' == $.trim($('#tel').val())){
+			layer.alert('联系方式不能为空', {icon: 6}, function(index){
+ 			layer.close(index);
+			$('#tel').focus();
+			});
+			return false;
+		}
+		if( '' == $.trim($('#email').val())){
+			layer.alert('邮箱不能为空', {icon: 6}, function(index){
+ 			layer.close(index);
+			$('#email').focus();
+			});
+			return false;
+		}
+		if( '' == $.trim($('#birthday').val())){
+			layer.alert('出生日期不能为空', {icon: 6}, function(index){
+ 			layer.close(index);
+			$('#birthday').focus();
+			});
+			return false;
+		}
+		if( '' == $.trim($('#country').val())){
+			layer.alert('国家不能为空', {icon: 6}, function(index){
+ 			layer.close(index);
+			$('#country').focus();
+			});
+			return false;
+		}
+		if( '' == $.trim($('#address').val())){
+			layer.alert('地址不能为空', {icon: 6}, function(index){
+ 			layer.close(index);
+			$('#address').focus();
+			});
+			return false;
+		}
+
+
+
+
+
+ }
+	function complete(data){
+		if(data.status==1){
+			layer.alert(data.info, {icon: 6}, function(index){
+ 			layer.close(index);
+			window.location.href=data.url;
+			});
+		}else{
+			layer.alert(data.info, {icon: 6}, function(index){
+ 			layer.close(index);
+
+			});
+		}
+	}
+
+});
+
+$("#file0").change(function(){
+	var objUrl = getObjectURL(this.files[0]) ;
+	console.log("objUrl = "+objUrl) ;
+	if (objUrl) {
+		$("#img0").attr("src", objUrl) ;
+	}
+}) ;
+//建立一個可存取到該file的url
+function getObjectURL(file) {
+	var url = null ;
+	if (window.createObjectURL!=undefined) { // basic
+	$("#news_flag_vap").attr("checked", true);
+		url = window.createObjectURL(file) ;
+	} else if (window.URL!=undefined) { // mozilla(firefox)
+	$("#news_flag_vap").attr("checked", true);
+		url = window.URL.createObjectURL(file) ;
+	} else if (window.webkitURL!=undefined) { // webkit or chrome
+		$("#news_flag_vap").attr("checked", true);
+		url = window.webkitURL.createObjectURL(file) ;
+	}
+	return url ;
+}
+
+
+</script>

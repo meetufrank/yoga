@@ -1,0 +1,174 @@
+/*手机端*/
+@media (max-width: 768px){
+	.maodian{
+		display: none;
+	}
+	.neirong .insertImgR{
+		margin:20px auto;
+	}
+	.neirong .insertImgL{
+		margin:20px auto;
+	}
+	.shipin iframe{
+		width: 90%;
+		margin-top:30px;
+		height: 250px;
+	}
+	.phone{
+		width: 100%;
+		height: 35px;
+		position: fixed;
+		top: 0;
+		left: 0;
+	}
+	.phone ul{
+		width: 100%;
+	}
+	.phone ul li{
+		width: 50%;
+		height: 35px;
+		float: left;
+	}
+	.phone ul li a{
+		display: block;
+		width: 100%;
+		height: 35px;
+		line-height: 35px;
+		text-align: center;
+		color:black;
+		background-color: #D0D0D0;
+		letter-spacing: 3px;
+	}
+	.phone ul li a.on{
+		background-color: #E79815;
+	}
+}
+/*电脑端*/
+@media (min-width: 769px){
+	.neirong{
+		width: 100%;
+
+	}
+	.maodian ul li a{
+		font-size: 1.2rem;
+	}
+	.neirong .insertImgR{
+		float: right;
+		margin:0 0 20px 20px;
+	}
+	.neirong .insertImgL{
+		float: left;
+		margin: 0 2% 0 0;
+	}
+	.shipin iframe{
+		width: 70%;
+		margin-top:30px;
+		height: 330px;
+	}
+	.phone{
+		display: none;
+	}
+}
+@media(min-width: 980px){
+	.maodian ul li a{
+		font-size: 1.5rem;
+	}
+}
+
+/*全局样式*/
+*{
+	margin:0;
+	padding: 0;
+	list-style: none;
+	text-decoration: none;
+	font-family: "微软雅黑";
+}
+a:hover{
+	text-decoration: none;
+}
+/* 背景图 */
+.bg{
+	background-image: url(../images/backgroundPic.jpg);
+	padding:20px 4%;
+}
+/* 白底 */
+.whiteLevel{
+
+	background-color: white;
+	margin:0 auto;
+	padding:2% 15% 4% 15%;/*20px 2% 200px 2%*/
+}
+.firstHr{
+	height:3px;
+	border:none;
+	border-top:3px solid #FFC90E;
+}
+/* 左边锚点按钮 */
+
+.maodian ul li {
+
+    width: 50%;
+
+    height: 75px;
+
+    float: left;
+
+}
+.maodian ul li a{
+	display: block;
+	width: 100%;
+	height: 50px;
+	line-height: 50px;
+	text-align: center;
+	color:black;
+	background-color: #D0D0D0;
+}
+.maodian ul li a.on{
+	background-color: #E79815;
+}
+/* .maodian ul li a:hover{
+	background-color: #ccc;
+} */
+/*.maodian .aboutUs{
+	border-bottom: 1px solid black;
+}*/
+
+/* 右边 */
+.neirong .tianxia{
+	display: block;
+	text-align: center;
+	font-size:2rem;
+}
+.neirong h3{
+	margin-top: 50px;
+}
+.neirong .one{
+	padding:0px 20px;
+}
+/* 关于我们 */
+.secondHr{
+	height:2px;
+	margin-top: 10px;
+	border:none;
+	border-top:2px solid #FFC90E;
+}
+.thirdHr{
+	height:1px;
+	width: 92%;
+	margin:30px auto;
+	border:none;
+	border-top:1px solid #CCC;
+}
+.whiteLevel p{
+	letter-spacing: 1px;
+	font-size: 1.5rem;
+	line-height: 30px;
+	text-indent: 2em;
+}
+
+/* 视频 */
+.shipin{
+	text-align:center;
+}
+
+

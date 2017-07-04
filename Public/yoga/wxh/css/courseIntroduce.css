@@ -1,0 +1,254 @@
+/*手机端*/
+@media (max-width: 768px){
+	.whole{
+		background-image: url(../images/backgroundPic.jpg);
+		padding: 20px 20px 60px 20px;
+	}
+
+	.whiteDiv{
+		background-color: #F9F9F9;
+		padding: 20px 20px;
+	}
+	.toHeart{
+		font-size: 2.5rem;
+		letter-spacing: 2px;
+	}
+	.highcourse{
+		margin: 0 0 30px 0;
+	}
+	.timeAndRightSecond h3{
+		margin-top: 20px;
+	}
+	.timeAndRightSecond p{
+		line-height: 30px;
+		letter-spacing: 1px;
+		font-size: 1.5rem;
+	}
+	.timeAndRightSecond hr,.twoLevel hr{
+		margin:10px 0;
+	}
+	.twoLevel .bottomSpace{
+		margin-bottom: 50px;
+	}
+	.twoLevel p,.neirong p{
+		line-height: 25px;
+		letter-spacing: 1px;
+		font-size: 1.5rem;
+	}
+	.heartLevel h3{
+		margin-top:0;
+	}
+
+	.rightNeirong{
+		width: 100%;
+		margin: 20px auto;
+	}
+	.join{
+		width: 100%;
+		position: fixed;
+		bottom: 0;
+		left: 0;
+		z-index: 1000;
+	}
+
+}
+/*电脑端*/
+@media (min-width: 769px){
+	body{
+		background-color: #F9F9F9;
+	}
+	.whole{
+		width: 90%;
+	}
+	.topImg{
+		margin: 0 0 60px 0;
+	}
+	.highcourse{
+		letter-spacing: 1px;
+		margin: 0 0 80px 0;
+	}
+	.toHeart{
+		font-size: 3rem;
+		letter-spacing: 4px;
+	}
+	.timeAndRightFirst{
+		width: 50%;
+		float: left;
+		margin-bottom: 80px;
+	}
+	.timeAndRightFirst img{
+		height: 400px;
+	}
+	.rightNeirong img{
+		height: 370px;
+	}
+	.timeAndRightSecond h3{
+		margin-top: 0px;
+	}
+	.twoLevel h3{
+		margin-top:0;
+	}
+	.twoLevel{
+		padding: 0 1%;
+		float: right;
+	}
+	.twoLevel p{
+		line-height: 20px;
+		letter-spacing: 1px;
+		font-size: 1.2rem;
+	}
+
+	.timeAndRightSecond{
+		padding-left: 40px;
+		float: left;
+		width: 50%;
+	}
+	.timeAndRightSecond p{
+		line-height: 21px;
+		letter-spacing: 1px;
+		font-size: 1.4rem;
+	}
+	.timeAndRightSecond hr,.twoLevel hr{
+		margin:0;
+	}
+	.rightNeirong{
+		float: right;
+		width: 46%;
+	}
+	.join{
+		width: 200px;
+		margin: 80px auto;
+		border-radius: 10px;
+	}
+}
+@media (min-width: 900px){
+	.timeAndRightSecond hr,.twoLevel hr{
+		margin:5px 0;
+	}
+	.timeAndRightSecond p{
+		line-height: 25px;
+		letter-spacing: 1px;
+		font-size: 1.6rem;
+	}
+	.twoLevel{
+		padding: 0 1%;
+	}
+	.twoLevel p{
+		line-height: 26px;
+		letter-spacing: 1px;
+		font-size: 1.4rem;
+	}
+
+}
+@media(min-width: 980px){
+	.twoLevel{
+		padding: 0 2%;
+	}
+	.twoLevel p{
+		line-height: 28px;
+		letter-spacing: 1px;
+		font-size: 1.5rem;
+	}
+}
+@media (min-width: 1140px){
+	.timeAndRightSecond hr,.twoLevel hr{
+		margin:10px 0px;
+	}
+	.timeAndRightSecond p{
+		line-height: 30px;
+		letter-spacing: 1px;
+		font-size: 1.7rem;
+		margin-bottom:23px;
+	}
+	.twoLevel{
+		padding: 0 3%;
+	}
+	.twoLevel p{
+		line-height: 30px;
+		letter-spacing: 1px;
+		font-size: 1.6rem;
+	}
+}
+
+/*全局样式*/
+*{
+	margin:0;
+	padding: 0;
+	list-style: none;
+	text-decoration: none;
+	font-family: "微软雅黑";
+}
+
+/*顶部大图*/
+.topImg{
+	width: 100%;
+}
+.topImg img{
+	width: 100%;
+	max-height: 450px;
+}
+
+/*中间标题*/
+.toHeart{
+	text-align: center;
+}
+.highcourse{
+	text-align: center;
+	font-size: 16px;
+}
+
+/*课程时间和参赛资格*/
+.timeAndRightFirst img{
+	width: 100%;
+}
+.twoLevel h3{
+	color: #FFC90E;
+}
+.twoLevel hr{
+	height:3px;
+	width:25px;
+	border:none;
+	border-top:3px solid #FFC90E;
+}
+
+
+/*课程内容介绍*/
+.rightNeirong img{
+	width: 100%;
+}
+.timeAndRightSecond h3{
+	color: #FFC90E;
+}
+.timeAndRightSecond hr{
+	height:3px;
+	width:25px;
+	border:none;
+	border-top:3px solid #FFC90E;
+}
+
+
+/*我要参加*/
+.join{
+	display: block;
+	height: 50px;
+	background-color: #FFC90E;
+	font-size: 2rem;
+	color: white;
+	line-height: 50px;
+	text-align: center;
+}
+.join:hover{
+	background-color: #F9E626;
+	color: white;
+	text-decoration: none;
+}
+.join:focus{
+    color: white;
+    text-decoration: none;
+}
+.bottom-line{
+	width:105px;
+	height:auto;
+	border-bottom:2px solid #FEAE03;
+	padding-bottom:10px;
+}

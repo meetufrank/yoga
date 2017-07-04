@@ -1,0 +1,125 @@
+	<include file='Common:header' />
+
+		<!-- /section:basics/navbar.layout -->
+		<div class="main-container" id="main-container">
+
+			<!-- #section:basics/sidebar -->
+
+	<include file='Common:left' />
+			<!-- /section:basics/sidebar -->
+			<div class="main-content">
+				<div class="main-content-inner">
+					<div class="page-content">
+					
+
+							<div class="row">
+							    <div class="col-xs-12">
+										<div>
+											<table width="100%" class="table table-striped table-bordered table-hover" id="dynamic-table">
+												<thead>
+													<tr>
+													  <th width="25%">留言人标题</th>
+													  <th width="15%">留言人电话</th>
+													  <th width="39%">留言内容</th>
+													  <th width="15%">留言时间</th>
+													  <th width="6%" style="border-right:#CCC solid 1px;">操作</th>
+												  </tr>
+												</thead>
+
+												<tbody>
+                                                
+                                                <foreach name="plug_sug" item="v">
+													<tr>
+														<td height="28">{$v.plug_sug_title}</td>
+														<td>{$v.plug_sug_email}</td>
+														<td>{$v.plug_sug_content}</td>
+														<td>{$v.plug_sug_addtime|date='Y-m-d',###}</td>
+														<td>
+										<div class="hidden-sm hidden-xs action-buttons">
+											<a class="red" href="javascript:;" onclick="return del({$v.plug_sug_id});" title="删除">
+												<i class="ace-icon fa fa-trash-o bigger-130"></i>											</a>										</div>														</td>
+													</tr>
+                                                 </foreach>   
+                                                  <tr>
+													  <td height="50" colspan="5" align="right">{$page}</td>
+                                                  </tr>
+												</tbody>
+										  </table>
+							    		</div>
+									</div>
+								</div>
+
+<include file='Common:header_nav' />
+
+					</div><!-- /.page-content -->
+				</div>
+			</div><!-- /.main-content -->
+
+<script>
+function del(id,p){
+	layer.confirm('你确定要删除吗？', {icon: 3}, function(index){
+	layer.close(index);
+	window.location.href="__URL__/plug_ad_del/plug_ad_id/"+id+"/p/"+p+"";
+	});
+}
+
+//修改模态框状态
+$(document).ready(function(){
+	$("#myModaledit").hide();
+	$("#gb").click(function(){
+		$("#myModaledit").hide(200);
+	});
+	$("#gbb").click(function(){
+		$("#myModaledit").hide(200);
+	});
+	$("#gbbb").click(function(){
+		$("#myModaledit").hide(200);
+	});
+});
+
+function stateyes(val){
+		  $.post('{:U("plug_ad_state")}',
+		  {x:val},
+	function(data){
+		if(data.status){
+			if(data.info=='状态禁止'){
+				var a='<button class="btn btn-minier btn-danger">状态禁用</button>'
+				$('#zt'+val).html(a);
+				layer.alert(data.info, {icon: 5});
+				return false;
+			}else{
+				var b='<button class="btn btn-minier btn-yellow">状态开启</button>'
+				$('#zt'+val).html(b);
+				layer.alert(data.info, {icon: 6});
+				return false;
+			}
+		}
+	});
+	return false;
+}
+
+function plug_sug_edit(val){
+		  $.post('{:U("plug_sug_edit")}',
+		  {plug_sug_id:val},
+	function(data){
+		if(data.status==1){
+				$(document).ready(function(){
+					$("#myModaledit").show(300);
+					$("#editplug_sug_id").val(data.plug_sug_id);
+					$("#editplug_sug_title").val(data.plug_sug_title);
+					$("#editplug_sug_email").val(data.plug_sug_email);
+					$("#editplug_sug_addtime").val(data.plug_sug_addtime);
+				});
+			}else{
+
+		}
+	});
+	return false;
+}
+
+</script>
+	<include file='Common:footer' />
+    
+		</div><!-- /.main-container -->
+	</body>
+</html>

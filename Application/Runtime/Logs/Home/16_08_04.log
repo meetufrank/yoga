@@ -1,0 +1,110 @@
+[ 2016-08-04T10:27:03+08:00 ] ::1 /yogadatas/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-04T10:39:37+08:00 ] ::1 /yogadatas/index.php/Home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-04T10:41:32+08:00 ] ::1 /yogadatas/index.php/Home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-04T10:47:55+08:00 ] ::1 /yogadatas/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-04T10:48:52+08:00 ] ::1 /yogadatas/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: ad_readnnum E:\www\yogadatas\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 108 行.
+NOTIC: [8] Undefined index: starttime E:\www\yogadatas\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 120 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yogadatas\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 120 行.
+NOTIC: [8] Undefined index: ad_readnnum E:\www\yogadatas\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 108 行.
+NOTIC: [8] Undefined index: starttime E:\www\yogadatas\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 120 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yogadatas\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 120 行.
+NOTIC: [8] Undefined index: ad_readnnum E:\www\yogadatas\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 108 行.
+NOTIC: [8] Undefined index: starttime E:\www\yogadatas\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 120 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yogadatas\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 120 行.
+NOTIC: [8] Undefined index: ad_readnnum E:\www\yogadatas\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 108 行.
+NOTIC: [8] Undefined index: starttime E:\www\yogadatas\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 120 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yogadatas\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 120 行.
+NOTIC: [8] Undefined index: ad_readnnum E:\www\yogadatas\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 108 行.
+NOTIC: [8] Undefined index: starttime E:\www\yogadatas\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 120 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yogadatas\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 120 行.
+NOTIC: [8] Undefined index: ad_readnnum E:\www\yogadatas\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 150 行.
+NOTIC: [8] Undefined index: starttime E:\www\yogadatas\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 162 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yogadatas\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 162 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.045003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.045003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-04T10:49:26+08:00 ] ::1 /yogadatas/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: ad_readnnum E:\www\yogadatas\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 108 行.
+NOTIC: [8] Undefined index: starttime E:\www\yogadatas\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 120 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yogadatas\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 120 行.
+NOTIC: [8] Undefined index: ad_readnnum E:\www\yogadatas\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 108 行.
+NOTIC: [8] Undefined index: starttime E:\www\yogadatas\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 120 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yogadatas\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 120 行.
+NOTIC: [8] Undefined index: ad_readnnum E:\www\yogadatas\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 108 行.
+NOTIC: [8] Undefined index: starttime E:\www\yogadatas\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 120 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yogadatas\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 120 行.
+NOTIC: [8] Undefined index: ad_readnnum E:\www\yogadatas\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 108 行.
+NOTIC: [8] Undefined index: starttime E:\www\yogadatas\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 120 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yogadatas\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 120 行.
+NOTIC: [8] Undefined index: ad_readnnum E:\www\yogadatas\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 108 行.
+NOTIC: [8] Undefined index: starttime E:\www\yogadatas\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 120 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yogadatas\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 120 行.
+NOTIC: [8] Undefined index: ad_readnnum E:\www\yogadatas\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 150 行.
+NOTIC: [8] Undefined index: starttime E:\www\yogadatas\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 162 行.
+NOTIC: [8] Undefined index: stoptime E:\www\yogadatas\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 162 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+

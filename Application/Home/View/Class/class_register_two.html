@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <link rel="stylesheet" type="text/css" href="__PUBLIC__/yoga/css/DateTimePicker.css">
+  <link rel="stylesheet" type="text/css" href="__PUBLIC__/yoga/css/wtf-forms.css">
+<script src="http://cdn.bootcss.com/vue/1.0.25/vue.min.js"></script>
+  <script src="http://cdn.bootcss.com/vue-resource/0.9.3/vue-resource.min.js"></script>
+  <title>生活的艺术-课程报名</title>
+  <include file="Common:top"/>
+</head>
+<body>
+<div class="person-header has-background-image">
+	<div class="person-image-wrapper"><img class="res-image" src="__PUBLIC__{$persondata.member_list_headpic}" alt=""></div>
+	<div class="person-username">{$persondata.member_list_petname}</div>
+</div>
+<div class="yoga-course-form clearfix" id="person-container">
+	<form method="POST" action="" class="sign-course-form" id="form0">
+		<input type="hidden" name="form_type" value="c">
+		<input type="hidden" value="{$classid}" name="id">
+		<div class="form-item clearfix">
+			<div class="form-item-desc col-xs-12 col-sm-3">参加人姓名：</div>
+			<div class="form-input-wrapper col-xs-12 col-sm-6"><input type="text" name="participant" value="{$persondata.member_list_username}"></div>
+			<div class="error-container col-xs-12 col-sm-3"></div>
+		</div>
+		<div class="form-item clearfix">
+			<div class="form-item-desc col-xs-12 col-sm-3">生日：</div>
+			<div class="form-input-wrapper col-xs-12 col-sm-6"><label class="has-calender"><input type="text" name="birthday" data-field="date" readonly=""><span><img src="__PUBLIC__/yoga/img/calender.png" alt=""></span></label>
+			<div class="box-container"><div id="dtBox"></div></div></div><div class="error-container col-xs-12 col-sm-3"></div>
+		</div>
+
+		<div class="form-item clearfix">
+			<div class="form-item-desc col-xs-12 col-sm-3">联系电话：</div>
+			<div class="form-input-wrapper col-xs-12 col-sm-6"><input type="text" name="phone" value="{$persondata.member_list_tel}"></div><div class="error-container col-xs-12 col-sm-3"></div>
+		</div>
+
+
+		<div class="col-sm-9 sign-course-wrapper">
+		<a  class="person-edit-info sign-course1" href="{:U('Class/class_content',array('id'=>$classid))}" >取消</a>
+		<input type="submit" class="person-edit-info sign-course1" value="提交" id="sign-course">
+
+		</div>
+	</form>
+</div>
+<div class="bottom-background has-background-image">
+</div>
+
+<script type="text/javascript" src="__PUBLIC__/yoga/js/vendor/DateTimePicker.min.js"></script>
+<script type="text/javascript" src="__PUBLIC__/yoga/js/vendor/DatetimePicker-i18n-zh-CN.js"></script>
+<script type="text/javascript" src="__PUBLIC__/yoga/js/vendor/jquery.city.select.min.js"></script>
+<script type="text/javascript" src="__PUBLIC__/yoga/js/vendor/data.js"></script>
+<script type="text/javascript" src="__PUBLIC__/yoga/js/vendor/jquery.validate.min.js"></script>
+<script type="text/javascript">
+$(function($) {
+	$(function(){
+        var $divWidth = $('.person-image-wrapper img').width();
+        $('.person-image-wrapper img').css({'height':$divWidth});
+    })
+    new Vue({
+	el: '#person-container',
+	ready: function() {
+
+	/* 日历控件 */
+	$('#dtBox').DateTimePicker({
+		language: "zh-CN",
+		addEventHandlers: function() {
+		  var oDTP = this;
+		  oDTP.settings.minDate = oDTP.getDateTimeStringInFormat("Date", "yyyy-MM-dd", new Date(1890,1,1));
+		  oDTP.settings.maxDate = oDTP.getDateTimeStringInFormat("Date", "yyyy-MM-dd", new Date());
+		}
+	});
+
+	$('.sign-course-form').validate({
+		rules: {
+			"participant": {
+				required: true
+			},
+			"birthday": {
+				required: true
+			},
+
+			"phone": {
+				required: true,
+				validPhone: true
+			},
+
+
+		},
+		messages: {
+			"participant": {
+				required: "此项为必填项"
+			},
+			"birthday": {
+				required: "此项为必填项"
+			},
+
+			"phone": {
+				required: "此项为必填项",
+				validPhone: "请填写11位手机号码"
+			},
+
+
+		},
+		ignore: '.ignore',
+		errorPlacement: function(error, element) {
+			error.appendTo(element.closest('.form-item').find('.error-container'))
+		}
+	});
+
+	$.validator.addMethod("valueNotEquals", function(value, element, params) {
+		return value != params;
+	});
+
+	$.validator.addMethod("validPhone", function(value, element, params) {
+		var re = new RegExp('^\\d{11}$');
+		if (params) {
+			value = parseInt(value)
+			console.log(value)
+			console.log(re.test(value))
+			return re.test(value);
+		}
+		return true;
+	});
+	}
+    })
+	function logcomplete(data){
+		if(data.status==1){
+			layer.alert(data.info, {icon: 6}, function(index){
+				layer.close(index);
+	 			window.location.href=data.url;
+				});
+			return false;
+		}else{
+			layer.alert(data.info, {icon: 6}, function(index){
+
+				layer.close(index);
+
+				});
+			return false;
+		}
+	}
+
+	/* 表单递交 */
+	$('#sign-course').click(function(e) {
+		e.preventDefault();
+		if ($('.sign-course-form').valid()) {
+
+			$.ajax({
+				url:"{:U('class/class_register_add')}",
+	            data:$('#form0').serialize(),
+				success: logcomplete, // 这是提交后的方法
+				dataType: 'json'
+			});
+
+
+		}
+
+	})
+
+	});
+
+
+</script>
+<include file="Common:footer"/>
+</body>
+</html>

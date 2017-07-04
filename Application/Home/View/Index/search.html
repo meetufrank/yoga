@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1,maximum-scale=1, user-scalable=no">
+	<title>生活的页面-搜索</title>
+	<include file="Common:top" />
+	<link rel="stylesheet" href="__PUBLIC__/yoga/search/css/bootstrap.min.css">
+    <link rel="stylesheet" href="__PUBLIC__/assets/css/slackck.css" />
+
+	<style>
+
+		a:hover{
+			text-decoration:none;
+		}
+		.marg_t_1{
+			margin-top:20px;
+		}
+		.search_bar{
+			height:88px;
+			padding:20px 0;
+			background:#f0ede7;
+		}
+		.search_list .keywords{
+			font-style:normal;
+			color:#f8a900;
+		}
+		.search_list .icons{
+			color: #f2ce77;
+		}
+		.search_list .icons span{
+			color: #cbcaca;
+			margin-right:5px;
+			margin-left:15px;
+		}
+	</style>
+</head>
+<body>
+	<div class="search_bar">
+	<form action="{:U('Index/search')}" method="post" id="form0">
+		<div class="container">
+			<div class="input-group input-group-lg">
+
+			  <input type="text" placeholder="" class="form-control" value="{$key}" name="key" id="key">
+			  <span class="input-group-addon"><a class="glyphicon glyphicon-search" href="#" id="search"></a></span>
+
+			</div>
+		</div>
+		</form>
+	</div>
+	<div class="container marg_t_1">
+		<!-- Nav tabs -->
+		<ul class="nav nav-tabs" role="tablist">
+		  <li role="presentation" class="active"><a href="#all" role="tab" data-toggle="tab">全部</a></li>
+		  <li role="presentation"><a href="#class" role="tab" data-toggle="tab">课程</a></li>
+		  <li role="presentation"><a href="#knowledge" role="tab" data-toggle="tab">知识</a></li>
+		  <li role="presentation"><a href="#activites" role="tab" data-toggle="tab">活动</a></li>
+		</ul>
+	</div>
+
+	<!-- Tab panes -->
+	<div class="tab-content" style="margin-top: 20px;">
+	  <div role="tabpanel" class="tab-pane active" id="all">
+	  	<div class="container">
+	  	<h6 class="text-muted">找到相关结果约{$allcount}个</h6>
+	  	<ul class="list-group search_list">
+	  	<foreach name="alldata" item="al">
+		  <li class="list-group-item">
+		  	<div class="pull-right icons hidden-sm hidden-xs">
+		  		<span class="glyphicon glyphicon-heart"></span>{$al.ad_savenum}
+		  		<span class="glyphicon glyphicon-thumbs-up"></span>{$al.ad_agreenum}
+		  		<span class="glyphicon glyphicon-eye-open"></span>{$al.ad_readnum}
+	  		</div>
+		    <a href="{$al.location_url}">[{$al.is_name}]{$al.ad_title}</a>
+		  </li>
+		  </foreach>
+
+		</ul>
+		</div>
+
+	   <div class="search_bar">
+			<div class="container">
+				{$allshow}
+	   		</div>
+	   </div>
+	  </div>
+
+	  <div role="tabpanel" class="tab-pane" id="activites">
+	  	<div class="container">
+	  	<h6 class="text-muted">找到相关结果约{$activecount}个</h6>
+	  	<ul class="list-group search_list">
+	  	<foreach name="activedata" item="ad">
+		  <li class="list-group-item">
+		  	<div class="pull-right icons hidden-sm hidden-xs">
+		  		<span class="glyphicon glyphicon-heart"></span>{$ad.ad_savenum}
+		  		<span class="glyphicon glyphicon-thumbs-up"></span>{$ad.ad_agreenum}
+		  		<span class="glyphicon glyphicon-eye-open"></span>{$ad.ad_readnum}
+	  		</div>
+		    <a href="{:U('Active/active_content',array('id'=>$ad['ad_id']))}">[活动]{$ad.ad_title}</a>
+		  </li>
+		  </foreach>
+
+		</ul>
+		</div>
+		<div class="search_bar">
+			<div class="container">
+				{$activeshow}
+	   		</div>
+	   </div>
+
+	  </div>
+	  <div role="tabpanel" class="tab-pane" id="class">
+	  	<div class="container">
+<h6 class="text-muted">找到相关结果约{$classcount}个</h6>
+	  	<ul class="list-group search_list">
+	  	<foreach name="classdata" item="mc">
+		  <li class="list-group-item">
+		  	<div class="pull-right icons hidden-sm hidden-xs">
+		  		<span class="glyphicon glyphicon-heart"></span>{$mc.mc_savenum}
+		  		<span class="glyphicon glyphicon-thumbs-up"></span>{$mc.mc_agreenum}
+		  		<span class="glyphicon glyphicon-eye-open"></span>{$mc.mc_readnum}
+	  		</div>
+		    <a href="{:U('Class/class_content',array('id'=>$mc['mc_id']))}">[课程]{$mc.mc_title}</a>
+		  </li>
+		  </foreach>
+
+		</ul>
+		</div>
+		<div class="search_bar">
+			<div class="container">
+				{$classshow}
+	   		</div>
+	   </div>
+</div>
+
+	  <div role="tabpanel" class="tab-pane" id="knowledge">
+	  	<div class="container">
+	  	    <h6 class="text-muted">找到相关结果约{$knowscount}个</h6>
+	  	<ul class="list-group search_list">
+	  	<foreach name="knowsdata" item="ms">
+		  <li class="list-group-item">
+		  	<div class="pull-right icons hidden-sm hidden-xs">
+		  		<span class="glyphicon glyphicon-heart"></span>{$ms.ms_savenum}
+		  		<span class="glyphicon glyphicon-thumbs-up"></span>{$ms.ms_agreenum}
+		  		<span class="glyphicon glyphicon-eye-open"></span>{$ms.ms_readnum}
+	  		</div>
+		    <a href="{:U('Knows/knows_content',array('id'=>$ms['ms_id']))}">[知识]{$ms.ms_title}</a>
+		  </li>
+		  </foreach>
+
+		</ul>
+		</div>
+		<div class="search_bar">
+			<div class="container">
+				{$knowsshow}
+	   		</div>
+	   </div>
+
+	  	</div>
+	  </div>
+
+	</div>
+	 </div>
+
+
+<script src="__PUBLIC__/yoga/search/js/jquery.min.js"></script>
+<script src="__PUBLIC__/yoga/search/js/bootstrap.min.js"></script>
+<script type="text/javascript">
+$('#search').click(function(e) {
+	e.preventDefault();
+	  $('#form0').submit();
+
+});
+</script>
+<include file="Common:footer" />
+</body>
+</html>

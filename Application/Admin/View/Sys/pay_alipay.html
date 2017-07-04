@@ -1,0 +1,179 @@
+	<include file='Common:header' />
+
+		<!-- /section:basics/navbar.layout -->
+		<div class="main-container" id="main-container">
+
+			<!-- #section:basics/sidebar -->
+
+	<include file='Common:left' />
+
+
+			<!-- /section:basics/sidebar -->
+			<div class="main-content">
+				<div class="main-content-inner">
+					<div class="page-content">
+
+                        
+                        
+                        <!--主题-->
+						<div class="page-header">
+							<h1>
+								您当前操作
+								<small>
+									<i class="ace-icon fa fa-angle-double-right"></i>
+									支付宝支付设置
+								</small>
+							</h1>
+						</div>
+						<div class="row">
+							<div class="col-xs-12">
+								<form class="form-horizontal" name="pay_alipay" id="pay_alipay" method="post" action="{:U('pay_alipay_run')}">
+                                <input type="hidden" name="pay_alipay_id" value="{$pay_alipay.pay_alipay_id}" />
+                                	<div class="form-group">
+										<label class="col-sm-2 control-label no-padding-right" for="form-field-1"> 支付方式名称 </label>
+										<div class="col-sm-10">
+											<input type="text" name="pay_alipay_name" id="pay_alipay_name" value="支付宝支付" readonly class="col-xs-10 col-sm-5" />
+										</div>
+									</div>
+                                    <div class="space-4"></div>
+                                    
+									<div class="form-group">
+										<label class="col-sm-2 control-label no-padding-right" for="form-field-1"> 支付方式描述 </label>
+										<div class="col-sm-10">
+											<textarea name="pay_alipay_des" id="pay_alipay_des" rows="5" class="col-xs-10 col-sm-5" id="sys_url">{$pay_alipay.pay_alipay_des}</textarea>
+										</div>
+									</div>
+                                    <div class="space-4"></div>
+
+									<div class="form-group">
+										<label class="col-sm-2 control-label no-padding-right" for="form-field-1"> 支付宝帐户 </label>
+										<div class="col-sm-10">
+											<input type="text" name="pay_alipay_account" id="pay_alipay_account" value="{$pay_alipay.pay_alipay_account}"  class="col-xs-10 col-sm-5" />
+                                            <span class="help-inline col-xs-12 col-sm-7">
+												<span class="middle" id="resthr"></span>
+											</span>
+										</div>
+									</div>
+                                    <div class="space-4"></div>
+
+									<div class="form-group">
+										<label class="col-sm-2 control-label no-padding-right" for="form-field-1"> 交易安全校验码 </label>
+										<div class="col-sm-10">
+                                            <input type="text" name="pay_alipay_code" id="pay_alipay_code" value="{$pay_alipay.pay_alipay_code}"  class="col-xs-10 col-sm-5" />
+									  </div>
+									</div>
+                                    <div class="space-4"></div>
+
+									<div class="form-group">
+										<label class="col-sm-2 control-label no-padding-right" for="form-field-1"> 合作者身份ID </label>
+										<div class="col-sm-10">
+											 <input type="text" name="pay_alipay_partnerid" id="pay_alipay_partnerid" value="{$pay_alipay.pay_alipay_code}"  class="col-xs-10 col-sm-5" />
+										</div>
+									</div>
+                                    <div class="space-4"></div>
+									
+									<div class="form-group">
+										<label class="col-sm-2 control-label no-padding-right" for="form-field-1"> 选择接口类型： </label>
+										<div class="col-sm-10">
+                                        <select name="pay_alipay_type"  class="col-sm-4" >
+                                        <option value="1" <if condition="$pay_alipay.pay_alipay_type eq 1">selected</if>>使用标准双接口</option>
+										<option value="2" <if condition="$pay_alipay.pay_alipay_type eq 2">selected</if>>使用担保交易接口</option>
+										<option value="3" <if condition="$pay_alipay.pay_alipay_type eq 3">selected</if>>使用即时到帐交易接口</option>
+                                        </select>
+                                        </div>
+									</div>
+									<div class="space-4"></div>
+									
+
+									<div class="clearfix form-actions">
+										<div class="col-md-offset-3 col-md-9">
+											<button class="btn btn-info" type="submit">
+												<i class="ace-icon fa fa-check bigger-110"></i>
+												保存
+											</button>
+
+											&nbsp; &nbsp; &nbsp;
+											<button class="btn" type="reset">
+												<i class="ace-icon fa fa-undo bigger-110"></i>
+												重置
+											</button>
+										</div>
+									</div>
+								</form>
+                        	</div>
+                        </div>
+									<div class="hr hr-24"></div>
+
+<include file='Common:header_nav' />
+
+					</div><!-- /.page-content -->
+				</div>
+			</div><!-- /.main-content -->
+
+
+<include file='Common:footer' />
+<script>
+
+$(function(){
+	$('#pay_alipay').ajaxForm({
+		beforeSubmit: checkForm, // 此方法主要是提交前执行的方法，根据需要设置
+		success: complete, // 这是提交后的方法
+		dataType: 'json'
+	});
+	
+	function checkForm(){
+		
+		if( '' == $.trim($('#pay_alipay_des').val())){
+			layer.alert('支付宝支付描述', {icon: 6}, function(index){
+ 			layer.close(index);
+			$('#pay_alipay_des').focus(); 
+			});
+			return false;
+		}
+		
+		if( '' == $.trim($('#pay_alipay_account').val())){
+			layer.alert('支付宝账号', {icon: 6}, function(index){
+ 			layer.close(index);
+			$('#pay_alipay_account').focus(); 
+			});
+			return false;
+		}
+		
+		if( '' == $.trim($('#pay_alipay_code').val())){
+			layer.alert('交易安全校验码', {icon: 6}, function(index){
+ 			layer.close(index);
+			$('#pay_alipay_code').focus(); 
+			});
+			return false;
+		}
+		
+		if( '' == $.trim($('#pay_alipay_partnerid').val())){
+			layer.alert('合作者身份ID', {icon: 6}, function(index){
+ 			layer.close(index);
+			$('#pay_alipay_partnerid').focus(); 
+			});
+			return false;
+		}
+		
+
+ }
+	function complete(data){
+		if(data.status==1){
+			layer.alert(data.info, {icon: 6}, function(index){
+ 			layer.close(index);
+			window.location.href=data.url;
+			});
+		}else{
+			layer.alert(data.info, {icon: 6}, function(index){
+ 			layer.close(index);
+			window.location.href=data.url;
+			});
+			return false;	
+		}
+	}
+ 
+});
+</script>
+
+	</body>
+</html>
