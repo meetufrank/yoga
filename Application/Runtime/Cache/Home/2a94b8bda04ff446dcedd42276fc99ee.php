@@ -122,7 +122,7 @@
   <?php if(is_array($classdata)): foreach($classdata as $key=>$cd): ?><div class="col-xs-4 delPadd">
       <div class="description description<?php echo $count_one;?> clearfix">
         <h2 class="descrip-title"><?php echo ($cd["ct_name"]); ?></h2>
-        <a class="m-descrip-btn" href="<?php echo U($cl['ct_url'],array('id'=>$cl['ct_id']));?>"><span class="image-wrapper">&nbsp;&nbsp;&nbsp;<img src="/yoga/Public/yoga/img/right2.png" alt=""></span><span class="image-text">更多</span></a>
+        <a class="m-descrip-btn" href="<?php echo U($cd['ct_url'],array('id'=>$cd['ct_id']));?>"><span class="image-wrapper">&nbsp;&nbsp;&nbsp;<img src="/yoga/Public/yoga/img/right2.png" alt=""></span><span class="image-text">更多</span></a>
       </div>
     </div>
     <?php $count_one++; endforeach; endif; ?>

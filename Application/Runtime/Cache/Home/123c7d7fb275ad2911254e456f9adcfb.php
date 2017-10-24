@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
- <link rel="stylesheet" type="text/css" href="/yoga/Public/yoga/js/jquery.webui-popover.min.css">
+ <link rel="stylesheet" type="text/css" href="/yoga/Public/yoga/js/jquery.webui-popover.min.css?v=1.1">
 <link rel="stylesheet" href="http://jquerymobile.com/demos/1.1.0/docs/_assets/css/jqm-docs.css"/>
 
 
@@ -166,13 +166,14 @@
   <div class="bottom-btn bottom-btn1" id="back">
     <a href="#"><img src="/yoga/Public/yoga/img/back.png" alt="">&nbsp;&nbsp;&nbsp;&nbsp;返回</a>
   </div>
-  <?php if($register_status == 1): ?><div class="bottom-btn bottom-btn2">
-    <a href="#" id="register"><img src="/yoga/Public/yoga/img/hand.png" alt="">&nbsp;&nbsp;&nbsp;&nbsp;我要报名</a>
-  </div>
+  <?php if($register_status == 1): ?><!-- <div class="bottom-btn bottom-btn2" >
+   <a href="#" id="register"><img src="/yoga/Public/yoga/img/hand.png" alt="">&nbsp;&nbsp;&nbsp;&nbsp;我要报名</a>
+  </div>-->
+
   <?php else: ?>
-  <div class="bottom-btn bottom-btn3">
+<!--  <div class="bottom-btn bottom-btn3">
     <a href="javascript:return false;" id="nore"><img src="/yoga/Public/yoga/img/hand.png" alt="">&nbsp;&nbsp;&nbsp;&nbsp;我要报名</a>
-  </div><?php endif; ?>
+  </div>--><?php endif; ?>
 </div>
 <script type="text/javascript" src="/yoga/Public/yoga/js/jquery-1.12.2.min.js"></script>
 

@@ -118,14 +118,17 @@
 
     <div class="knowlg-detail-content">
         <p style="border:1px solid #DCDCDC;line-height:30px;padding-left:10px;padding-top:5px;padding-right:10px;padding-bottom:5px;"><span style="font-weight:bolder;">简介:</span><span style="color:#A9A9A9;"><?php echo ($active["ad_say"]); ?></span></p>
-        <div class="ad_content"><?php echo ($active["news_content_body"]); ?></div>
+        <div class="ad_content"></div>
     </div>
 
     <script src="/yoga/Public/ueditor/ueditor.config.js" type="text/javascript"></script>
     <script src="/yoga/Public/ueditor/ueditor.all.js" type="text/javascript"></script>
 
     <script type="text/javascript">
-        uParse('.ad_content',{rootPath: '/yoga/Public/ueditor/'});
+          var str="<?php echo ($active["news_content_body"]); ?>";
+
+
+          $(".ad_content").html( UE.utils.html( str ) );
       </script>
     <div class="knowlg-detail-action">
       <!-- 修改a便签内的data-content属性可更换二维码 -->
