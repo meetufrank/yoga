@@ -2,7 +2,7 @@
 namespace Home\Controller;
 use Think\Controller;
 use Think\Model;
-
+use Com\FxApi;
 
 class ClassController extends Controller {
 
@@ -83,7 +83,12 @@ class ClassController extends Controller {
         $ct_type=M('class_type')->where(array('ct_id'=>$data['mc_type']))->getField('ct_type_one');
 
 
-
+        //分享二维码
+        $jssdk = new FxApi(C('APPID'), C('AppSECRET'));
+        $signPackage = $jssdk->GetSignPackage();
+        $this->assign('signPackage', $signPackage);
+        $this->assign('drumpurl', 'http://'.$_SERVER['HTTP_HOST'].__SELF__.$_SERVER['QUERY_STRING']); //当前链接
+        $this->assign('imgurl', 'http://'.$_SERVER['HTTP_HOST'].'/Public'); //微信分享图片链接前缀
 
         $this->assign('class',$data);
         $this->assign('agree',$status);

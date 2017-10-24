@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
- <link rel="stylesheet" type="text/css" href="__PUBLIC__/yoga/js/jquery.webui-popover.min.css">
+ <link rel="stylesheet" type="text/css" href="__PUBLIC__/yoga/js/jquery.webui-popover.min.css?v=1.2">
 <link rel="stylesheet" href="http://jquerymobile.com/demos/1.1.0/docs/_assets/css/jqm-docs.css"/>
 
 
@@ -111,13 +111,14 @@
     <a href="#"><img src="__PUBLIC__/yoga/img/back.png" alt="">&nbsp;&nbsp;&nbsp;&nbsp;返回</a>
   </div>
   <if condition="$register_status eq 1">
-  <div class="bottom-btn bottom-btn2">
-    <a href="#" id="register"><img src="__PUBLIC__/yoga/img/hand.png" alt="">&nbsp;&nbsp;&nbsp;&nbsp;我要报名</a>
-  </div>
+ <!-- <div class="bottom-btn bottom-btn2" >
+   <a href="#" id="register"><img src="__PUBLIC__/yoga/img/hand.png" alt="">&nbsp;&nbsp;&nbsp;&nbsp;我要报名</a>
+  </div>-->
+
   <else/>
-  <div class="bottom-btn bottom-btn3">
+<!--  <div class="bottom-btn bottom-btn3">
     <a href="javascript:return false;" id="nore"><img src="__PUBLIC__/yoga/img/hand.png" alt="">&nbsp;&nbsp;&nbsp;&nbsp;我要报名</a>
-  </div>
+  </div>-->
   </if>
 </div>
 <script type="text/javascript" src="__PUBLIC__/yoga/js/jquery-1.12.2.min.js"></script>
@@ -316,5 +317,91 @@ var realWidth=$(".mc_content img").attr("width");   //图片实际宽度
     });
 </script>
 <include file="Common:footer"/>
+<script src="http://res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
+<script>
+    wx.config({
+        debug: false,
+        appId: '{$signPackage.appId}',
+        timestamp: {$signPackage.timestamp},
+        nonceStr: '{$signPackage.nonceStr}',
+        signature: '{$signPackage.signature}',
+        jsApiList: [
+            // 所有要调用的 API 都要加到这个列表中
+            'checkJsApi',
+            'openLocation',
+            'getLocation',
+            'onMenuShareTimeline',
+            'onMenuShareAppMessage',
+            'onMenuShareQQ',
+            'onMenuShareQZone'
+          ]
+    });
+    
+    wx.ready(function () {
+        wx.onMenuShareAppMessage({
+          title: '{$class.mc_title}',
+          desc: '{$class.mc_say}',
+          link: '{$drumpurl}',
+          imgUrl: '{$imgurl}{$class.mc_photo}',
+          trigger: function (res) {
+            // 不要尝试在trigger中使用ajax异步请求修改本次分享的内容，因为客户端分享操作是一个同步操作，这时候使用ajax的回包会还没有返回
+            // alert('用户点击发送给朋友');
+          },
+          success: function (res) {
+            // alert('已分享');
+          },
+          cancel: function (res) {
+            // alert('已取消');
+          },
+          fail: function (res) {
+          // alert(JSON.stringify(res));
+          }
+        });
+
+        wx.onMenuShareTimeline({
+          title: '{$class.mc_title}',
+          link: '{$drumpurl}',
+          imgUrl: '{$imgurl}{$class.mc_photo}',
+          trigger: function (res) {
+            // 不要尝试在trigger中使用ajax异步请求修改本次分享的内容，因为客户端分享操作是一个同步操作，这时候使用ajax的回包会还没有返回
+            // alert('用户点击分享到朋友圈');
+          },
+          success: function (res) {
+           //alert('已分享');
+          },
+          cancel: function (res) {
+            // alert('已取消');
+          },
+          fail: function (res) {
+            // alert(JSON.stringify(res));
+          }
+        });
+        wx.onMenuShareQQ({
+    title: '{$class.mc_title}',
+          desc: '{$class.mc_say}',
+          link: '{$drumpurl}',
+          imgUrl: '{$imgurl}{$class.mc_photo}',
+    success: function () { 
+       // 用户确认分享后执行的回调函数
+    },
+    cancel: function () { 
+       // 用户取消分享后执行的回调函数
+    }
+  });
+  wx.onMenuShareQZone({
+    title: '{$class.mc_title}',
+          desc: '{$class.mc_say}',
+          link: '{$drumpurl}',
+          imgUrl: '{$imgurl}{$class.mc_photo}',
+    success: function () { 
+       // 用户确认分享后执行的回调函数
+    },
+    cancel: function () { 
+        // 用户取消分享后执行的回调函数
+    }
+});
+});
+</script>
+
 </body>
 </html>

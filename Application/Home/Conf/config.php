@@ -1,7 +1,7 @@
 <?php
 return array (
 
-    'HM_PAGENUM'=> 1,//除个人中心外每次加载条数
+    'HM_PAGENUM'=> 10,//除个人中心外每次加载条数
     'PS_PAGENUM'=> 3,//个人中心每次加载条数
     'LIST_TITLE'=>25,  //列表页标题显示字数
     'LIST_SAY'=>30,  //列表页简介显示字数
@@ -13,7 +13,8 @@ return array (
     'PERSON_TITLE'=>20,  //个人中心页标题显示字数
     'PERSON_ADDRESS'=>25,//个人中心页地址显示字数
     'CLASS_ADDRESS'=>6,  //列表页面地址显示字数
-
+    'APPID'=>'wxb5aec13c030a530b',   //微信公众号appid
+    'AppSECRET'=>'2232d4acc3612e530f0ccc311c72d68c'//微信公众号appsecret
 
 );
 
